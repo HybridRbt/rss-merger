@@ -1,0 +1,4 @@
+feedparser
+jieba
+scikit-learn
+python-Levenshtein

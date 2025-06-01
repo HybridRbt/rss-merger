@@ -272,9 +272,12 @@ class RSSMerger:
 def main():
     # 定义RSS源
     rss_feeds = [
-        {"name": "爱范儿", "url": "https://appd.top/feed/ifanr"},
-        {"name": "少数派", "url": "https://appd.top/feed/sspai"},
-        {"name": "极客公园", "url": "https://appd.top/feed/geekpark"}
+        {"name": "Readhub早报", "url": "https://appd.top/feed/readhub"},
+        {"name": "8点1氪", "url": "https://appd.top/feed/kr36"},
+        {"name": "科技昨夜今晨", "url": "https://appd.top/feed/ithome"},
+        {"name": "ifanr早报", "url": "https://appd.top/feed/ifanr"},
+        {"name": "派早报", "url": "https://appd.top/feed/sspai"},
+        {"name": "极客早知道", "url": "https://appd.top/feed/geekpark"}
     ]
     
     # 创建合并器

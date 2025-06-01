@@ -24,7 +24,7 @@ jobs:
           
       - name: Run RSS merger
         run: |
-          python github_rss_merger.py
+          python topic_rss_merger_optimized.py
           
       - name: Commit and push if changed
         run: |

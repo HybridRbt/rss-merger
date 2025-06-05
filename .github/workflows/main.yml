@@ -2,8 +2,8 @@ name: Update RSS Feed
 
 on:
   schedule:
-    # 每天运行一次 (中国时间上午10:00，对应UTC时间02:00)
-    - cron: '0 2 * * *'
+    # 美国中部时间晚上11:00 (UTC-5:00) = UTC时间早上4:00
+    - cron: '0 4 * * *'
   workflow_dispatch:     # 允许手动触发
 
 jobs:
@@ -23,14 +23,14 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
           
-      - name: Run RSS merger
+      - name: Run RSS aggregator
         run: |
-          python topic_rss_merger_optimized.py
+          python simplified_rss_aggregator.py
           
       - name: Commit and push if changed
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
-          git add -f topic_merged_rss_optimized.xml
-          git commit -m "Update RSS feed" || echo "No changes to commit"
+          git add -f final_rss.xml final_daily_news.html
+          git commit -m "Update RSS feed and daily news" || echo "No changes to commit"
           git push

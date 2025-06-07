@@ -6,6 +6,8 @@
 - 仅保留爱范儿、少数派和极客公园三个源
 - 对少数派内容进行特殊处理（去重或附加到末尾）
 - 生成平铺式话题列表输出
+- 修复RSS链接指向GitHub Pages实际地址
+- 添加日期过滤功能，只保留当天发布的内容
 """
 
 import feedparser
@@ -24,16 +26,22 @@ from xml.dom import minidom
 from bs4 import BeautifulSoup
 
 class FinalRSSAggregator:
-    def __init__(self, rss_feeds, output_file="enhanced_rss.xml", html_output_file="daily_news.html"):
+    def __init__(self, rss_feeds, output_file="enhanced_rss.xml", html_output_file="daily_news.html", github_username=None, github_repo=None):
         self.rss_feeds = rss_feeds
         self.output_file = output_file
         self.html_output_file = html_output_file
+        self.github_username = github_username
+        self.github_repo = github_repo
         self.vectorizer = TfidfVectorizer(tokenizer=self._tokenize, min_df=1, max_df=0.95)
         self.topic_similarity_threshold = 0.55
         self.time_window = 3
         self.stopwords = self._load_stopwords()
         os.makedirs(os.path.dirname(os.path.abspath(output_file)) if os.path.dirname(output_file) else ".", exist_ok=True)
         os.makedirs(os.path.dirname(os.path.abspath(html_output_file)) if os.path.dirname(html_output_file) else ".", exist_ok=True)
+        
+        # 设置当天日期范围，用于过滤内容
+        self.today = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+        self.tomorrow = self.today + timedelta(days=1)
 
     def _load_stopwords(self):
         # 常见中文停用词
@@ -62,11 +70,28 @@ class FinalRSSAggregator:
                 feed = feedparser.parse(feed_info['url'])
                 for entry in feed.entries:
                     standardized_entry = self._standardize_entry(entry, feed_info['name'])
-                    all_entries.append(standardized_entry)
-                print(f"成功获取 {feed_info['name']} 的 {len(feed.entries)} 条内容")
+                    
+                    # 只保留当天发布的内容
+                    if self._is_published_today(standardized_entry):
+                        all_entries.append(standardized_entry)
+                        
+                print(f"成功获取 {feed_info['name']} 的当天内容")
             except Exception as e:
                 print(f"获取 {feed_info['name']} 内容时出错: {str(e)}")
+        
+        print(f"总共获取了 {len(all_entries)} 条当天发布的内容")
         return all_entries
+
+    def _is_published_today(self, entry):
+        """检查条目是否在当天发布"""
+        if not entry.get('published_parsed'):
+            # 如果没有日期信息，默认保留
+            return True
+            
+        pub_time = datetime.fromtimestamp(time.mktime(entry['published_parsed']))
+        
+        # 检查是否在今天的日期范围内
+        return self.today <= pub_time < self.tomorrow
 
     def _standardize_entry(self, entry, source):
         published = entry.get('published', '')
@@ -539,6 +564,12 @@ class FinalRSSAggregator:
         
         return merged_topics, unique_sspai_topics
 
+    def get_github_pages_url(self):
+        """获取GitHub Pages URL"""
+        if self.github_username and self.github_repo:
+            return f"https://{self.github_username}.github.io/{self.github_repo}"
+        return None
+
     def generate_flat_html(self, main_topics, unique_sspai_topics):
         """生成平铺式HTML文章，将独特少数派内容附加到末尾"""
         today = datetime.now().strftime("%Y年%m月%d日")
@@ -566,6 +597,12 @@ class FinalRSSAggregator:
 </head>
 <body>
     <h1>每日新闻聚合 - {today}</h1>
+"""
+        
+        # 添加日期过滤说明
+        html += f"""<div class="topic-content">
+    <p><strong>说明</strong>：本页面仅包含 {today} 发布的内容。</p>
+</div>
 """
         
         # 按发布时间排序主要话题
@@ -625,6 +662,7 @@ class FinalRSSAggregator:
         html += f"""
     <div class="footer">
         <p>内容自动聚合于 {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}</p>
+        <p>仅包含 {today} 发布的内容</p>
     </div>
 </body>
 </html>
@@ -641,9 +679,18 @@ class FinalRSSAggregator:
         """重构RSS，将独特少数派内容附加到主条目"""
         all_content_html = self.generate_flat_html(main_topics, unique_sspai_topics)
         today = datetime.now().strftime("%Y年%m月%d日")
+        
+        # 获取GitHub Pages URL或使用默认值
+        github_pages_url = self.get_github_pages_url()
+        if github_pages_url:
+            html_url = f"{github_pages_url}/{self.html_output_file}"
+        else:
+            # 如果没有提供GitHub用户名和仓库名，使用相对路径
+            html_url = self.html_output_file
+        
         main_item = {
             'title': f"每日新闻聚合 - {today}",
-            'link': f"https://example.com/daily_news_{datetime.now().strftime('%Y%m%d')}.html",
+            'link': html_url,  # 使用实际的GitHub Pages URL
             'summary': all_content_html,
             'published': datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0800"),
             'published_parsed': time.localtime(),
@@ -655,8 +702,16 @@ class FinalRSSAggregator:
     def generate_rss(self, items):
         rss = ET.Element("rss", version="2.0")
         channel = ET.SubElement(rss, "channel")
+        
+        # 获取GitHub Pages URL或使用默认值
+        github_pages_url = self.get_github_pages_url()
+        if github_pages_url:
+            channel_link = github_pages_url
+        else:
+            channel_link = "."  # 使用相对路径
+            
         ET.SubElement(channel, "title").text = "每日新闻聚合"
-        ET.SubElement(channel, "link").text = "https://example.com/daily_news"
+        ET.SubElement(channel, "link").text = channel_link
         ET.SubElement(channel, "description").text = "多源新闻内容聚合，已进行话题级别去重"
         ET.SubElement(channel, "language").text = "zh-cn"
         ET.SubElement(channel, "lastBuildDate").text = datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0800")
@@ -710,10 +765,21 @@ def main():
         {"name": "少数派", "url": "https://appd.top/feed/sspai"}, # 少数派仍然获取，但会特殊处理
         {"name": "极客公园", "url": "https://appd.top/feed/geekpark"}
     ]
+    
+    # 请替换为您的GitHub用户名和仓库名
+    github_username = "hybridrbt"  # 例如: "johndoe"
+    github_repo = "rss-merger"          # 例如: "rss-merger"
+    
+    # 如果您知道自己的GitHub用户名和仓库名，请取消下面两行的注释并填入正确的值
+    # github_username = "实际用户名"
+    # github_repo = "实际仓库名"
+    
     aggregator = FinalRSSAggregator(
         rss_feeds,
         output_file="final_rss.xml",
-        html_output_file="final_daily_news.html"
+        html_output_file="final_daily_news.html",
+        github_username=github_username,
+        github_repo=github_repo
     )
     rss_file, html_file = aggregator.process()
     print(f"RSS聚合与去重完成，结果保存在: {rss_file} 和 {html_file}")

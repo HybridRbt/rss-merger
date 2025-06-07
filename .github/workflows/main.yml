@@ -25,7 +25,7 @@ jobs:
           
       - name: Run RSS aggregator
         run: |
-          python simplified_rss_aggregator.py
+          python fixed_rss_aggregator.py
           
       - name: Commit and push if changed
         run: |

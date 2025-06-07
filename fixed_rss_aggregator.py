@@ -738,8 +738,8 @@ def main():
     ]
     
     # 请替换为您的GitHub用户名和仓库名
-    github_username = "YOUR_GITHUB_USERNAME"  # 例如: "johndoe"
-    github_repo = "YOUR_GITHUB_REPO"          # 例如: "rss-merger"
+    github_username = "hybridrbt"  # 例如: "johndoe"
+    github_repo = "rss-merger"          # 例如: "rss-merger"
     
     # 如果您知道自己的GitHub用户名和仓库名，请取消下面两行的注释并填入正确的值
     # github_username = "实际用户名"

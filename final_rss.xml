@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>每日新闻聚合</title>
+    <link>https://hybridrbt.github.io/rss-merger</link>
+    <description>多源新闻内容聚合，已进行话题级别去重</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 07 Jun 2025 02:20:06 +0800</lastBuildDate>
+    <generator>Final RSS Aggregator</generator>
+    <item>
+      <title>每日新闻聚合 - 2025年06月07日</title>
+      <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
+      <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;zh-CN&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+    &lt;title&gt;每日新闻聚合 - 2025年06月07日&lt;/title&gt;
+    &lt;style&gt;
+        body { font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #f9f9f9; }
+        h1 { text-align: center; color: #2c3e50; margin-bottom: 30px; padding-bottom: 10px; border-bottom: 1px solid #eee; }
+        h2 { color: #3498db; margin-top: 30px; padding-bottom: 8px; border-bottom: 1px solid #eee; }
+        .topic-content { background-color: white; padding: 15px; margin-bottom: 20px; border-radius: 5px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+        .meta { color: #7f8c8d; font-size: 0.9em; margin-bottom: 10px; }
+        a { color: #3498db; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        .footer { text-align: center; margin-top: 50px; color: #7f8c8d; font-size: 0.9em; }
+        .toc { background-color: white; padding: 15px; margin-bottom: 30px; border-radius: 5px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+        .toc ul { list-style-type: none; padding-left: 20px; }
+        .toc li { margin-bottom: 5px; }
+        .sspai-section { margin-top: 50px; padding-top: 30px; border-top: 2px dashed #ccc; }
+        .sspai-topic { background-color: #f0f0f0; padding: 15px; margin-bottom: 20px; border-radius: 5px; border-left: 5px solid #ccc; }
+    &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;h1&gt;每日新闻聚合 - 2025年06月07日&lt;/h1&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;说明&lt;/strong&gt;：本页面仅包含 2025年06月07日 发布的内容。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class='toc'&gt;
+&lt;h2&gt;目录&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#_______________&quot;&gt;我国卫星互联网低轨卫星发射成功&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#____iPhone_XS_XR_____iOS_26&quot;&gt;消息称 iPhone XS/XR 将无缘 iOS 26&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#______________Pura_____&quot;&gt;华为「一底双长焦」专利公布，Pura 新机搭载&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#Google_Gemini___________&quot;&gt;Google Gemini 新版登顶大模型竞技场&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#________________CEO____HR____&quot;&gt;「员工高烧请假被辱骂」涉事公司 CEO 回应：HR 已解雇&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#____________&quot;&gt;高德发布智能眼镜解决方案&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#________________&quot;&gt;宇树科技创始人回应机器人跳舞格斗&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#Figure____________&quot;&gt;Figure 机器人分拣快递视频曝光&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#__Google_DeepMind_CEO_AI____________&quot;&gt;💡 Google DeepMind CEO：AI 或能让人变得不那么自私&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#__________3C___&quot;&gt;三星首款三折叠通过 3C 认证&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#PixVerse________AI___&quot;&gt;PixVerse 国内版「拍我 AI」上线&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#____hi_lab__________&quot;&gt;小红书 hi lab 首次开源文本大模型&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#________________MiniCPM_4_0_&quot;&gt;面壁智能发布全新端侧高性能模型「MiniCPM 4.0」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#__Uzi__________________G__&quot;&gt;以 Uzi 职业生涯为灵感，奔驰打造专属纯电 G 级&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#_________________&quot;&gt;小马智行第七代自动驾驶车辆广深开跑&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#lululemon_2025___Q1_______24____&quot;&gt;lululemon：2025 年 Q1 全球营收达 24 亿美元&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#_______________&quot;&gt;《名侦探柯南：独眼的残像》定档&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#One_Fun_Thing________QQ_____&quot;&gt;One Fun Thing｜全球首位满级 QQ 用户诞生&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#____________&quot;&gt;周末看什么｜《四月物语》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#______________&quot;&gt;买书不读指南｜《袭击面包店》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#____________&quot;&gt;游戏推荐｜《车祸模拟器》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#________340_______________&quot;&gt;一天内财富缩水 340 亿美元 马斯克先向特朗普低头&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#______________________________&quot;&gt;比亚迪李云飞：有些企业开发布会必拉踩别人，这种流量会反噬自己&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#________________________&quot;&gt;雷军：小米高阶驾驶培训将在全国免费培训一万名车主&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#___________TikTok______&quot;&gt;特朗普或将再次延长给 TikTok 的最后期限&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#PC__________Windows_________________PC&quot;&gt;PC 手机互通更进一步！Windows 开始菜单一点：手机屏幕瞬间飞上 PC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#____AI___________&quot;&gt;王自如 AI 创业 坦言「来钱快」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#_____________________________&quot;&gt;卓驭（原大疆车载）被曝获北汽产投与广汽资本投资，合计数亿元&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id_2025________________8___15______&quot;&gt;2025 世界人形机器人运动会开启报名，8 月 15 日北京开幕&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#_______________3C_________25W___&quot;&gt;国行版三星首款三折叠手机通过 3C 认证，显示支持 25W 充电&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#___MateBook_Fold_________&quot;&gt;华为 MateBook Fold 非凡大师正式开售&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#_______________________&quot;&gt;复旦科学家通过脑机接口，使失明动物恢复视觉功能&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#____________________________&quot;&gt;又能见到咪普利老师 多个线索暗示《健身环大冒险》要出续作&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;_______________&quot;&gt;我国卫星互联网低轨卫星发射成功&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.ifanr.com/1626415&quot; target=&quot;_blank&quot;&gt;爱范儿&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;央视新闻消息，今天，中国太原卫星发射中心使用长征六号改运载火箭，成功将卫星互联网低轨 04 组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。 据了解，此次任务是长征系列运载火箭的第 580 次飞行，同时这也是中国星网「国网（GW）星座」第四次批量组网发射。&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;____iPhone_XS_XR_____iOS_26&quot;&gt;消息称 iPhone XS/XR 将无缘 iOS 26&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.ifanr.com/1626415&quot; target=&quot;_blank&quot;&gt;爱范儿&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;近日，MacRumors 援引消息人士透露，即将发布的新版 iOS（或命名为 iOS 26）将兼容 iPhone 11 及更新机型，也就是说，iPhone XS/XR 等老设备或无缘本次 iOS 升级。 据报道，若消息准确，iOS 18 将会成为 iPhone XS 系列、iPhone XR 支持的最终版本。虽然上述设备或停止大版本更新支持，但苹果仍然会为其提供安全更新，与此前停更的老设备一致。 值得一提的是，MacRumors 指出，援引的消息人士在去年准确地泄露了 iOS 18 的兼容性信息，因此本次消息的真实性很高。 据悉，北京时间 6 月 10 日，苹果将举办一年一度的开发者大会 WWDC25，届时新一代 iOS、iPadOS、macOS 等一众苹果新系统将会亮相。 而据多方消息显示，新一代 iOS 将贯彻此前爆料的「Solarium」（阳光房）设计语言，并且新版操作系统命名规则将变为「发布年份+1」的形式。 苹果 WWDC25 即将到来， 我们将在 Apple Park 现场给大家带来最新报道，敬请关注。 （爱范儿/APPSO 图&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;______________Pura_____&quot;&gt;华为「一底双长焦」专利公布，Pura 新机搭载&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.ifanr.com/1626415&quot; target=&quot;_blank&quot;&gt;爱范儿&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;据国家知识产权局信息，6 月 6 日，华为技术有限公司的「光学镜头、摄像头模组及电子设备」发明专利正式公布，申请日为 2024 年 6 月 28 日。 具体来看，本次华为的专利技术涉及光学镜头技术领域，提供一种光学镜头、摄像头模组及电子设备，能够解决相关技术中的摄像头模组的占用空间大，导致电子设备的厚度较大的问题。 据悉，华为本次公布的影像专利为「一底双长焦」结构，旗下 Pura 80 系列新机将率先使用该技术。从公布的内容来看，该技术既可以实现双长焦的画质突破，同时也可以有效减小模组体积。 行业人士分析，该项专利所展示的摄像头结构技术设计水平高、制造工艺难度大，成本造价高昂，行业短期内难以复刻。 华为 Pura 80 系列及全场景新品发布会将在 6 月 11 日举行。&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;Google_Gemini___________&quot;&gt;Google Gemini 新版登顶大模型竞技场&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.ifanr.com/1626415&quot; target=&quot;_blank&quot;&gt;爱范儿&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;日前，Google Gemini 2.5 Pro 宣布推出新版本「Gemini 2.5 Pro(0605)」。 性能表现上，Gemini 2.5 Pro 新版在代码、推理等任务表现更强： 据 Google 介绍，本次 (0605) 版本是基于今年 I/O 大会上公布的 (0506) 版本所构建，并且新版有望成为 Gemini 2.5 Pro 的正式稳定版「出道」。 另外，Google 还给新版 2.5 Pro 进行了回答改进，目前它可以提供更富有创意且格式更优的答复。&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;________________CEO____HR____&quot;&gt;「员工高烧请假被辱骂」涉事公司 CEO 回应：HR 已解雇&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.ifanr.com/1626415&quot; target=&quot;_blank&quot;&gt;爱范儿&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;据凤凰网科技报道，6 月 5 日，天眼查在其社交媒体账号发布图文显示，有网友发烧 37.9 度，坚持工作后因身体不适向 HR 提出请假 1 小时，结果遭到对方上述辱骂，并删除网友工作账号，称其绩效工资为 0。 据了解，本次涉事公司为愿景未来（上海）传媒科技有限公司。报道指出，在杭州，愿景娱乐因为公司体量较大，且旗下已有朱梓骁、马可等直播电商红人和艺人。 除了上述事件，还有网友表示，涉事的愿景娱乐对待旗下主播，存在无故克扣保底工资，承诺帮主播运营的账户不兑现等不良行为。 昨日，愿景娱乐 CEO 关明贺通过报道表示，涉事 HR 已被解雇，发帖员工也被妥当安排，对于具体安排举措，对方暂未告知。上述人士表示，做好相应的工作后，公司会发布声明，对于具体发布时间，对方暂未明确回应。 被问及克扣员工工资和不兑现运营承诺等事情时，关明贺表示此为不实信息，会视情况依法维权。 据了解，2024 年愿景娱乐曾因为项目亏损，拖欠员工两个月工资不予发放。 而据应聘过该公司的人透露，愿景娱乐的直播运营岗位一直处于招聘状态，通常该岗位需要昼夜颠倒、强度非常大，并表示「招聘没断过」。 另据直播电商从业者透露，员工不太会通过劳动仲裁方式维权，具体原因是相关维权经历会被各司 HR 在其共同群聊中获悉，影响维权者后续求职。&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;____________&quot;&gt;高德发布智能眼镜解决方案&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.ifanr.com/1626415&quot; target=&quot;_blank&quot;&gt;爱范儿&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;6 月 5 日，高德地图旗下高德开放平台正式发布智能眼镜解决方案，标志着其在空间计算与智能穿戴领域的技术创新迈入新阶段。 据悉，高德地图依托 AI 大模型、北斗高精定位技术，并应用 Planner-Executor 创新技术理念和架构，率先推出全球首个集「感知、规划、执行、表达」于一体的全链路 AI 导航智能体（NaviAgent）。 目前，高德已与 Rokid、雷鸟创新、逸文、星纪魅族等 AR 行业领军企业达成战略合作，共同推出基于智能眼镜的导航智能体应用，建设「AI+AR」导航新生态。 通过深度场景化的 Agent 能力，高德智能眼镜解决方案实现了本地生活服务与导航功能的深度融合。并且还支持基于地图导航生态与大规模数据基座的高阶导航 HUD 展示。 未来，高德将继续深化与行业伙伴的合作，优化 AR 导航技术的精准度与适用场景，探索车载 HUD、工业 AR 等更多创新应用。通过联动手机、车机、手表、眼镜等多端设备，推动智能穿戴设备成为下一代人机交互的重要入口。&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;________________&quot;&gt;宇树科技创始人回应机器人跳舞格斗&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.ifanr.com/1626415&quot; target=&quot;_blank&quot;&gt;爱范儿&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;据界面新闻消息，6 月 6 日，宇树科技创始人王兴兴在北京智源大会现场，回应了关于机器人打格斗以及跳舞的争议。其表示： 参加格斗比赛或者是让机器人跳舞，核心目的是希望通过技术使机器人可以做全身动作。 王兴兴称，「我们的终极目标是希望在 AI 技术的发展之下帮助人类去从事一些辛苦的工作，在终极目标没有实现之前，通过参加一些表演来给大家展示一些机器人真实的发展情况，并且产生一部分的商业价值。」 今年春晚舞台上，宇树科技的人形机器人进行了演出，反响热烈；5 月 25 日，全球首个以人形机器人为参赛主体的格斗竞技赛事在杭州开赛，其中比赛通过实时操作宇树 G1 机器人展开了多轮格斗比拼。 谈到未来机器人的形态，王兴兴认为，未来 AGI 真正实现后，机器人的形态会千奇百态，而不一定是人形机器人。 同时王兴兴也表示，在当下，AI 主要基于人的数据进行采集或训练，尤其上半身保持跟人的动作相对一致会更方便。所以长得像人的机器人训练、落地各方面还是会占很大优势。&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;Figure____________&quot;&gt;Figure 机器人分拣快递视频曝光&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.ifanr.com/1626415&quot; target=&quot;_blank&quot;&gt;爱范儿&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;日前，Figure 创始人 Brett Adcock 公布了一段旗下人形机器人 Figure 02 的快递分拣视频。 从视频中可以看出，Figure 02 能够流畅、灵活地控制手指运动，并且会将凑成一团的包裹抚平，甚至还会跟人类一样「空翻」箱子。 据 Brett 介绍，这一切动作都由 Figure 研发的通用 VLA（视觉-语言-行动）模型「Helix」进行驱动完成。 今年 2 月，在与 OpenAI 终止合作后，Figure 公布了「Helix」模型。该模型融合了感知、语言理解和学习控制能力，旨在解决机器人技术中长期存在的多个难题。亮点方面：&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;__Google_DeepMind_CEO_AI____________&quot;&gt;💡 Google DeepMind CEO：AI 或能让人变得不那么自私&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.ifanr.com/1626415&quot; target=&quot;_blank&quot;&gt;爱范儿&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;据 AndroidHeadlines 报道，Google DeepMind CEO Demis Hassabis 日前提出了一个新观点：AI 能够培养人类更强的理解力和同情心，并让人类变得不那么自私。 Demis 表示，人类心中的自私往往来自于信息的获取不全和忽视他人利益所导致。而 AI 的海量资源，以及 AI 所带来更有效的沟通，都能让我们培养出更好的同理心，从而减少以自我为中心的想法。 Demis 还指出，AI 不仅能够帮助我们开启「上帝视角」从而减少以自我为中心的想法，还能够通过全面的数据内容，令我们「切身感受」他人的痛苦，而这也有希望能够促进更包容、更少自私心理的人际互动。 报道提到，在 Demis 看来，随着 AI 不断发展，在各领域不断探索，我们能够通过这一技术去提升问题解决效率，甚至是扩展认知边界，最终，通过 AI 解锁人类同理心和集体性的进步新高度。&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;__________3C___&quot;&gt;三星首款三折叠通过 3C 认证&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.ifanr.com/1626415&quot; target=&quot;_blank&quot;&gt;爱范儿&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;据中国质量认证中心消息，三星(中国)投资有限公司一款名为「SM-F9680」于 6 月 5 日通过 3C 认证。 信息显示，SM-F9680 最高支持约 25W 的充电功率，且不带充电适配器销售。 此前多方消息称，SM-F9680 为三星首款三折叠手机。据悉，三星该款三折叠产品仅提供韩国和中国两个地区版本。 新机发布日期方面，据媒体推测，三星新机通常会在数据库注册后的 6-7 个月内发布，因此本次三折叠产品有望在今年 10 月亮相。（GSMA 数据显示，上述机型于今年 3 月 31 日注册）&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;PixVerse________AI___&quot;&gt;PixVerse 国内版「拍我 AI」上线&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.ifanr.com/1626415&quot; target=&quot;_blank&quot;&gt;爱范儿&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;6 月 6 日，爱诗科技宣布，旗下 PixVerse 国内版「拍我 AI」正式上线。 官方表示，「拍我 AI」网页端和移动端同步上线，并且支持最新发布的 V4.5 版本。 据悉，爱诗科技在今年 2 月 24 日推出 PixVerse V4 版本。该版本中，能够实现智能生成视频音效、一键匹配人声台词、多种视频风格实时重绘等多种功能。据悉，PixVerse V4 的 AI 视频生成速度最快可达 5s。同时，V4 版本底模大幅度升级，拥有良好的物理规律和人物情绪表现。 今年 5 月，PixVerse 更新了 V4.5 版本，支持了多达 20 种运镜方式，同时引入了多主体参考融合功能，能够将人物与背景参考图像自然融合。&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;____hi_lab__________&quot;&gt;小红书 hi lab 首次开源文本大模型&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.ifanr.com/1626415&quot; target=&quot;_blank&quot;&gt;爱范儿&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;昨日，小红书 hi lab（Humane Intelligence Lab，人文智能实验室）团队首次开源文本大模型「dots.llm1」。 据介绍，dots.llm1 是一个大规模的 Mixture of Experts(MoE) 语言模型，在总共 1420 亿参数中激活 140 亿参数，借助精心设计且高效的数据处理流程，dots.llm1 在训练 11.2T token 高质量数据后，达到了可与 Qwen2.5-72B 相媲美的性能。 值得一提的是，dots.llm1 是基于 Decoder-only Transformer 的 MoE 模型，在架构方面主要参考 DeepSeek 系列来设计实现。 另外，为促进大模型社区的研究工作，hi lab 团队开源了 Pretrain 阶段每经过 1T token 的中间训练检查点和 Instruct 模型，为研究大语言模型的学习动态提供了宝贵的基础。 目前，dots.llm1 已上架 HuggingFace 和 GitHub。&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;________________MiniCPM_4_0_&quot;&gt;面壁智能发布全新端侧高性能模型「MiniCPM 4.0」&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.ifanr.com/1626415&quot; target=&quot;_blank&quot;&gt;爱范儿&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;昨日晚，面壁智能发布旗下小钢炮模型 MiniCPM 4.0，号称「端侧性能大小王」，拥有 8B 闪电稀疏版和 0.5B 两个版本。 据介绍，MiniCPM 4.0 通过高效双频换挡提速：长文本用稀疏注意力，短文本用稠密注意力。信息显示，MiniCPM 4.0 能实现「极限情况下 220 倍、常规 5 倍」的速度提升。 值得一提的是，面壁还实现了端侧存储的大升级，长文本缓存锐减，相较于 Qwen3-8B 仅需 1/4 的缓存存储空间。 MiniCPM 4.0 还贡献了行业首例全开源的系统级上下文稀疏化高效创新。其拥有 5% 极高稀疏度，并且从架构层、系统层、推理层、数据层等层层优化，真正做到系统级软硬件稀疏化高效落地。 另外，MiniCPM 4.0 8B 稀疏版仅 22% 训练开销，对标超越 Qwen3、Gemma3 12B，成为端侧最强；而 0.5B 版本以仅 2.7% 的训练开销，达到一半参数、性能翻倍的效果。 目前，MiniCPM 4.0 已上架 GitHub、HuggingFace、Model Scope。 昨日，《黑神话：悟空》宣布了其 618 活动，具体如下： 另外，《黑神话：悟空》数字版将在 6 月 18 日开启第一次全平台打折活动，均为八折，时间安排如下： 6 月 6 日，微信派宣布，微信视频号支持修改封面和文案内容，具体如下：&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;__Uzi__________________G__&quot;&gt;以 Uzi 职业生涯为灵感，奔驰打造专属纯电 G 级&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.ifanr.com/1626415&quot; target=&quot;_blank&quot;&gt;爱范儿&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;昨日，2025 年「英雄联盟名人堂入选典礼」在上海圆满落幕。中国电竞传奇选手简自豪（Uzi）凭借卓越成就及影响力，成为中国大陆赛区首位、全球第二位跻身「英雄联盟名人堂」的职业电竞人。 作为英雄联盟电竞赛事及其全球活动的独家汽车行业合作伙伴，梅赛德斯-奔驰以 Uzi 个人职业发展里程碑为灵感，特别定制融合其个人职业生涯元素的纯电 G 级越野车，并联手瑞典知名设计工作室 Envar Studio 打造潮流数字艺术作品。 此次梅赛德斯-奔驰为 Uzi 专属定制的纯电 G 级越野车，由梅赛德斯-奔驰匠心高定「MANUFAKTUR」的专业工艺团队倾力打造。车身细节以严苛标准手工打造，座舱内镌刻「Hall of Legends」字样，车身采用「哑光云漠金」车漆，与「名人堂」传奇荣耀相得益彰。值得一提的是，这是中国市场首款采用该专属车漆的纯电 G 级越野车。 此外，梅赛德斯-奔驰也携瑞典知名电子游戏艺术设计工作室 Envar Studio，为 Uzi 打造极具纪念意义的专属数字艺术作品：Uzi 与定制的纯电 G 级越野车一同出现在上海街头，更有「粉色耳机」「法国斗牛犬」等多个象征其职业生涯与个人生活的「彩蛋」线索藏于其中，待 Uzi 及粉丝发掘。&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;_________________&quot;&gt;小马智行第七代自动驾驶车辆广深开跑&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.ifanr.com/1626415&quot; target=&quot;_blank&quot;&gt;爱范儿&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;近日，搭载小马智行第七代自动驾驶系统的广汽埃安霸王龙自动驾驶车辆，正式获得智能网联汽车道路测试牌照，在广州和深圳开启公开道路测试。 小马智行第七代自动驾驶系统带来了三大核心突破：拥有 100% 车规级零部件、自动驾驶套件总成本较前代下降 70%、基于平台化设计的多车型快速适配能力。 据介绍，小马智行第七代自动驾驶系统所搭载的六类量产传感器，可实现车周 360° 无盲区冗余感知，配合自研传感器清洁方案，可精准应对各种恶劣天气和极端场景。同时还是全球首个完全基于车规级芯片实现 L4 级全场景无人驾驶能力的系统方案。 此外，系统构建了多重冗余架构，具备超 20 项安全冗余、超 1000 项检测设计以及多重降级策略；基于PonyWorld世界模型技术基座，通过强化学习实现远高于人类的安全性，持续迭代提升复杂场景应对能力，实现全场景、全天候的无人驾驶。 值得注意的是，此时距离第七代自动驾驶系统在上海车展全球首发仅过去一个多月，充分展现了小马智行技术研发与落地的高效。&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;lululemon_2025___Q1_______24____&quot;&gt;lululemon：2025 年 Q1 全球营收达 24 亿美元&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.ifanr.com/1626415&quot; target=&quot;_blank&quot;&gt;爱范儿&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;日前，lululemon 发布了 2025 财年第一季度财报，具体来看： 在第一季度，公司全球净营收同比增长 7% 至 24 亿美元，其中国际业务净营收增长 19%。具体至中国大陆市场，2025 财年第一季度，中国大陆业务净营收同比增长 21%，在固定美元基础上，净营收同比增长 22%。 lululemon CEO Calvin McDonald 在财报电话会议中强调，回顾第一季度的表现，lululemon 在中国大陆和其他国际市场保持了两位数的强劲增长。其表示，这一亮眼成绩，离不开 lululemon 兼具高性能与高型格的产品组合，以及通过品牌活动与社区活动。 另外，Calvin 还表示，在市场份额和品牌知名度方面，公司仍有广阔的增长空间；lululemon 持续看到新客人稳健增长，现有客人也保持活跃，并对 lululemon 的核心品类和新产品都给予了积极反馈。 对于未来表现，lululemon 预计 2025 财年第二季度净营收将在 25.35 亿美元至 25.60 亿美元之间，增长约 7% 至 8%。本季度每股摊薄收益预计在 2.85 美元至 2.90 美元之间。 对于 2025 财年，lululemon 预计净营收将在 111.50 亿美元至 113.00 亿美元之间，增长约 5% 至 7%；若不计入 2025 年第 53 周，则增长约为 7% 至 8%。预计 2025 财年全年每股摊薄收益将在 14.58 美元至 14.78 美元之间。&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;_______________&quot;&gt;《名侦探柯南：独眼的残像》定档&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.ifanr.com/1626415&quot; target=&quot;_blank&quot;&gt;爱范儿&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;日前，柯南最新剧场版《名侦探柯南：独眼的残像》将于 6 月 27 日全国上映。 据悉，《名侦探柯南：独眼的残像》打破日本影史系列最速破百亿纪录。影片展开以毛利小五郎和独眼刑警大和敢助为主轴的剧情，讲述在长野县的雪山发生的过去与现在的案件。 该剧是《名侦探柯南》第 28 部动画电影作品，由重原克也执导，樱井武晴编剧，于 2025 年 4 月 18 日日本上映，同年 6 月 25 日中国台湾地区、7 月 17 日中国港澳地区上映。&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;One_Fun_Thing________QQ_____&quot;&gt;One Fun Thing｜全球首位满级 QQ 用户诞生&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.ifanr.com/1626415&quot; target=&quot;_blank&quot;&gt;爱范儿&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;今日凌晨，腾讯官方发文宣布，「全球首位 QQ 256 级用户」正式诞生，为 QQ 昵称「爱芥末」的用户。 腾讯官方表示，随着「爱芥末」成为全球首位满级 QQ 用户，他也成功解锁了一个全新的 QQ 等级图标——「时光企鹅」，并且成为了全球拥有「时光企鹅」等级图标的第一人。 「时光企鹅」为一只带有象征 QQ 成长等级的星星、月亮、太阳元素的金色企鹅，它寓意着大家还在懵懂年少时，经过岁月的点滴积累，一步步点亮了这些珍贵的成长印记，逐渐进化成现在的「时光企鹅」。 据了解，2003 年，腾讯推出了 QQ 等级制度：在线时间越长，等级越高。攒满 4 个图标升级就能成一个高等级的，但此前并未有用户凑齐 4 个皇冠，因此大家纷纷好奇「皇冠之上是什么」。 腾讯介绍，「爱芥末」的 QQ 是 2000 年左右注册，2003 年 QQ 等级功能上线后，他就非常热衷于挂 QQ。当时「爱芥末」家里是开网吧的，所以 QQ 经常能 24 小时挂着，等级就慢慢地攀升。上班后，每天除了忙碌的工作外，有一件时时刻刻牵挂着的事情，就是——挂 QQ，「爱芥末」表示「也没想到自己会成为‘全球第一’」。 腾讯方面表示，为感谢这一路的深情陪伴，其将给 @爱芥末 送出限量版专属神秘惊喜、终身 SVIP 会员、多款专属个性化装扮等礼物作为纪念礼物。后续升级「时光企鹅」的用户，也有机会获得我们准备的专属礼品。&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;____________&quot;&gt;周末看什么｜《四月物语》&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.ifanr.com/1626415&quot; target=&quot;_blank&quot;&gt;爱范儿&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;豆瓣评分 8.3 分，拥有 22.9 万人评价。 《四月物语》是由岩井俊二导演编剧，松隆子、田边诚一、津田宽治、市川染五郎等主演，于 1998 年 3 月 14 日在日本上映。 该片讲述了北海道少女榆野卯月只身来到东京武藏野大学后的日常生活及恋爱心情。奖项方面，影片获得了第三届釜山国际电影节观众奖。&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;______________&quot;&gt;买书不读指南｜《袭击面包店》&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.ifanr.com/1626415&quot; target=&quot;_blank&quot;&gt;爱范儿&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;本书收录村上春树的两则短篇小说《袭击面包店》与《再袭面包店》，豆瓣评分 7.4 分。 两个游手好闲的年轻人饥肠辘辘，感觉像把全宇宙的空白整个儿吞进了肚子里。饥饿迫使下，他们拿着菜刀，准备袭击一家面包店。而面包店老板却提出了一个古怪的要求：「只要你们认认真真听一回瓦格纳的音乐，店里的面包可以让你们吃个够。」 本书讲述了一个打破常规的疯狂故事，展示出人在「饥饿」与「邪恶」面前的挣扎与反思。 全书由德国知名插画家卡特·曼施克度身绘制 21 幅超现实主义插图，立体呈现出村上小说瑰丽的想象与冒险精神。&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;____________&quot;&gt;游戏推荐｜《车祸模拟器》&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.ifanr.com/1626415&quot; target=&quot;_blank&quot;&gt;爱范儿&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;一款真实而又搞笑的动态车辆模拟游戏。《车祸模拟器》搭载了软体物理系统，能够实时模拟车辆的各个部件，达到与现实相同的效果。 其中，《车祸模拟器》最大的亮点就是通过软体物理系统，能够模拟出非常精准的损伤模型，打造出无比真实的车辆碰撞感。 目前，《车祸模拟器》在 Steam 上属于「好评如潮」，其由 BeamNG 开发并于 2015 年 5 月 30 日发行。&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;________340_______________&quot;&gt;一天内财富缩水 340 亿美元 马斯克先向特朗普低头&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.geekpark.net/news/350148&quot; target=&quot;_blank&quot;&gt;极客公园&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;6 月 6 日，在特朗普和马斯克的争执彻底失控后，答案变得清晰：最终退让的是马斯克。 随着特斯拉股价暴跌，他的净资产缩水了 340 亿美元。与美国总统闹翻对马斯克商业帝国的损害极大，周五开盘后特斯拉股价回升约 4%，仅收复了前一天部分失地。特斯拉市值一天之内蒸发了创纪录的 1530 亿美元，就连大盘也受到牵连。 晚间，马斯克让步，撤回了让「龙飞船」退役的命令，并听从网络上建议停止对特朗普的攻击。在双方争吵过程中，马斯克多次表示自己对特朗普去年胜选有功，现在他呼吁对特朗普发起弹劾，甚至暗示总统与杰弗里·爱泼斯坦的性犯罪有关。 到了晚上 9 点 20 分，马斯克情绪平复，他在 X 上回复一位网民称「冷静几天是个好建议」。 不过，特朗普是否持相同观点则不得而知。媒体援引白宫官员消息称，特朗普正考虑处理掉他的特斯拉汽车。 据美国广播公司（ABC）最新报道，特朗普 6 日在接受该媒体电话采访时称，马斯克「失去了理智」，自己现在不太想和他说话。（消息来源：环球市场播报）&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;______________________________&quot;&gt;比亚迪李云飞：有些企业开发布会必拉踩别人，这种流量会反噬自己&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.geekpark.net/news/350148&quot; target=&quot;_blank&quot;&gt;极客公园&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;6 月 6 日下午消息，2025 中国汽车重庆论坛上，在「如何破解『内卷式』竞争？」环节，比亚迪集团品牌及公关处总经理李云飞分享观点。 李云飞表示，最近的很多事情，是非曲直，大家应该都很清楚。中国汽车界，在宣传传播上需要进一步规范。有一些企业开发布会不拉踩别人可能就不自在，这种流量会反噬自己。 「汽车行业有的不是用孙子兵法，用的是厚黑学，有的人是又坏又蠢。真心诚意做技术做品牌的企业对这些是深恶痛绝的。」他说。（消息来源：新浪科技）&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;________________________&quot;&gt;雷军：小米高阶驾驶培训将在全国免费培训一万名车主&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.geekpark.net/news/350148&quot; target=&quot;_blank&quot;&gt;极客公园&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;6 月 6 日消息，小米创办人，董事长兼 CEO 雷军转发了赛车手 @ 谢欣哲 的一条微博，重申小米高阶驾驶培训将会在全国 10 多座城市免费培训一万名小米车主，提升安全意识和控车能力。 谢欣哲今日作为嘉宾出席了小米汽车史上第一届高阶驾驶培训课程。根据他的说法，小米高阶驾驶培训分为理论课和实践课。 据介绍，高阶驾驶培训的教练全部经过小米的筛选和认证，其中 Ultra 车型的培训教练更是需要具备国际 C 级以上的赛车执照。在今天的课程中，小米汽车高阶驾驶培训课程主要分为四个科目：加速制动 + 紧急变线、绕桩体验、金卡纳、失控体验。 小米上个月宣布推出「高阶驾驶培训」，旨在全面提升「从理论到实践」的驾驶操控能力，面向小米汽车车主首批 10000 人免费，定价为 1999 元，于 5 月 27 日开启报名。（消息来源：IT 之家）&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;___________TikTok______&quot;&gt;特朗普或将再次延长给 TikTok 的最后期限&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.geekpark.net/news/350148&quot; target=&quot;_blank&quot;&gt;极客公园&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;6 月 7 日消息，知情人士透露，随着与中国的贸易谈判持续进行，特朗普总统预计将签署行政命令，延迟执行可能禁止或强制出售 TikTok 的法律。 这将是特朗普自 1 月上任以来的第三次延期。目前的延期将于 6 月 19 日到期。 白宫一直在努力促成一项协议，允许投资者获得美国运营的 TikTok 的拥有权。然而，当特朗普在 4 月初对中国进口商品征收高额关税时，这一计划变得复杂。政府官员表示，同样的框架仍然在谈判桌上，但在与北京的紧张关系得到解决之前，协议不太可能推进。（消息来源：华尔街日报）&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;PC__________Windows_________________PC&quot;&gt;PC 手机互通更进一步！Windows 开始菜单一点：手机屏幕瞬间飞上 PC&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.geekpark.net/news/350148&quot; target=&quot;_blank&quot;&gt;极客公园&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;6 月 6 日消息，Windows 11 在设备互联互通方面又迈出了一步，微软在最近一次向内测用户推送的更新中，实现了直接从开始菜单将 Android 手机的屏幕镜像到 PC 上。 此前，Windows 11 的屏幕镜像功能只能通过点开「Phone Link」（手机连接）应用实现，但在更新后，用户可以通过点击开始菜单的设备名称启动 Android 屏幕镜像功能。 这一功能仍需要用户已经通过「Phone Link」应用将 Android 手机与 PC 连接。（消息来源：快科技）&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;____AI___________&quot;&gt;王自如 AI 创业 坦言「来钱快」&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.geekpark.net/news/350148&quot; target=&quot;_blank&quot;&gt;极客公园&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;6 月 6 日消息，王自如在 B 站和微博发布视频，同步将自己的账号修改为「王自如 AI」，透露将在 AI 赛道重新创业。 王自如最初以数码测评博主的身份进入公众视野，其创办的科技媒体 ZEALER 曾获得雷军旗下顺为创投基金、金立、OPPO 等方面的投资。王自如在最新视频中称，2019 年萌生出进入一家核心企业，担任核心岗位并参与核心决策的想法，去验证自己对产业互联网的判断。 「2020 年，当格力的机会出现的时候，我始料未及，完美的匹配了产业互联网的所有要素，是我不可错过的重要机遇，终于有机会穿上那双球鞋去打那场顶级的比赛，但这条路很艰辛，让我有了太多羁绊。」王自如表示。 王自如宣布将在 AI 赛道二次创业。他在视频里说，「未来我想做的第一件事就是做 AI 的内容创业，坦白讲，这件事确实来钱快，资源整合得也快，将会选择高度聚焦 AI 的应用方向，比如跟消费电子的结合，跟产业的结合，甚至是跟服务的结合，来为第二件事情的启动去做充足的准备：如何用 AI 的技术，去帮助传统产业加速完成数字化的转型」。（消息来源：财联社）&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;_____________________________&quot;&gt;卓驭（原大疆车载）被曝获北汽产投与广汽资本投资，合计数亿元&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.geekpark.net/news/350148&quot; target=&quot;_blank&quot;&gt;极客公园&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;6 月 6 日消息，卓驭科技（原大疆车载）对外融资近期取得新进展，增加北汽产投与广汽资本两大投资方，合计金额达数亿元。 同时，爆料称卓驭还在持续洽谈其他融资事项，此前曾传出一汽拟控股卓驭，而最新爆料为双方仍在接触，但目前并未就该方案达成一致，其投资事宜还在推进中，一汽的投资占比也尚未敲定。 截至今年早些时候，卓驭先后获得比亚迪、上汽恒旭资本、国投招商、基石资本、光远资本等车企与机构的投资。爆料称加上近期引入的北汽产投，卓驭累计融资超 25 亿元。 针对以上信息，卓驭回复该媒体称，一切以官方披露为准。 一位熟悉卓驭的知情人士透露，目前 32TOPS 算力方案被频繁用来与更高算力的方案做对比，产品力已稍显不足，下半年会对该方案做更多优化，增强竞争力。（消息来源：IT 之家）&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;id_2025________________8___15______&quot;&gt;2025 世界人形机器人运动会开启报名，8 月 15 日北京开幕&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.geekpark.net/news/350148&quot; target=&quot;_blank&quot;&gt;极客公园&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;2025 世界人形机器人运动会将于 2025 年 8 月 15 日-17 日在国家体育场（鸟巢）和国家速滑馆（冰丝带）举办，官方在 6 月 6 日开启报名通道。 本届赛事聚焦人形机器人发展的阶段性成果，立足实际场景应用，设置竞技赛、表演赛和场景赛三类项目。竞技赛包括 100 米、400 米、1500 米、4×100 米等田径赛事、自由体操、足球等项目；表演赛包括单机舞蹈和群体舞蹈；场景赛包括物料搬运、分拣和整理、清洁服务等项目。（消息来源：IT 之家）&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;_______________3C_________25W___&quot;&gt;国行版三星首款三折叠手机通过 3C 认证，显示支持 25W 充电&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.geekpark.net/news/350148&quot; target=&quot;_blank&quot;&gt;极客公园&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;6 月 6 日消息，三星首款三折叠手机通过国内 3C 认证，型号为「SM-F9680」（后缀 0 代表国行版本），不带电源适配器销售，支持型号为 EP-TA800 的旅行充电器，最高支持 25W 充电。 4 月三星首款三折叠手机现身 GSMA IMEI 数据库。根据 GSMA 历史数据规律，新设备通常在数据库注册后 6-7 个月内发布。按此推算，三星三折叠手机可能于 2025 年 10 月亮相，但具体时间仍需视研发进度调整。 屏幕供应链咨询公司 DSCC 首席执行官罗斯・杨（Ross Young）此前曝料称，三星首款三折叠手机采用 Flex G 设计方案，配备 6.49 英寸的外屏。（消息来源：IT 之家）&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;___MateBook_Fold_________&quot;&gt;华为 MateBook Fold 非凡大师正式开售&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.geekpark.net/news/350148&quot; target=&quot;_blank&quot;&gt;极客公园&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;5 月 19 日，华为在 nova 14 系列及鸿蒙电脑新品发布会上，正式推出全新鸿蒙电脑矩阵。其中，最为引人瞩目的当属非凡大师家族的新成员——华为 MateBook Fold 非凡大师。 华为 MateBook Fold 非凡大师是全球商用最大折叠电脑，上时仅有 13 英寸大小，轻巧便携，展开后则能呈现出 18 英寸的全球最大折叠屏，为用户打造沉浸式的视觉盛宴。其重量仅 1.16kg，薄至 7.3mm，相较于 MacBook Air 13 英寸（M4），在重量和尺寸上均展现出明显优势，真正实现了移动办公与娱乐的便携性与高效性。 6 月 6 日，华为 MateBook Fold 非凡大师与华为 MateBook Pro 两款鸿蒙电脑正式开售。（消息来源：IT 之家）&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;_______________________&quot;&gt;复旦科学家通过脑机接口，使失明动物恢复视觉功能&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.geekpark.net/news/350148&quot; target=&quot;_blank&quot;&gt;极客公园&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;6 月 6 日，中国科学家在《科学》（Science）杂志上线的最新研究成果显示，借助脑机接口等技术，新一代视觉假体不仅使失明动物恢复可见光视力，还可扩展其视觉功能，这为失明患者复明提供了新可能。 研究显示，该团队开发出全球首款光谱覆盖范围极广（470-1550nm，从可见光延伸至近红外二区）的视觉假体，该假体无需依赖任何外部设备，即可使失明动物模型恢复可见光视觉能力，还能赋予动物感知红外光，甚至识别红外图案的「超视觉」功能，也就是在黑暗中也能看见事物。 该科研团队在接受采访时表示，通常而言的「可见光」，指人类视网膜可感知的光谱范围（380-780nm）。在全球，有超 2 亿的视网膜变性（感光细胞死亡）患者无法感受这样的「光明」。此次，复旦联合上海技物所科研团队研制出碲纳米线网络（TeNWNs）视网膜假体，该器件的光电流密度达到了当前已知体系的最高水平，并首次实现了国际上光谱覆盖最宽的视觉重建与拓展，范围横跨可见光至近红外二区。 该团队告诉记者，考虑到目前医学伦理的限制，研究暂时不会进入临床试验阶段。不过，展望未来，这种新一代超视觉假体技术能让失明者重新感受到视觉，也有望为人类打开一扇超越生理极限的感知之窗。（消息来源：澎湃新闻）&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;____________________________&quot;&gt;又能见到咪普利老师 多个线索暗示《健身环大冒险》要出续作&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.geekpark.net/news/350148&quot; target=&quot;_blank&quot;&gt;极客公园&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;据最新传闻，任天堂可能正在开发健身休闲游戏《健身环大冒险》的续作。一周多之前，2025 年 5 月 23 日，任天堂在欧盟注册了「电子游戏控制配件」的外观设计专利。 相关配件图片将保密 30 个月，这意味着该配件为未公开的新产品。专利页上的设计是设计过「Alarmo」和「健身环」的设计师 Fumiyoshi Suetake，他还曾在 2015 年参与设计并提交了「训练设备」但此设备并未发布。 2024 年 11 月与 2025 年 5 月，任天堂代工厂富士康科技曾披露在为某游戏公司研发「压力传感技术」。用于开发「多样化新型游戏配件」。其公布的设计表明，该游戏公司大概率是任天堂。（消息来源：3DMGame）&lt;/p&gt;
+&lt;/div&gt;
+
+    &lt;div class=&quot;footer&quot;&gt;
+        &lt;p&gt;内容自动聚合于 2025-06-07 02:20:06&lt;/p&gt;
+        &lt;p&gt;仅包含 2025年06月07日 发布的内容&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+]]&gt;</description>
+      <pubDate>Sat, 07 Jun 2025 02:20:06 +0800</pubDate>
+      <guid isPermaLink="false">db7f477642f7a491781933d3d559c0b3</guid>
+      <source>新闻聚合器</source>
+    </item>
+  </channel>
+</rss>

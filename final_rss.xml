@@ -5,7 +5,7 @@
     <link>https://hybridrbt.github.io/rss-merger</link>
     <description>多源新闻内容聚合，已进行话题级别去重</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 29 Jun 2025 04:29:49 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 20:32:02 +0800</lastBuildDate>
     <generator>Final RSS Aggregator</generator>
     <item>
       <title>每日新闻聚合 - 2025年06月29日</title>
@@ -98,14 +98,14 @@
 &lt;/div&gt;
 
     &lt;div class=&quot;footer&quot;&gt;
-        &lt;p&gt;内容自动聚合于 2025-06-29 04:29:49&lt;/p&gt;
+        &lt;p&gt;内容自动聚合于 2025-06-29 20:32:02&lt;/p&gt;
         &lt;p&gt;仅包含 2025年06月29日 发布的内容&lt;/p&gt;
     &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 ]]&gt;</description>
-      <pubDate>Sun, 29 Jun 2025 04:29:49 +0800</pubDate>
-      <guid isPermaLink="false">bd01a2f5cea7c71e6014a99d4421a05c</guid>
+      <pubDate>Sun, 29 Jun 2025 20:32:02 +0800</pubDate>
+      <guid isPermaLink="false">75bf3dba89d9f2c509142639db08fc47</guid>
       <source>新闻聚合器</source>
     </item>
   </channel>

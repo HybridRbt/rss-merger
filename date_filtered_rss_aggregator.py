@@ -770,10 +770,6 @@ def main():
     github_username = "hybridrbt"  # 例如: "johndoe"
     github_repo = "rss-merger"          # 例如: "rss-merger"
     
-    # 如果您知道自己的GitHub用户名和仓库名，请取消下面两行的注释并填入正确的值
-    # github_username = "实际用户名"
-    # github_repo = "实际仓库名"
-    
     aggregator = FinalRSSAggregator(
         rss_feeds,
         output_file="final_rss.xml",

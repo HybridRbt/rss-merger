@@ -111,7 +111,7 @@ class FinalRSSAggregator:
             'published': published,
             'published_parsed': published_parsed,
             'source': source,
-            'id': hashlib.md5(entry.get('link', '').encode()).hexdigest()
+            'id': hashlib.md5(f"{entry.get('link', '')}-{entry.get('published', '')}".encode()).hexdigest()
         }
         return standardized
 
@@ -695,7 +695,7 @@ class FinalRSSAggregator:
             'published': datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0800"),
             'published_parsed': time.localtime(),
             'source': "新闻聚合器",
-            'id': hashlib.md5(f"daily_news_{datetime.now().strftime('%Y%m%d')}".encode()).hexdigest()
+            'id': hashlib.md5(f"daily_news_{datetime.now().strftime('%Y%m%d%H%M%S')}".encode()).hexdigest()
         }
         return [main_item]
 

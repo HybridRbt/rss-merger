@@ -17,7 +17,7 @@ import os
 import time
 import re
 import hashlib
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
@@ -40,9 +40,8 @@ class FinalRSSAggregator:
         os.makedirs(os.path.dirname(os.path.abspath(html_output_file)) if os.path.dirname(html_output_file) else ".", exist_ok=True)
         
         # 设置当天日期范围，用于过滤内容
-        self.today = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+        self.today = datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0)
         self.tomorrow = self.today + timedelta(days=1)
-
     def _load_stopwords(self):
         # 常见中文停用词
         stopwords = set([
@@ -66,18 +65,18 @@ class FinalRSSAggregator:
         all_entries = []
         for feed_info in self.rss_feeds:
             try:
-                print(f"正在获取 {feed_info['name']} 的RSS内容...")
-                feed = feedparser.parse(feed_info['url'])
+                print("正在获取 {} 的RSS内容...".format(feed_info["name"]))
+                feed = feedparser.parse(feed_info["url"])
                 for entry in feed.entries:
-                    standardized_entry = self._standardize_entry(entry, feed_info['name'])
+                    standardized_entry = self._standardize_entry(entry, feed_info["name"])
                     
                     # 只保留当天发布的内容
                     if self._is_published_today(standardized_entry):
                         all_entries.append(standardized_entry)
                         
-                print(f"成功获取 {feed_info['name']} 的当天内容")
+                print("成功获取 {} 的当天内容".format(feed_info["name"]))
             except Exception as e:
-                print(f"获取 {feed_info['name']} 内容时出错: {str(e)}")
+                print("获取 {} 内容时出错: {}".format(feed_info["name"], str(e)))
         
         print(f"总共获取了 {len(all_entries)} 条当天发布的内容")
         return all_entries
@@ -88,8 +87,7 @@ class FinalRSSAggregator:
             # 如果没有日期信息，默认保留
             return True
             
-        pub_time = datetime.fromtimestamp(time.mktime(entry['published_parsed']))
-        
+        pub_time = datetime.fromtimestamp(time.mktime(entry["published_parsed"]), tz=timezone.utc)        
         # 检查是否在今天的日期范围内
         return self.today <= pub_time < self.tomorrow
 
@@ -111,7 +109,7 @@ class FinalRSSAggregator:
             'published': published,
             'published_parsed': published_parsed,
             'source': source,
-            'id': hashlib.md5(f"{entry.get('link', '')}-{entry.get('published', '')}".encode()).hexdigest()
+            'id': hashlib.md5(f"{entry.get('link', '')}-{entry.get('published', '')}-{datetime.now().strftime('%Y%m%d%H%M%S%f')}".encode()).hexdigest()
         }
         return standardized
 

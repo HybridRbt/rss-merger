@@ -7,6 +7,7 @@
     <language>zh-cn</language>
     <lastBuildDate>Wed, 09 Jul 2025 04:28:26 +0800</lastBuildDate>
     <generator>Final RSS Aggregator</generator>
+    <ttl>60</ttl>
     <item>
       <title>每日新闻聚合 - 2025年07月09日</title>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>

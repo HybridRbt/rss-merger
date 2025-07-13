@@ -1,7 +1,124 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>每日新闻聚合</title><link>https://hybridrbt.github.io/rss-merger</link><description>多源中文科技新闻，每日去重精选</description><language>zh-cn</language><lastBuildDate>Sun, 13 Jul 2025 12:31:37 +0800</lastBuildDate><ttl>60</ttl><item><title>一日一技 | 用欧盟纯净版 Windows 11，享真正的数字选择权</title><link>https://sspai.com/post/100943</link><description>&lt;![CDATA[在Pixel设备上打开Googleapp中的新闻链接、在Windows设备上打开开始菜单中的网络搜索结果，这两件事有一个共同的结果，即系统会「装傻」忽略你当前的默认浏览器设置，调用自家浏览器（Chro ...查看全文]]&gt;</description><pubDate>Sun, 13 Jul 2025 11:00:00 +0800</pubDate><guid isPermaLink="false">8ace5108a0c92bba32abc76f2a1ad8e4</guid></item><item><title>美团：本月超 40 万众包骑手日入超 500 元；SpaceX 将向 X.AI 投资 20 亿美元；谷歌 24 亿美元收编 Windsurf</title><link>http://www.geekpark.net/news/351462</link><description>&lt;![CDATA[
-消息称马斯克 SpaceX 将向 xAI 投资 20 亿美元
-7 月 13 日消息，《华尔街日报》刚刚报道称，伊隆・马斯克旗下公司 SpaceX 已同意向另一家公司 xAI 投资 20 亿美元（约合 143.47 亿元人民币），这几乎相当于后者近期股权融资的一半。据称，SpaceX 和 xAI 之间可能还会签订更多协议。
-彭博社还报道称，xAI 正在洽谈新一轮融资，估值最高可达 2000 亿美元…]]&gt;</description><pubDate>Sun, 13 Jul 2025 08:48:00 +0800</pubDate><guid isPermaLink="false">c733a5bb79d1d51a8611e97d2f2d3799</guid></item><item><title>AI 上新｜我让 AI「偷窥」了我的屏幕，它有机会变成我第二个大脑</title><link>http://www.geekpark.net/news/351461</link><description>&lt;![CDATA[几周前，我为了一份行业深度文章的撰写，在堆积如山的数据分析文件和浏览器标签页中挣扎了整整两天。
-那种感觉，就像在自己的知识库里溺水&amp;mdash;&amp;mdash;你明确地记得看过某个数据、某段论述，却无论如何也无法在信息的洪流中重新定位它。
-我们早已习惯了这种数字时代的「失忆症」，也习惯了将希望寄托于 AI。我们像一个耐心的饲养员，不断地在应用之间复制、粘贴、切换，把上下文一点点「喂」给 ChatGP…]]&gt;</description><pubDate>Sun, 13 Jul 2025 02:26:47 +0800</pubDate><guid isPermaLink="false">2279548577e1f731bd8c54e6a3d0b10f</guid></item></channel></rss>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>每日新闻聚合</title>
+    <link>https://hybridrbt.github.io/rss-merger</link>
+    <description>多源新闻内容聚合，已进行话题级别去重</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 13 Jul 2025 04:51:30 +0800</lastBuildDate>
+    <generator>Final RSS Aggregator</generator>
+    <item>
+      <title>每日新闻聚合 - 2025年07月13日</title>
+      <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
+      <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;zh-CN&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+    &lt;title&gt;每日新闻聚合 - 2025年07月13日&lt;/title&gt;
+    &lt;style&gt;
+        body { font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #f9f9f9; }
+        h1 { text-align: center; color: #2c3e50; margin-bottom: 30px; padding-bottom: 10px; border-bottom: 1px solid #eee; }
+        h2 { color: #3498db; margin-top: 30px; padding-bottom: 8px; border-bottom: 1px solid #eee; }
+        .topic-content { background-color: white; padding: 15px; margin-bottom: 20px; border-radius: 5px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+        .meta { color: #7f8c8d; font-size: 0.9em; margin-bottom: 10px; }
+        a { color: #3498db; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        .footer { text-align: center; margin-top: 50px; color: #7f8c8d; font-size: 0.9em; }
+        .toc { background-color: white; padding: 15px; margin-bottom: 30px; border-radius: 5px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+        .toc ul { list-style-type: none; padding-left: 20px; }
+        .toc li { margin-bottom: 5px; }
+        .sspai-section { margin-top: 50px; padding-top: 30px; border-top: 2px dashed #ccc; }
+        .sspai-topic { background-color: #f0f0f0; padding: 15px; margin-bottom: 20px; border-radius: 5px; border-left: 5px solid #ccc; }
+    &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;h1&gt;每日新闻聚合 - 2025年07月13日&lt;/h1&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;说明&lt;/strong&gt;：本页面仅包含 2025年07月13日 发布的内容。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class='toc'&gt;
+&lt;h2&gt;目录&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#_______SpaceX____xAI____20____&quot;&gt;消息称马斯克 SpaceX 将向 xAI 投资 20 亿美元&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#_________OpenAI________AI___&quot;&gt;奥尔特曼宣布延期 OpenAI 首个开源权重 AI 模型&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#Grok____AI______________&quot;&gt;Grok 车载 AI 助手登陆特斯拉在美销售车型&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#_____24_______Windsurf________CEO_______OpenAI___&quot;&gt;谷歌斥资 24 亿美元购买 Windsurf 资产并聘请其 CEO，后者此前与 OpenAI 谈崩&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#_______________111____40__________500__&quot;&gt;美团：本月周末骑手日收入增长 111%，超 40 万众包骑手日入超 500 元&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#_________60______________________________&quot;&gt;何小鹏回应「兑现 60 天账期承诺」：已制定账期调整和执行相关步骤，并开始推动向前&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#______i8_____________________________&quot;&gt;李想称理想 i8 若在北京发布「大概率致敬小米」，雷军回应「相互致敬挺好」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#________337____________________GoPro___&quot;&gt;影石创新披露美 337 调查初裁结果：初步获得胜利，在华反告 GoPro 侵权&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#________AR______63g__________2499__&quot;&gt;联想推出拯救者 AR 智能眼镜：63g 轻量设计，首发价 2499 元&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#___FREE_____21_99_______15________1_15___&quot;&gt;岚图 FREE+起售价 21.99 万元，上市 15 分钟锁单量超 1.15 万辆&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id_6_______Galaxy_Z_Fold___Flip7_24K_____________Labubu&quot;&gt;6 万多的三星 Galaxy Z Fold / Flip7 24K 金特别版问世，灵感来自 Labubu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;_______SpaceX____xAI____20____&quot;&gt;消息称马斯克 SpaceX 将向 xAI 投资 20 亿美元&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.geekpark.net/news/351462&quot; target=&quot;_blank&quot;&gt;极客公园&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;7 月 13 日消息，《华尔街日报》刚刚报道称，伊隆・马斯克旗下公司 SpaceX 已同意向另一家公司 xAI 投资 20 亿美元（约合 143.47 亿元人民币），这几乎相当于后者近期股权融资的一半。据称，SpaceX 和 xAI 之间可能还会签订更多协议。 彭博社还报道称，xAI 正在洽谈新一轮融资，估值最高可达 2000 亿美元（约合 1.43 万亿元人民币）。 据称，该公司近期已完成 100 亿美元融资（债务与股权各占一半），目前正推进额外 100 亿美元的融资计划。若实现 2000 亿美元估值，由 X 与 xAI 合并成立的新实体将成为全球价值最高的私营企业之一。 不过，马斯克当天在 X 上发帖称「xAI 当前并未寻求融资，我们拥有充足的资金」。xAI 代表未立即回应置评请求。（来源：IT 之家）&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;_________OpenAI________AI___&quot;&gt;奥尔特曼宣布延期 OpenAI 首个开源权重 AI 模型&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.geekpark.net/news/351462&quot; target=&quot;_blank&quot;&gt;极客公园&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;7 月 12 日消息，OpenAI 首席执行官山姆・奥尔特曼（Sam Altman）7 月 12 日在 X 平台发布推文，表示为进一步测试模型安全，将推迟发布其首个开源 AI 模型。 OpenAI 公司的首个开源 AI 模型上月已延期 1 次，原计划下周发布该模式，不过奥尔特曼表示为进一步的安全测试，选择再次延期，但并未公布新的发布时间点。（来源：IT 之家）&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;Grok____AI______________&quot;&gt;Grok 车载 AI 助手登陆特斯拉在美销售车型&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.geekpark.net/news/351462&quot; target=&quot;_blank&quot;&gt;极客公园&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;7 月 12 日消息，特斯拉今晚通过 X 平台官宣即将推出 2025.26 版软件更新，为美国车主带来 Grok 车载 AI 助手。 特斯拉在发布说明 (2025.26 版本) 中写道：「Grok(测试版)(美国，AMD 车型)——Grok 现已直接在你的特斯拉车辆中可用；需要高级联网服务或 WiFi 连接；Grok 目前处于测试阶段，不会向车辆发送指令——现有的语音指令保持不变。」（来源：IT 之家）&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;_____24_______Windsurf________CEO_______OpenAI___&quot;&gt;谷歌斥资 24 亿美元购买 Windsurf 资产并聘请其 CEO，后者此前与 OpenAI 谈崩&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.geekpark.net/news/351462&quot; target=&quot;_blank&quot;&gt;极客公园&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;据知情人士透露，谷歌达成协议，以约 24 亿美元的代价从人工智能 AI 编码初创公司 Windsurf 获得顶尖人才和许可权；而此前 Windsurf 同意被谷歌对手 OpenAI 收购的协议破裂。 根据周五的一份声明，谷歌将招聘 Windsurf 首席执行官 Varun Mohan 和联合创始人 Douglas Chen，以及一小部分员工，加入其 DeepMind 人工智能部门。谷歌拒绝就财务条款置评，并表示其中不包括收购 Windsurf 的股权。 知情人士表示，Windsurf 此前已同意以 30 亿美元被 OpenAI 收购，但最终未能成交，部分原因是与 OpenAI 的主要投资者——微软公司之间存在矛盾。（来源：环球市场播报）&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;_______________111____40__________500__&quot;&gt;美团：本月周末骑手日收入增长 111%，超 40 万众包骑手日入超 500 元&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.geekpark.net/news/351462&quot; target=&quot;_blank&quot;&gt;极客公园&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;7 月 12 日 20:47 分，美团即时零售订单量再创新高，达 1.3 亿。其中，微信等社交平台小程序下单额屡创新高，好友之间互相分享优惠券多次触及微信社交裂变阈值，成为美团订单成交重要通道。 当日，美团再次披露一组骑手相关数据：随着 7 月接连迎来订单峰值，骑手单量和收入双双稳增，以 7 月周末为例，骑手日收入增长 111%，日单量增长 33%，超 40 万众包骑手日收入超 500 元。此外，6 月期间，全国众包高频骑手月收入达 9793 元。 从上述数值来看，骑手收入再创新高。据此前美团发布的《2024 年度企业社会责任报告》显示，2024 年，美团平台月均有单骑手达 336 万，美团全国范围内高频骑手的月均收入在 6650 元至 9344 元之间。（来源：界面新闻）&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;_________60______________________________&quot;&gt;何小鹏回应「兑现 60 天账期承诺」：已制定账期调整和执行相关步骤，并开始推动向前&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.geekpark.net/news/351462&quot; target=&quot;_blank&quot;&gt;极客公园&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;7 月 12 日下午消息，小鹏汽车 CEO 何小鹏在社交平台发文回应「兑现 60 天账期承诺」：「经过近一个月的内部反复讨论，小鹏制定了账期调整和执行的相关步骤，并在最近开始推动向前。」不容易，大家都有各自的难处，但是前途一定是光明的！我们期望一步一步稳定前行和变化，和多家合作伙伴一起，用微薄之力，一起推动行业的共同向前和良性发展。 此前，小鹏汽车宣布将原本的付款周期统一调整为 60 天内。有报道称，这一承诺得到了进一步落实，最近小鹏汽车在其向供应链发布的邮件中提及，「基于对长期合作的长远考虑，开始启动签署相关补充协议工作——付款账期缩短至 60 天内。」据悉，这是在汽车行业中就「60 天账期承诺」首批向供应商正式发送的书面通知。（来源：新浪科技）&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;______i8_____________________________&quot;&gt;李想称理想 i8 若在北京发布「大概率致敬小米」，雷军回应「相互致敬挺好」&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.geekpark.net/news/351462&quot; target=&quot;_blank&quot;&gt;极客公园&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;随后，小米 CEO 雷军转发了李想的这条微博并回复：「没事，就在北京开，我们相互『致敬』，挺好！预祝 i8 发布会成功！」 i8 是理想汽车推出的首款纯电 SUV 车型，李想称其是一款再次定义纯电 SUV 的产品，达到「空间越级」：同样的尺寸空间更大、同样的空间尺寸更小，其在特斯拉 Model X 的基础上更加极致的压榨空间。（来源：IT 之家）&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;________337____________________GoPro___&quot;&gt;影石创新披露美 337 调查初裁结果：初步获得胜利，在华反告 GoPro 侵权&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.geekpark.net/news/351462&quot; target=&quot;_blank&quot;&gt;极客公园&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;7 月 11 日晚间，影石创新公告披露美国 337 调查进展，美国运动相机公司 GoPro 指控的五项专利初裁均不构成侵权或裁定无效，指控的一项外观专利也经由规避方案获得通过，「本次 337 调查对公司目前的生产、经营不会造成实质性影响」。同时，影石创新对美国运动相机公司 GoPro 在中国境内的相关主体提起了专利侵权诉讼。 公告称，本次 337 调查牵涉六项美国知识产权，分别涉及防抖算法、纵横比转换、水平校正、畸变校正以及运动相机外观专利等相关技术。美国国际贸易委员会（ITC）裁定，针对 GoPro 指控的六项专利侵权争议，其中五项不构成侵权或裁定 GoPro 专利权利要求无效，认定影石创新未违反《美国 1930 年关税法》337 条款。剩余一项外观专利侵权争议，影石创新就所涉及的部分产品提出的新外观设计方案均已获得 ITC 确认，不构成侵权。（来源：极客公园）&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;________AR______63g__________2499__&quot;&gt;联想推出拯救者 AR 智能眼镜：63g 轻量设计，首发价 2499 元&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.geekpark.net/news/351462&quot; target=&quot;_blank&quot;&gt;极客公园&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;7 月 12 日消息，除拯救者公路自行车 T5000 之外，联想还推出了首发价 2499 元的拯救者 AR 智能眼镜，将于 7 月 18 日开售。 这款产品采用了 63g 轻量设计，相比同类产品轻 20% 以上，镜框最厚处仅 18mm。 联想介绍称，它采用了一块 120Hz 高刷屏，可媲美专业电竞显示器，拥有 98% DCI-P3 广色域、6000nit 高亮度；Eyebox 达到 14x8mm，大视窗降低画面边缘模糊感。 此外，联想还采用了自研 2D 转 3D 技术，兼容多款 3A 大作；采用了超线性立体双扬声器，90s 专项音频调校，第三代相位消漏音。（来源：IT 之家）&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;___FREE_____21_99_______15________1_15___&quot;&gt;岚图 FREE+起售价 21.99 万元，上市 15 分钟锁单量超 1.15 万辆&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.geekpark.net/news/351462&quot; target=&quot;_blank&quot;&gt;极客公园&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;作为岚图汽车「四年磨一剑」的诚意之作，7 月 12 日，岚图 FREE+在 2025 岚图用户之夜正式上市，共推出三款车型。其中，后驱乾崑版官方指导价为 21.99 万元、四驱乾崑版官方指导价为 24.99 万元、四驱运动定制版官方指导价为 27.99 万元。岚图汽车宣布，上市 15 分钟，岚图 FREE+锁单量便突破 1.15 万辆。 据了解，本次岚图 FREE+采用「起步即满配」策略，全系标配华为乾崑智驾 ADS 4 与鸿蒙座舱 HarmonySpace 5，搭载豪华全铝底盘。同时，标配包括 163°舒躺女王副驾、四门电吸门、7 升冷暖箱和 22 扬声器等豪华舒适配置。（来源：北京商报）&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;id_6_______Galaxy_Z_Fold___Flip7_24K_____________Labubu&quot;&gt;6 万多的三星 Galaxy Z Fold / Flip7 24K 金特别版问世，灵感来自 Labubu&lt;/h2&gt;
+&lt;div class=&quot;topic-content&quot;&gt;
+&lt;div class=&quot;meta&quot;&gt;来源: &lt;a href=&quot;https://www.geekpark.net/news/351462&quot; target=&quot;_blank&quot;&gt;极客公园&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;7 月 12 日消息，据外媒 GSMArena 报道，奢华设备制造商 Caviar 再次推出了定制版智能手机，售价高达数千美元，这次改造的机型是三星 Galaxy Z Fold7 和 Galaxy Z Flip7。 Cabubu 系列灵感来源于 Labubu，两款机型都采用了 24K 黄金，并配有珠宝级珐琅。Galaxy Z Fold7 Cabubu 版的设计呈现 Cabubu 与火星景观的搭配，而 Galaxy Z Flip7 Cabubu 版则将 Cabubu 与金星背景融为一体。 三星 Galaxy Z Flip7 Cabubu 版的起售价为 8910 美元（约合 63916 元），三星 Galaxy Z Fold7 Cabubu 版的起售价为 10340 美元（约合 74174 元）。Caviar 表示，每款限量版仅生产八台，因为数字 8 在中国被视为象征好运。（来源：IT 之家）&lt;/p&gt;
+&lt;/div&gt;
+
+    &lt;div class=&quot;footer&quot;&gt;
+        &lt;p&gt;内容自动聚合于 2025-07-13 04:51:30&lt;/p&gt;
+        &lt;p&gt;仅包含 2025年07月13日 发布的内容&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+]]&gt;</description>
+      <pubDate>Sun, 13 Jul 2025 04:51:30 +0800</pubDate>
+      <guid isPermaLink="false">6111d7885c806e882f292eed9067fb52</guid>
+      <source>新闻聚合器</source>
+    </item>
+  </channel>
+</rss>

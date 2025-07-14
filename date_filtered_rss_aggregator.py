@@ -37,7 +37,7 @@ class FinalRSSAggregator:
         self.time_window = 3
         self.stopwords = self._load_stopwords()
         os.makedirs(os.path.dirname(os.path.abspath(output_file)) if os.path.dirname(output_file) else ".", exist_ok=True)
-        os.makedirs(os.dirname(os.path.abspath(html_output_file)) if os.path.dirname(html_output_file) else ".", exist_ok=True)
+        os.makedirs(os.path.dirname(os.path.abspath(html_output_file)) if os.path.dirname(html_output_file) else ".", exist_ok=True)
         
         # 设置当天日期范围，用于过滤内容
         self.today = datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0)
@@ -571,6 +571,7 @@ class FinalRSSAggregator:
     def generate_flat_html(self, main_topics, unique_sspai_topics):
         """生成平铺式HTML文章，将独特少数派内容附加到末尾"""
         today = datetime.now().strftime("%Y年%m月%d日")
+        github_pages_url = self.get_github_pages_url()
         html = f"""<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -614,7 +615,7 @@ class FinalRSSAggregator:
         html += "<div class='toc'>\n<h2>目录</h2>\n<ul>\n"
         for i, topic in enumerate(sorted_main_topics):
             topic_title = topic.get('topic_title') or topic.get('features', {}).get('topic_title', f'话题 {i+1}')
-            html += f'<li><a href="#{self._make_id(topic_title)}">{topic_title}</a></li>\n'
+            html += f'<li><a href="{github_pages_url}/{self.html_output_file}#{self._make_id(topic_title)}">{topic_title}</a></li>\n'
         html += "</ul>\n</div>\n"
         
         # 添加每个主要话题的内容
@@ -698,7 +699,7 @@ class FinalRSSAggregator:
         return [main_item]
 
     def generate_rss(self, items):
-        rss = ET.Element("rss", version="2.0")
+        rss = ET.Element("rss", version="2.0", attrib={"xmlns:atom": "http://www.w3.org/2005/Atom"})
         channel = ET.SubElement(rss, "channel")
         
         # 获取GitHub Pages URL或使用默认值
@@ -715,6 +716,11 @@ class FinalRSSAggregator:
         ET.SubElement(channel, "lastBuildDate").text = datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0800")
         generator = ET.SubElement(channel, "generator")
         generator.text = "Final RSS Aggregator"
+        atom_link = ET.SubElement(channel, "atom:link")
+        atom_link.set("href", f"{github_pages_url}/{self.output_file}")
+        atom_link.set("rel", "self")
+        atom_link.set("type", "application/rss+xml")
+
         for item in items:
             rss_item = ET.SubElement(channel, "item")
             ET.SubElement(rss_item, "title").text = item['title']
@@ -726,7 +732,7 @@ class FinalRSSAggregator:
                 ET.SubElement(rss_item, "pubDate").text = item['published']
             guid = ET.SubElement(rss_item, "guid", isPermaLink="false")
             guid.text = item['id']
-            source = ET.SubElement(rss_item, "source")
+            source = ET.SubElement(rss_item, "source", url=channel_link)
             source.text = item['source']
         rough_string = ET.tostring(rss, 'utf-8')
         reparsed = minidom.parseString(rough_string)

@@ -471,18 +471,21 @@ class FinalRSSAggregator:
             # 检查簇中是否有非少数派话题
             has_non_sspai = any(not t.get('is_sspai', False) for t in cluster_topics)
             
-            # 如果簇中只有少数派话题
+            # 如果簇中只有少数派话题，则将它们全部视为独特话题
             if not has_non_sspai:
-                # 选择最长的话题作为代表，并标记为待处理的少数派话题
-                representative_sspai = max(cluster_topics, key=lambda t: len(t.get('features', {}).get('text', '')))
-                unique_sspai_topics.append(representative_sspai)
+                unique_sspai_topics.extend(cluster_topics)
             else:
-                # 如果簇中有非少数派话题，则只保留非少数派话题
+                # 如果簇中有非少数派话题，则合并这些非少数派话题
                 non_sspai_topics = [t for t in cluster_topics if not t.get('is_sspai', False)]
-                # 合并这些非少数派话题
                 merged_topic = self._merge_topic_cluster(non_sspai_topics)
                 if merged_topic:
                     merged_topics.append(merged_topic)
+                
+                # 将少数派话题附加到合并后的非少数派话题中
+                sspai_topics_in_cluster = [t for t in cluster_topics if t.get('is_sspai', False)]
+                if merged_topic and sspai_topics_in_cluster:
+                    for sspai_topic in sspai_topics_in_cluster:
+                        merged_topic['text'] += "\n\n少数派补充信息: " + sspai_topic.get('text', '')
 
         print(f"话题聚类与过滤后，保留 {len(merged_topics)} 个主要话题和 {len(unique_sspai_topics)} 个独特少数派话题")
         return merged_topics, unique_sspai_topics
@@ -790,5 +793,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-from datetime import timezone

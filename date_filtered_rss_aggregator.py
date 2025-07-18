@@ -3,11 +3,10 @@
 
 """
 最终版话题级别RSS聚合器
-- 仅保留爱范儿、少数派和极客公园三个源
-- 对少数派内容进行特殊处理（去重或附加到末尾）
+- 仅保留爱范儿和极客公园两个源
 - 生成平铺式话题列表输出
 - 修复RSS链接指向GitHub Pages实际地址
-- 添加日期过滤功能，只保留当天发布的内容
+- 添加日期过滤功能，只保留当天内容
 """
 
 import feedparser
@@ -39,9 +38,11 @@ class FinalRSSAggregator:
         os.makedirs(os.path.dirname(os.path.abspath(output_file)) if os.path.dirname(output_file) else ".", exist_ok=True)
         os.makedirs(os.path.dirname(os.path.abspath(html_output_file)) if os.path.dirname(html_output_file) else ".", exist_ok=True)
         
-        # 设置当天日期范围，用于过滤内容
-        self.today = datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0)
-        self.tomorrow = self.today + timedelta(days=1)
+        # 设置当天日期范围，用于过滤内容 (使用中国时区)
+        self.tz_cst = timezone(timedelta(hours=8)) # 中国标准时间 (CST) 为 UTC+8
+        self.today_cst = datetime.now(self.tz_cst).replace(hour=0, minute=0, second=0, microsecond=0)
+        self.tomorrow_cst = self.today_cst + timedelta(days=1)
+
     def _load_stopwords(self):
         # 常见中文停用词
         stopwords = set([
@@ -70,7 +71,7 @@ class FinalRSSAggregator:
                 for entry in feed.entries:
                     standardized_entry = self._standardize_entry(entry, feed_info["name"])
                     
-                    # 只保留当天发布的内容
+                    # 只保留当天发布的内容 (根据CST)
                     if self._is_published_today(standardized_entry):
                         all_entries.append(standardized_entry)
                         
@@ -82,14 +83,17 @@ class FinalRSSAggregator:
         return all_entries
 
     def _is_published_today(self, entry):
-        """检查条目是否在当天发布"""
+        """检查条目是否在当天发布 (根据CST) """
         if not entry.get('published_parsed'):
             # 如果没有日期信息，默认保留
             return True
             
-        pub_time = datetime.fromtimestamp(time.mktime(entry["published_parsed"]), tz=timezone.utc)        
-        # 检查是否在今天的日期范围内
-        return self.today <= pub_time < self.tomorrow
+        # 将条目发布时间转换为CST
+        pub_time_utc = datetime.fromtimestamp(time.mktime(entry["published_parsed"]), tz=timezone.utc)
+        pub_time_cst = pub_time_utc.astimezone(self.tz_cst)
+        
+        # 检查是否在今天的日期范围内 (CST)
+        return self.today_cst <= pub_time_cst < self.tomorrow_cst
 
     def _standardize_entry(self, entry, source):
         published = entry.get('published', '')
@@ -121,18 +125,7 @@ class FinalRSSAggregator:
         if not html_content:
             return ""
         soup = BeautifulSoup(html_content, 'html.parser')
-        if source == "少数派":
-            for element in soup.find_all(['style', 'script', 'iframe', 'noscript']):
-                element.decompose()
-            main_content = soup.find('div', class_='content')
-            if main_content:
-                soup = main_content
-            for blockquote in soup.find_all('blockquote'):
-                blockquote.insert_before(soup.new_tag('br'))
-                blockquote.insert_after(soup.new_tag('br'))
-            for p in soup.find_all('p'):
-                if p.get_text().strip():
-                    p.insert_after(soup.new_tag('br'))
+        # 移除少数派特殊处理逻辑
         text = soup.get_text(separator='\n', strip=True)
         text = re.sub(r'\n+', '\n', text).strip()
         text = re.sub(r'\s+', ' ', text).strip()
@@ -145,12 +138,11 @@ class FinalRSSAggregator:
             return [{
                 'text': entry.get('title', ''), 'source': source, 'link': entry.get('link', ''),
                 'published': entry.get('published', ''), 'published_parsed': entry.get('published_parsed'),
-                'entry_id': entry.get('id', ''), 'title': entry.get('title', ''), 'is_sspai': source == "少数派"
+                'entry_id': entry.get('id', ''), 'title': entry.get('title', ''), 'is_sspai': False # 少数派已移除，此标记恒为False
             }]
         clean_content = self._clean_html(content, source)
         topics = []
-        if source == "少数派":
-            topics = self._split_sspai_content(content, clean_content)
+        # 移除少数派特殊处理逻辑
         if not topics or len(topics) <= 1:
             topics = self._split_by_html_structure(content)
         if not topics or len(topics) <= 1:
@@ -166,7 +158,7 @@ class FinalRSSAggregator:
             topic['published_parsed'] = entry.get('published_parsed')
             topic['entry_id'] = entry.get('id', '')
             topic['title'] = entry.get('title', '') # 原始条目标题
-            topic['is_sspai'] = (source == "少数派") # 标记是否来自少数派
+            topic['is_sspai'] = False # 少数派已移除，此标记恒为False
             if len(topic.get('text', '').strip()) < 30:
                  topic['text'] = entry.get('title', '') + ' ' + topic.get('text', '')
             if not topic.get('topic_title'):
@@ -176,54 +168,7 @@ class FinalRSSAggregator:
         merged_topics = self._merge_short_topics(final_topics)
         return merged_topics
 
-    def _split_sspai_content(self, html_content, clean_content):
-        if not html_content:
-            return []
-        try:
-            soup = BeautifulSoup(html_content, 'html.parser')
-            for element in soup.find_all(['style', 'script', 'iframe', 'noscript']):
-                element.decompose()
-            topics = []
-            headers = soup.find_all(['h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'strong', 'b'])
-            if headers and len(headers) > 1:
-                current_topic = {"text": "", "topic_title": None}
-                current_header = None
-                for element in soup.descendants:
-                    if element.name in ['h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'strong', 'b']:
-                        if current_topic["text"].strip():
-                            topics.append(current_topic)
-                        current_header = element.get_text(strip=True)
-                        current_topic = {"text": current_header + "\n", "topic_title": current_header}
-                    elif current_header and element.string and element.string.strip():
-                        current_topic["text"] += element.string.strip() + " "
-                if current_topic["text"].strip():
-                    topics.append(current_topic)
-                return topics
-            paragraphs = soup.find_all('p')
-            if paragraphs and len(paragraphs) > 3:
-                current_topic = {"text": "", "topic_title": None}
-                para_count = 0
-                for p in paragraphs:
-                    text = p.get_text(strip=True)
-                    if not text:
-                        continue
-                    if para_count == 0:
-                        current_topic["topic_title"] = text
-                    current_topic["text"] += text + "\n"
-                    para_count += 1
-                    if para_count >= 3:
-                        topics.append(current_topic)
-                        current_topic = {"text": "", "topic_title": None}
-                        para_count = 0
-                if current_topic["text"].strip():
-                    topics.append(current_topic)
-                return topics
-            if not topics:
-                return self._split_by_text_features(clean_content)
-            return topics
-        except Exception as e:
-            print(f"少数派内容分割出错: {str(e)}")
-            return []
+    # 移除 _split_sspai_content 方法
 
     def _generate_topic_title(self, text):
         sentences = re.split(r'[。！？.!?]+', text)
@@ -463,31 +408,17 @@ class FinalRSSAggregator:
             clusters.append(cluster)
 
         merged_topics = []
-        unique_sspai_topics = []
+        unique_sspai_topics = [] # 少数派已移除，此列表将保持为空
 
         for cluster_indices in clusters:
             cluster_topics = [topics[idx] for idx in cluster_indices]
             
-            # 检查簇中是否有非少数派话题
-            has_non_sspai = any(not t.get('is_sspai', False) for t in cluster_topics)
-            
-            # 如果簇中只有少数派话题，则将它们全部视为独特话题
-            if not has_non_sspai:
-                unique_sspai_topics.extend(cluster_topics)
-            else:
-                # 如果簇中有非少数派话题，则合并这些非少数派话题
-                non_sspai_topics = [t for t in cluster_topics if not t.get('is_sspai', False)]
-                merged_topic = self._merge_topic_cluster(non_sspai_topics)
-                if merged_topic:
-                    merged_topics.append(merged_topic)
-                
-                # 将少数派话题附加到合并后的非少数派话题中
-                sspai_topics_in_cluster = [t for t in cluster_topics if t.get('is_sspai', False)]
-                if merged_topic and sspai_topics_in_cluster:
-                    for sspai_topic in sspai_topics_in_cluster:
-                        merged_topic['text'] += "\n\n少数派补充信息: " + sspai_topic.get('text', '')
+            # 少数派已移除，所有话题都视为非少数派
+            merged_topic = self._merge_topic_cluster(cluster_topics)
+            if merged_topic:
+                merged_topics.append(merged_topic)
 
-        print(f"话题聚类与过滤后，保留 {len(merged_topics)} 个主要话题和 {len(unique_sspai_topics)} 个独特少数派话题")
+        print(f"话题聚类与过滤后，保留 {len(merged_topics)} 个主要话题")
         return merged_topics, unique_sspai_topics
 
     def _merge_topic_cluster(self, topic_cluster):
@@ -549,7 +480,7 @@ class FinalRSSAggregator:
         return "。".join(supplements) if supplements else ""
 
     def process_topics(self, entries):
-        """处理RSS条目，提取话题，去重并处理少数派内容"""
+        """处理RSS条目，提取话题，去重"""
         all_topics = []
         for entry in entries:
             topics = self._split_into_topics(entry)
@@ -560,8 +491,8 @@ class FinalRSSAggregator:
                     all_topics.append(topic)
         print(f"从 {len(entries)} 个条目中提取出 {len(all_topics)} 个话题")
         
-        # 聚类并根据少数派规则过滤
-        merged_topics, unique_sspai_topics = self._cluster_and_filter_topics(all_topics)
+        # 聚类
+        merged_topics, unique_sspai_topics = self._cluster_and_filter_topics(all_topics) # unique_sspai_topics 将为空
         
         return merged_topics, unique_sspai_topics
 
@@ -572,8 +503,8 @@ class FinalRSSAggregator:
         return None
 
     def generate_flat_html(self, main_topics, unique_sspai_topics):
-        """生成平铺式HTML文章，将独特少数派内容附加到末尾"""
-        today = datetime.now().strftime("%Y年%m月%d日")
+        """生成平铺式HTML文章"""
+        today = datetime.now(self.tz_cst).strftime("%Y年%m月%d日") # 使用CST
         github_pages_url = self.get_github_pages_url()
         html = f"""<!DOCTYPE html>
 <html lang="zh-CN">
@@ -637,33 +568,33 @@ class FinalRSSAggregator:
                     html += f'<p>{paragraph}</p>\n'
             html += '</div>\n'
             
-        # 添加独特的少数派话题部分
-        if unique_sspai_topics:
-            html += "<div class='sspai-section'>\n<h2>少数派独特内容（格式可能不佳）</h2>\n"
-            # 按发布时间排序少数派话题
-            sorted_sspai_topics = sorted(
-                unique_sspai_topics,
-                key=lambda x: time.mktime(x['published_parsed']) if x.get('published_parsed') else 0,
-                reverse=True
-            )
-            for topic in sorted_sspai_topics:
-                topic_title = topic.get('topic_title') or topic.get('features', {}).get('topic_title', '少数派话题')
-                # 直接使用原始摘要内容
-                original_entry = next((e for e in self.all_entries if e['id'] == topic['entry_id']), None)
-                topic_content = original_entry['summary'] if original_entry else topic.get('text', '')
-                topic_link = topic.get('link', '')
-                html += f'<h3>{topic_title}</h3>\n'
-                html += '<div class="sspai-topic">\n'
-                if topic_link:
-                    html += f'<div class="meta">来源: <a href="{topic_link}" target="_blank">少数派</a></div>\n'
-                # 直接嵌入原始HTML内容
-                html += f'<div>{topic_content}</div>\n'
-                html += '</div>\n'
-            html += "</div>\n"
+        # 移除独特的少数派话题部分
+        # if unique_sspai_topics:
+        #     html += "<div class='sspai-section'>\n<h2>少数派独特内容（格式可能不佳）</h2>\n"
+        #     # 按发布时间排序少数派话题
+        #     sorted_sspai_topics = sorted(
+        #         unique_sspai_topics,
+        #         key=lambda x: time.mktime(x['published_parsed']) if x.get('published_parsed') else 0,
+        #         reverse=True
+        #     )
+        #     for topic in sorted_sspai_topics:
+        #         topic_title = topic.get('topic_title') or topic.get('features', {}).get('topic_title', '少数派话题')
+        #         # 直接使用原始摘要内容
+        #         original_entry = next((e for e in self.all_entries if e['id'] == topic['entry_id']), None)
+        #         topic_content = original_entry['summary'] if original_entry else topic.get('text', '')
+        #         topic_link = topic.get('link', '')
+        #         html += f'<h3>{topic_title}</h3>\n'
+        #         html += '<div class="sspai-topic">\n'
+        #         if topic_link:
+        #             html += f'<div class="meta">来源: <a href="{topic_link}" target="_blank">少数派</a></div>\n'
+        #         # 直接嵌入原始HTML内容
+        #         html += f'<div>{topic_content}</div>\n'
+        #         html += '</div>\n'
+        #     html += "</div>\n"
         
         html += f"""
     <div class="footer">
-        <p>内容自动聚合于 {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}</p>
+        <p>内容自动聚合于 {datetime.now(self.tz_cst).strftime("%Y-%m-%d %H:%M:%S %Z%z")}</p>
         <p>仅包含 {today} 发布的内容</p>
     </div>
 </body>
@@ -680,7 +611,7 @@ class FinalRSSAggregator:
     def reconstruct_rss(self, main_topics, unique_sspai_topics):
         """重构RSS，将独特少数派内容附加到主条目"""
         all_content_html = self.generate_flat_html(main_topics, unique_sspai_topics)
-        today = datetime.now().strftime("%Y年%m月%d日")
+        today = datetime.now(self.tz_cst).strftime("%Y年%m月%d日") # 使用CST
         
         # 获取GitHub Pages URL或使用默认值
         github_pages_url = self.get_github_pages_url()
@@ -690,14 +621,15 @@ class FinalRSSAggregator:
             # 如果没有提供GitHub用户名和仓库名，使用相对路径
             html_url = self.html_output_file
         
+        # 使用当天日期作为GUID的一部分，确保每天的聚合文章GUID唯一
         main_item = {
             'title': f"每日新闻聚合 - {today}",
             'link': html_url,  # 使用实际的GitHub Pages URL
             'summary': all_content_html,
-            'published': datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0800"), # Keep current time for pubDate of the aggregated item
-            'published_parsed': time.localtime(),
+            'published': datetime.now(self.tz_cst).strftime("%a, %d %b %Y %H:%M:%S %z"), # 使用CST的pubDate
+            'published_parsed': datetime.now(self.tz_cst).timetuple(),
             'source': "新闻聚合器",
-            'id': hashlib.md5(f"daily_news_{datetime.now().strftime('%Y%m%d')}".encode()).hexdigest() # Modified GUID for aggregated item
+            'id': hashlib.md5(f"daily_news_{self.today_cst.strftime('%Y%m%d')}".encode()).hexdigest() # Modified GUID for aggregated item, based on CST date
         }
         return [main_item]
 
@@ -716,7 +648,7 @@ class FinalRSSAggregator:
         ET.SubElement(channel, "link").text = channel_link
         ET.SubElement(channel, "description").text = "多源新闻内容聚合，已进行话题级别去重"
         ET.SubElement(channel, "language").text = "zh-cn"
-        ET.SubElement(channel, "lastBuildDate").text = datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0800")
+        ET.SubElement(channel, "lastBuildDate").text = datetime.now(self.tz_cst).strftime("%a, %d %b %Y %H:%M:%S %z") # 使用CST
         generator = ET.SubElement(channel, "generator")
         generator.text = "Final RSS Aggregator"
         atom_link = ET.SubElement(channel, "atom:link")
@@ -766,10 +698,9 @@ class FinalRSSAggregator:
 
 # 主函数
 def main():
-    # 仅保留三个源
+    # 仅保留爱范儿和极客公园两个源
     rss_feeds = [
         {"name": "爱范儿", "url": "https://appd.top/feed/ifanr"},
-        {"name": "少数派", "url": "https://appd.top/feed/sspai"}, # 少数派仍然获取，但会特殊处理
         {"name": "极客公园", "url": "https://appd.top/feed/geekpark"}
     ]
     

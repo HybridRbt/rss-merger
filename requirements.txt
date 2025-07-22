@@ -4,3 +4,4 @@ scikit-learn
 python-Levenshtein
 beautifulsoup4
 numpy
+requests

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-07-27</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-07-28</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 27 Jul 2025 12:37:34 +0800</lastBuildDate>
-    <pubDate>Sun, 27 Jul 2025 12:37:34 +0800</pubDate>
+    <lastBuildDate>Mon, 28 Jul 2025 12:39:24 +0800</lastBuildDate>
+    <pubDate>Mon, 28 Jul 2025 12:39:24 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-07-27</title>
+      <title>每日科技新闻聚合 - 2025-07-28</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-07-27&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-07-28&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,31 +37,69 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-07-27&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年07月27日 12:37:34 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-07-28&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年07月28日 12:39:24 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;Anthropic 最新估值超 1500 亿美元；首款国产消费级 6nm GPU 亮相；100% 预... (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜iPhone 17 Pro 或配备 8 倍光学变焦/廉价版特斯拉 Model Y 内饰曝光/宇...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;具身智能，腾讯「低调入局」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;特斯拉廉价 Model Y 减配内饰曝光；Firefox 终止中国账户运营；宇树王兴兴：经常偷懒，用...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
- &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;Anthropic 最新估值超 1500 亿美元；首款国产消费级 6nm GPU 亮相；100% 预防艾滋神药获准上市&lt;/div&gt;
- &lt;div class="topic-content"&gt;
-诺奖得主杰弗里&amp;amp;middot;辛顿：应建立 AI 安全相关机构和社群，推动 AI 向善
-在 2025 世界人工智能大会主论坛上，图灵奖、诺贝尔物理学奖得主杰弗里&amp;amp;middot;辛顿表示，几乎所有专家认为会出现比人类更智能的 AI，AI 智能体为完成任务，会想要生存、获得更多控制，可能操纵人类，简单关闭 AI 不现实，就像养老虎当宠物，养大后可能被其伤害，而人类无法消灭 AI，因其在多领域作用重大...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了2篇相关文章)&lt;/div&gt;
+&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
+ &lt;div class="topic" id="topic-4"&gt;
+ &lt;div class="topic-title"&gt;早报｜iPhone 17 Pro 或配备 8 倍光学变焦/廉价版特斯拉 Model Y 内饰曝光/宇树创始人回应「机器人跳舞拳击没用」&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 蔚来萤火虫交付破万
+· 阿里自研 AI 眼镜亮相
+· 12306：没有专门条款禁止旅客打电话#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1632079?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/351939" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1632140?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-5"&gt;
+ &lt;div class="topic-title"&gt;具身智能，腾讯「低调入局」&lt;/div&gt;
+ &lt;div class="topic-content"&gt;头图来源：腾讯Robotics X 官网
+&amp;amp;nbsp;
+早在2700年前的古希腊神话中，工匠之神打造的青铜巨人Talos，已经在克里特岛上巡视、守卫领土。它拥有自主意识，被视为「最早的安保机器人」。
+&amp;amp;nbsp;
+腾讯首席科学家张正友用这个故事作为演讲的开场，人类这种对机械智能体的渴望，从青铜锻造炉一直延续到了今天的实验室。
+&amp;amp;nbsp;
+这种渴望在今年的世界人工智能大会（WAIC）上，尤其强烈。...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="http://www.geekpark.net/news/351962" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-6"&gt;
+ &lt;div class="topic-title"&gt;特斯拉廉价 Model Y 减配内饰曝光；Firefox 终止中国账户运营；宇树王兴兴：经常偷懒，用 AI 写代码｜极客早知道&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+&amp;amp;nbsp;
+消息称特斯拉第三代机器人即将进入中国 C 端市场，预计明年实现量产
+7 月 27 日消息，特斯拉相关人士向《科创板日报》记者透露，目前特斯拉第三代机器人已在美国工厂进行实测，预计 2025 年面向中国 C 端市场推出，将进入家庭等消费场景，预计 2026 年实现量产，计划 5 年内年产 100 万台。
+
+&amp;amp;nbsp;
+据了解，特斯拉 Optimus 人形机器人项目自 2021 年首...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="http://www.geekpark.net/news/351963" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-07-27-40888a8e</guid>
-      <pubDate>Sun, 27 Jul 2025 12:37:34 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-07-28-c7221e36</guid>
+      <pubDate>Mon, 28 Jul 2025 12:39:24 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-07-30</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-07-31</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 30 Jul 2025 12:36:43 +0800</lastBuildDate>
-    <pubDate>Wed, 30 Jul 2025 12:36:43 +0800</pubDate>
+    <lastBuildDate>Thu, 31 Jul 2025 12:35:28 +0800</lastBuildDate>
+    <pubDate>Thu, 31 Jul 2025 12:35:28 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-07-30</title>
+      <title>每日科技新闻聚合 - 2025-07-31</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-07-30&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-07-31&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,20 +37,51 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-07-30&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年07月30日 12:36:43 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-07-31&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年07月31日 12:35:28 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜苹果回应首次在华关停直营店/理想 i8 上市，创始人：第一眼我都觉得丑/索尼起诉腾讯新作抄袭 (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;智能驾驶最大的障碍，不是懂车帝 (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;小米青年公寓正式启用，1999 元/月；Meta AI 数据中心投入 720 亿美元；NBA 引入「... (3篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;早报｜iPhone 17 系列或涨价 50 美元/余承东：鸿蒙5终端数量破千万/腾讯客服回应微信好友...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-4"&gt;长安汽车升格为第 100 家央企，全年目标销量 300 万辆&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-5"&gt;32.18万起！理想i8正面「硬刚」特斯拉Model X&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;早报｜苹果回应首次在华关停直营店/理想 i8 上市，创始人：第一眼我都觉得丑/索尼起诉腾讯新作抄袭&lt;/div&gt;
- &lt;div class="topic-content"&gt;· iPhone 17 Pro 疑似真机曝光
-· 字节否认打造「豆包汽车」
-· 美团：绝不自营外卖，不与商家竞争#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+ &lt;div class="topic-title"&gt;智能驾驶最大的障碍，不是懂车帝&lt;/div&gt;
+ &lt;div class="topic-content"&gt;一个汽车媒体平台的测评，在网上引发了热议。
+7月23日，懂车帝与央视新闻联合开展的智驾碰撞测试公布结果。考试结果一公布，很多人都惊呆了。
+在过去几年里，我们听到的宣传大多是「XX品牌，遥遥领先」、「智能驾驶超越特斯拉」。在很多人的印象里，国产品牌，已经是智能汽车赛道当之无愧的「优等生」。
+然而，最终的「榜单」却显示，特斯拉在高速和城区两个测试场景中，都拿下了最好的成绩。
+懂车帝的视频和结果一出，汽...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了2篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1632520?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/352169" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-2"&gt;
+ &lt;div class="topic-title"&gt;小米青年公寓正式启用，1999 元/月；Meta AI 数据中心投入 720 亿美元；NBA 引入「AI 篮球」&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+小米青年公寓正式落成启用，实现「为奋斗者筑家」承诺
+7 月 30 日消息，小米集团合伙人、总裁，手机部总裁，小米品牌总经理 @ 卢伟冰 宣布，小米青年公寓正式落成启用。
+卢伟冰表示，小米青年公寓用时五年打造，选址、建设、设计、装修都始终倾听年轻人需求，共同打造「新家」。「人才是小米技术的『根』，小米集团实现了「为奋斗者筑家，为梦想者护航」这一人才承诺。向入住公寓的小米同学们表达祝贺，也感谢在青年...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园 (合并了3篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="http://www.geekpark.net/news/352174" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/352172" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/352162" target="_blank"&gt;阅读原文 3&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;早报｜iPhone 17 系列或涨价 50 美元/余承东：鸿蒙5终端数量破千万/腾讯客服回应微信好友通过没提示消息&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 星巴克董事长：希望保留中国业务相当比例的股权
+· 比亚迪：上半年销量破 214 万辆
+· 全新小鹏 P7 首秀定档 8 月#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -60,17 +91,43 @@ h2 { color: #007acc; margin-top: 30px; }
 
 
 &lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1632402?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1632337?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1632571?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-4"&gt;
+ &lt;div class="topic-title"&gt;长安汽车升格为第 100 家央企，全年目标销量 300 万辆&lt;/div&gt;
+ &lt;div class="topic-content"&gt;新长安、新征程。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1632554?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-5"&gt;
+ &lt;div class="topic-title"&gt;32.18万起！理想i8正面「硬刚」特斯拉Model X&lt;/div&gt;
+ &lt;div class="topic-content"&gt;理想汽车「再战」纯电市场。
+2025年7月29日，一个对于理想汽车至关重要的夜晚。不同于以往45分钟的发布会，创始人李想和高管团队花了近两个小时，详细解读了旗下首款纯电SUV&amp;amp;mdash;&amp;amp;mdash;理想i8。新车共分三个版本，Pro版售价32.18万元，Max版34.98万元，Ultra版36.98万元。
+理想i8定位为三排六座家用纯电SUV，风格上像特斯拉Model X的旅行版，特别优化了第...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="http://www.geekpark.net/news/352171" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-07-30-b8ce90c1</guid>
-      <pubDate>Wed, 30 Jul 2025 12:36:43 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-07-31-d53583a5</guid>
+      <pubDate>Thu, 31 Jul 2025 12:35:28 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

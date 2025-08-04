@@ -2,13 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-08-03</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-08-04</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 03 Aug 2025 12:42:03 +0800</lastBuildDate>
-    <pubDate>Sun, 03 Aug 2025 12:42:03 +0800</pubDate>
+    <lastBuildDate>Mon, 04 Aug 2025 12:51:26 +0800</lastBuildDate>
+    <pubDate>Mon, 04 Aug 2025 12:51:26 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
+    <item>
+      <title>每日科技新闻聚合 - 2025-08-04</title>
+      <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
+&lt;html lang="zh-CN"&gt;
+&lt;head&gt;
+&lt;meta charset="UTF-8"&gt;
+&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-08-04&lt;/title&gt;
+&lt;style&gt;
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
+h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
+h2 { color: #007acc; margin-top: 30px; }
+.topic { margin-bottom: 25px; padding: 15px; border-left: 4px solid #007acc; background-color: #f8f9fa; }
+.topic-title { font-weight: bold; font-size: 1.1em; margin-bottom: 8px; }
+.topic-content { margin-bottom: 10px; }
+.topic-meta { font-size: 0.9em; color: #666; }
+.topic-links { margin-top: 8px; }
+.topic-links a { margin-right: 15px; color: #007acc; text-decoration: none; }
+.topic-links a:hover { text-decoration: underline; }
+.toc { background-color: #f0f0f0; padding: 15px; margin-bottom: 30px; border-radius: 5px; }
+.toc h3 { margin-top: 0; }
+.toc ul { margin: 0; padding-left: 20px; }
+.toc a { color: #007acc; text-decoration: none; }
+.toc a:hover { text-decoration: underline; }
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-08-04&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年08月04日 12:51:26 CST&lt;/p&gt;
+&lt;div class="toc"&gt;
+&lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜曝 iPhone 17 Pro 国行电池缩水/理想回应对撞争议：无心之举/特斯拉辅助驾驶车祸或... (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;a16z ：AI 投资不再看模型性能；中国汽研、理想汽车双双回应 i8 测试争议；万事达否认向平台施...&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
+ &lt;div class="topic" id="topic-1"&gt;
+ &lt;div class="topic-title"&gt;早报｜曝 iPhone 17 Pro 国行电池缩水/理想回应对撞争议：无心之举/特斯拉辅助驾驶车祸或赔 3.29 亿美元&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 乘龙卡车回应理想对撞复测：不挑事不怕事
+· 库克超越乔布斯，成为苹果任期最长 CEO
+· 法拉第未来回应「抄袭长城」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1632901?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1632898?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
+ &lt;div class="topic" id="topic-2"&gt;
+ &lt;div class="topic-title"&gt;a16z ：AI 投资不再看模型性能；中国汽研、理想汽车双双回应 i8 测试争议；万事达否认向平台施压下架成人游戏&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+古尔曼：苹果公司正在打造 ChatGPT 竞品
+据彭博记者马克&amp;amp;middot;古尔曼报道，今年早些时候，苹果公司悄然组建了一支名为「Answers，Knowledge and Information」（简称 AKI）的新团队。该团队正在探索多项自研 AI 服务，目标是打造一种全新的类 ChatGPT 搜索体验。
+虽然仍处于早期阶段，但该团队正在构建所谓的「答案引擎」&amp;amp;mdash;&amp;amp;mdash;一...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="http://www.geekpark.net/news/352269" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;]]&gt;</description>
+      <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
+      <guid isPermaLink="false">aggregated-news-2025-08-04-a76bbcc1</guid>
+      <pubDate>Mon, 04 Aug 2025 12:51:26 +0800</pubDate>
+      <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
+    </item>
   </channel>
 </rss>

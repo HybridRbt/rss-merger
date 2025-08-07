@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-08-06</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-08-07</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 06 Aug 2025 12:38:21 +0800</lastBuildDate>
-    <pubDate>Wed, 06 Aug 2025 12:38:21 +0800</pubDate>
+    <lastBuildDate>Thu, 07 Aug 2025 12:38:22 +0800</lastBuildDate>
+    <pubDate>Thu, 07 Aug 2025 12:38:22 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-08-06</title>
+      <title>每日科技新闻聚合 - 2025-08-07</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-08-06&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-08-07&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,77 +37,33 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-08-06&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年08月06日 12:38:21 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-08-07&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年08月07日 12:38:22 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;OpenAI 完成 80 亿美元融资，估值 3000 亿；宇树发布新一代机器狗；英伟达深夜发声：不存... (3篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;仅需 40 万，4 台顶配 Mac Studio 串联，同时跑两个 DeepSeek 是什么体验？&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;早报｜理想 i8 发布一周官宣降价/英伟达否认芯片存在后门和终止开关/宇树发布新款机器狗&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;GPT-5 发布时间定了；宝马 i 系列汽车设计主管 Kai Langer 宣布加入小米；消息称爱奇... (2篇文章)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;OpenAI 完成 80 亿美元融资，估值 3000 亿；宇树发布新一代机器狗；英伟达深夜发声：不存在后门、终止开关、监控软件｜极客早知道&lt;/div&gt;
+ &lt;div class="topic-title"&gt;GPT-5 发布时间定了；宝马 i 系列汽车设计主管 Kai Langer 宣布加入小米；消息称爱奇艺拟赴港上市融资 3 亿美元&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-英伟达再度深夜发声：我们的芯片不存在后门、终止开关、监控软件
-8 月 6 日凌晨，英伟达通过官方微博发表声明，强调其 GPU 芯片不存在后门、终止开关或监控软件。针对近期部分专家和政策制定者主张在硬件中加入远程关闭芯片功能以降低误用风险的提议，英伟达坚决反对，并指出：
-
-
-在硬件中嵌入永久控制逻辑，将可能被黑客或敌对势力利用，削弱全球数字基础架构信任；
-
-
-30 多年前的 Clipper 芯片后...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园 (合并了3篇相关文章)&lt;/div&gt;
+GPT-5 发布时间定了，ChatGPT 年费只要 1 美元，OpenAI 估值达 5000 亿
+OpenAI 官宣：LIVE5TREAM（直播）将在周四上午 10 点（太平洋时间），也就是北京时间周五的凌晨 1 点开始。并且，从 OpenAI 官网能看到 GPT-5 的图标已经确认。
+目前有三个版本：GPT-5；GPT-5-mini； GPT-5-nano。
+与此同时，OpenAI 的首席产品...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了2篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/352391" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/352375" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/352373" target="_blank"&gt;阅读原文 3&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;仅需 40 万，4 台顶配 Mac Studio 串联，同时跑两个 DeepSeek 是什么体验？&lt;/div&gt;
- &lt;div class="topic-content"&gt;如果说 H100 是金字塔顶的王者，而 Mac Studio 正在成为中小团队手中的瑞士军刀。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博
-
-
-
-
-&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1633226?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;早报｜理想 i8 发布一周官宣降价/英伟达否认芯片存在后门和终止开关/宇树发布新款机器狗&lt;/div&gt;
- &lt;div class="topic-content"&gt;· OpenAI、Google、Cluade 齐发王牌模型
-· 全新小鹏 P7 内饰曝光，今晚发布
-· 淘宝 88 会员升级：打通多个平台#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博
-
-
-
-
-&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1633217?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1633314?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/352424" target="_blank"&gt;阅读原文 2&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-08-06-029a6188</guid>
-      <pubDate>Wed, 06 Aug 2025 12:38:21 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-08-07-98f1036e</guid>
+      <pubDate>Thu, 07 Aug 2025 12:38:22 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-08-07</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-08-08</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 07 Aug 2025 12:38:22 +0800</lastBuildDate>
-    <pubDate>Thu, 07 Aug 2025 12:38:22 +0800</pubDate>
+    <lastBuildDate>Fri, 08 Aug 2025 12:38:06 +0800</lastBuildDate>
+    <pubDate>Fri, 08 Aug 2025 12:38:06 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-08-07</title>
+      <title>每日科技新闻聚合 - 2025-08-08</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-08-07&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-08-08&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,33 +37,81 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-08-07&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年08月07日 12:38:22 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-08-08&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年08月08日 12:38:06 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;GPT-5 发布时间定了；宝马 i 系列汽车设计主管 Kai Langer 宣布加入小米；消息称爱奇... (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜GPT-5 人人可用，一手实测来了/理想回应出现大量负面评价/微信：真的不做已读功能&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;最智能的一台沃尔沃！全新 XC70 即将上市，换装全新车机，纯电续航 200+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;「油车智障」的招牌，被奥迪一脚踢开&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-4"&gt;GPT-5 来了，多项能力屠榜；OpenAI 给所有员工发 150 万美金奖金；特朗普喊话英特尔 C...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
- &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;GPT-5 发布时间定了；宝马 i 系列汽车设计主管 Kai Langer 宣布加入小米；消息称爱奇艺拟赴港上市融资 3 亿美元&lt;/div&gt;
- &lt;div class="topic-content"&gt;
-GPT-5 发布时间定了，ChatGPT 年费只要 1 美元，OpenAI 估值达 5000 亿
-OpenAI 官宣：LIVE5TREAM（直播）将在周四上午 10 点（太平洋时间），也就是北京时间周五的凌晨 1 点开始。并且，从 OpenAI 官网能看到 GPT-5 的图标已经确认。
-目前有三个版本：GPT-5；GPT-5-mini； GPT-5-nano。
-与此同时，OpenAI 的首席产品...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了2篇相关文章)&lt;/div&gt;
+&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
+ &lt;div class="topic" id="topic-5"&gt;
+ &lt;div class="topic-title"&gt;早报｜GPT-5 人人可用，一手实测来了/理想回应出现大量负面评价/微信：真的不做已读功能&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 三星电子或代工 iPhone 相机传感器
+· 理想回应出现大量负面评价
+· 何小鹏：5-10 年后，算力会再提升 10 倍#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1633314?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/352424" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1633547?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-6"&gt;
+ &lt;div class="topic-title"&gt;最智能的一台沃尔沃！全新 XC70 即将上市，换装全新车机，纯电续航 200+&lt;/div&gt;
+ &lt;div class="topic-content"&gt;介于 XC60 和 XC90 之前，定位 40 万元级。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1633419?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-7"&gt;
+ &lt;div class="topic-title"&gt;「油车智障」的招牌，被奥迪一脚踢开&lt;/div&gt;
+ &lt;div class="topic-content"&gt;对于消费者来说，汽车行业一直有一个迷思&amp;amp;mdash;&amp;amp;mdash;传统燃油车，到底能不能像新能源车一样，通过智能座舱和智能驾驶，在智能化上追赶上新能源对手。
+现在，这个终于有了答案。
+8&amp;amp;nbsp;月&amp;amp;nbsp;7&amp;amp;nbsp;日，一汽奥迪在发布会上，一汽奥迪 Q6L e-tron 家族和一汽奥迪&amp;amp;nbsp;A5L&amp;amp;nbsp;正式上市。除了豪华新车，本场发布会上最重要的信息是，凭借和华为乾崑合作，一...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="http://www.geekpark.net/news/352463" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-8"&gt;
+ &lt;div class="topic-title"&gt;GPT-5 来了，多项能力屠榜；OpenAI 给所有员工发 150 万美金奖金；特朗普喊话英特尔 CEO：必须立即辞职&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+
+OpenAI GPT-5 发布：模型能力全面「屠榜」，免费 ChatGPT 用户也能体验
+8 月 8 日，OpenAI 夏季发布会召开，GPT-5 正式发布。该模型在文本、WebDev、视觉感知等多领域表现顶尖，硬提示、编码、数学等方面均排名第一，Arena 分数居首，实现「屠榜」。
+GPT-5 系列含 GPT-5、mini、nano、chat 四个版本，幻觉问题显著改善，联网搜索事实错误率比...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="http://www.geekpark.net/news/352473" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-08-07-98f1036e</guid>
-      <pubDate>Thu, 07 Aug 2025 12:38:22 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-08-08-cfd33478</guid>
+      <pubDate>Fri, 08 Aug 2025 12:38:06 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

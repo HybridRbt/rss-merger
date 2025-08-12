@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-08-11</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-08-12</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 11 Aug 2025 12:36:55 +0800</lastBuildDate>
-    <pubDate>Mon, 11 Aug 2025 12:36:55 +0800</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 12:21:56 +0800</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 12:21:56 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-08-11</title>
+      <title>每日科技新闻聚合 - 2025-08-12</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-08-11&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-08-12&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,19 +37,21 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-08-11&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年08月11日 12:36:55 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-08-12&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年08月12日 12:21:56 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;8.18 万元起售，吉利银河 A7 想「颠覆」电混家轿，剑指比亚迪秦L&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜百果园董事长谈水果贵：教消费者成熟/曝 iPhone 有望用 Siri 完全控制/特斯拉车机界...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜廉价版 MacBook 或低于 5000 元/雷军发起小米 YU7 版本改名投票/码农正在成为...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;雷军：小米YU7改名，被误会是丐版；传淘宝闪购周末峰值超美团；低价 MacBook 或年底亮相，59...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
  &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;8.18 万元起售，吉利银河 A7 想「颠覆」电混家轿，剑指比亚迪秦L&lt;/div&gt;
- &lt;div class="topic-content"&gt;百公里馈电油耗仅为 2.67L？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+ &lt;div class="topic-title"&gt;早报｜廉价版 MacBook 或低于 5000 元/雷军发起小米 YU7 版本改名投票/码农正在成为现失业率最高的专业&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 消息称玛莎拉蒂采用奇瑞平台
+· vivo vision 亮相，重量有惊喜
+· 胖东来回应招聘「刑释人员」：不带有色眼镜#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -61,33 +63,25 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1633685?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1633845?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;早报｜百果园董事长谈水果贵：教消费者成熟/曝 iPhone 有望用 Siri 完全控制/特斯拉车机界面或大升级&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 华为将发布 AI 推理领域突破性成果
-· 王兴兴谈宇树科技上市
-· 真我 GT8 将于 10 月上市#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博
-
-
-
-
-&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-title"&gt;雷军：小米YU7改名，被误会是丐版；传淘宝闪购周末峰值超美团；低价 MacBook 或年底亮相，599 美元&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+雷军征求小米 YU7 标准版改名意见：很多人误以为是入门或丐版，配置绝不输于竞品 Pro 和 Max 版
+8 月 11 日消息，小米创办人、董事长兼 CEO 雷军在微博向网友征求小米 YU7 标准版是否改名的意见，称标准版很多人误以为是入门版或者丐版，但实际上非常强大，续航高达 835 公里，700 Tops 算力的 Thor 芯片和激光雷达等等，配置绝不输于竞品 Pro 版和 Max 版。
+目...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1633739?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/352588" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-08-11-c2cd9fd9</guid>
-      <pubDate>Mon, 11 Aug 2025 12:36:55 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-08-12-39454dfc</guid>
+      <pubDate>Tue, 12 Aug 2025 12:21:56 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

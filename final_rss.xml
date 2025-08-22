@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-08-21</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-08-22</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 21 Aug 2025 12:15:39 +0800</lastBuildDate>
-    <pubDate>Thu, 21 Aug 2025 12:15:39 +0800</pubDate>
+    <lastBuildDate>Fri, 22 Aug 2025 12:14:56 +0800</lastBuildDate>
+    <pubDate>Fri, 22 Aug 2025 12:14:56 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-08-21</title>
+      <title>每日科技新闻聚合 - 2025-08-22</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-08-21&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-08-22&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,33 +37,69 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-08-21&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年08月21日 12:15:39 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-08-22&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年08月22日 12:14:56 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;OpenAI 单月营收已经破 10 亿美元；马斯克的 Grok，超 37 万条用户聊天记录「裸奔」；... (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;实拍手机神级修复现场，坏成这样也能修？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜vivo Vision 探索版正式发布/《原神》鸿蒙版开启预约/租电 30.88 万元起，蔚来...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;DeepSeek V3.1 发布：更强的 Agent ，更贵的 API；多家网约车平台集体降抽成；影...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
- &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;OpenAI 单月营收已经破 10 亿美元；马斯克的 Grok，超 37 万条用户聊天记录「裸奔」；谷歌发布 AI 手机&lt;/div&gt;
- &lt;div class="topic-content"&gt;&amp;amp;nbsp;
+&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
+ &lt;div class="topic" id="topic-4"&gt;
+ &lt;div class="topic-title"&gt;实拍手机神级修复现场，坏成这样也能修？&lt;/div&gt;
+ &lt;div class="topic-content"&gt;从手机「路面三级跳」到电脑「自由落体」，爱范儿带你直击华为服务极限修复现场！#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
 
-马斯克的 Grok 又捅篓子，超 37 万条用户聊天记录「裸奔」
-8 月 21 日消息，埃隆・马斯克（Elon Musk）所创立的 xAI 公司旗下的 Grok AI 聊天平台被曝出隐私问题。据《福布斯》报道，Grok 网站上已有超过 37 万条 AI 聊天记录被发布并被搜索引擎索引，这意味着这些聊天内容已经对公众开放。
-除了聊天记录本身，Grok 还发布了用户上传的照片、电子表格...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了2篇相关文章)&lt;/div&gt;
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1634850?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/352917" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1635060?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-5"&gt;
+ &lt;div class="topic-title"&gt;早报｜vivo Vision 探索版正式发布/《原神》鸿蒙版开启预约/租电 30.88 万元起，蔚来全新 ES8 发布&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· PS5 美版宣布涨价
+· 影石首款「口袋相机」GO Ultra 发布
+· OpenAI 单月营收破 10 亿美元#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1635028?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-6"&gt;
+ &lt;div class="topic-title"&gt;DeepSeek V3.1 发布：更强的 Agent ，更贵的 API；多家网约车平台集体降抽成；影石发布 4K 画质「口袋相机」｜极客早知道&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+DeepSeek V3.1 发布：更强的 Agent 能力，更贵的 API
+8 月 21 日，DeepSeek 正式发布新模型 V3.1，被官方称为「迈向智能体时代的第一步」。虽然未见期待已久的 R2 模型，但本次迭代重点在于&amp;amp;nbsp;更强的 Agent 能力、混合思考模式与更高思考效率。
+V3.1 采用混合推理架构，用户可在「思考模式」与「非思考模式」间自由切换：复杂任务可调用深度推理，简单...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="http://www.geekpark.net/news/352962" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-08-21-13192824</guid>
-      <pubDate>Thu, 21 Aug 2025 12:15:39 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-08-22-6d500ff0</guid>
+      <pubDate>Fri, 22 Aug 2025 12:14:56 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

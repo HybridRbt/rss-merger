@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-08-23</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-08-24</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 23 Aug 2025 12:14:40 +0800</lastBuildDate>
-    <pubDate>Sat, 23 Aug 2025 12:14:40 +0800</pubDate>
+    <lastBuildDate>Sun, 24 Aug 2025 12:19:27 +0800</lastBuildDate>
+    <pubDate>Sun, 24 Aug 2025 12:19:27 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-08-23</title>
+      <title>每日科技新闻聚合 - 2025-08-24</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-08-23&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-08-24&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,51 +37,31 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-08-23&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年08月23日 12:14:40 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-08-24&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年08月24日 12:19:27 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜特斯拉将接入 DeepSeek 和豆包/李斌回应蔚来新车定价：活下去最重要/哈苏重磅新机定档&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;Anthropic 寻求 100 亿美元新融资；《恋与深空》获科隆展最佳移动游戏奖；脑瘫司机靠特斯拉...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;小米YU7遭逆行水泥罐车撞击，车主平安；马斯克开源Grok 2.5模型；黑悟空因未公布新DLC遭玩家...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;早报｜特斯拉将接入 DeepSeek 和豆包/李斌回应蔚来新车定价：活下去最重要/哈苏重磅新机定档&lt;/div&gt;
- &lt;div class="topic-content"&gt;· vivo 或入局手持云台相机赛道
-· 魅族 22 发布再延期，CMO 回应
-· 优衣库×泡泡玛特合作系列上市#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博
-
-
-
-
-&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1635223?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;Anthropic 寻求 100 亿美元新融资；《恋与深空》获科隆展最佳移动游戏奖；脑瘫司机靠特斯拉 FSD 开车养家&lt;/div&gt;
+&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
+ &lt;div class="topic" id="topic-1"&gt;
+ &lt;div class="topic-title"&gt;小米YU7遭逆行水泥罐车撞击，车主平安；马斯克开源Grok 2.5模型；黑悟空因未公布新DLC遭玩家刷差评&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-苹果正探索与 OpenAI、Anthropic 及谷歌合作，评估 Gemini 等第三方模型
-8 月 23 日消息，彭博社马克・古尔曼刚刚报道称，苹果近期接触谷歌母公司 Alphabet，拟在 Gemini 基础上合作开发定制化 AI 模型，将其作为明年全新 Siri 的基础 AI 引擎。
-消息人士称，谷歌 Gemini 已启动苹果服务器的适配工作，或者说谷歌正在训练一款可运行在苹果服务器上的 ...&lt;/div&gt;
+小米 YU7 遭逆行水泥罐车撞击：行车记录仪第一视角曝光，车主平安无事感谢小米关怀
+8 月 23 日消息，一段车祸视频最近在网上传播，引发广泛关注。8 月 19 日内蒙古赤峰，一辆正常行驶的小米 YU7，遭到一辆逆行的水泥罐车撞击并推行一段距离，车内人员未受伤，可安全下车。
+车主随后帖称：「小米车救了我一命，前面那个水泥罐车刹不住，我们在前面被撞得最严重，车转了一圈，小米的防撞梁太硬了，救了我一...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/353007" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/353010" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-08-23-ed5dc0f6</guid>
-      <pubDate>Sat, 23 Aug 2025 12:14:40 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-08-24-66ae06bd</guid>
+      <pubDate>Sun, 24 Aug 2025 12:19:27 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

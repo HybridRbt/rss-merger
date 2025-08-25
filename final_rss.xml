@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-08-24</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-08-25</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 24 Aug 2025 12:19:27 +0800</lastBuildDate>
-    <pubDate>Sun, 24 Aug 2025 12:19:27 +0800</pubDate>
+    <lastBuildDate>Mon, 25 Aug 2025 12:20:20 +0800</lastBuildDate>
+    <pubDate>Mon, 25 Aug 2025 12:20:20 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-08-24</title>
+      <title>每日科技新闻聚合 - 2025-08-25</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-08-24&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-08-25&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,31 +37,52 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-08-24&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年08月24日 12:19:27 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-08-25&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年08月25日 12:20:20 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;小米YU7遭逆行水泥罐车撞击，车主平安；马斯克开源Grok 2.5模型；黑悟空因未公布新DLC遭玩家...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜iPhone 或将迎来三年大改/小米新车曝光，疑似 SU7 加长版/茶颜悦色就抄袭道歉&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;小米 SU7「加长版」测试车外观曝光；Meta 被指控使用盗版成人影片训练模型；英伟达推出史上最强迷...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
- &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;小米YU7遭逆行水泥罐车撞击，车主平安；马斯克开源Grok 2.5模型；黑悟空因未公布新DLC遭玩家刷差评&lt;/div&gt;
+&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;早报｜iPhone 或将迎来三年大改/小米新车曝光，疑似 SU7 加长版/茶颜悦色就抄袭道歉&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· OPPO Find X9 将配备丹霞原彩镜头
+· 萤火虫或下月推出特别版，欧版同款调教
+· 胖东来保安、保洁招聘一小时被报满#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1635248?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-4"&gt;
+ &lt;div class="topic-title"&gt;小米 SU7「加长版」测试车外观曝光；Meta 被指控使用盗版成人影片训练模型；英伟达推出史上最强迷你 PC&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-小米 YU7 遭逆行水泥罐车撞击：行车记录仪第一视角曝光，车主平安无事感谢小米关怀
-8 月 23 日消息，一段车祸视频最近在网上传播，引发广泛关注。8 月 19 日内蒙古赤峰，一辆正常行驶的小米 YU7，遭到一辆逆行的水泥罐车撞击并推行一段距离，车内人员未受伤，可安全下车。
-车主随后帖称：「小米车救了我一命，前面那个水泥罐车刹不住，我们在前面被撞得最严重，车转了一圈，小米的防撞梁太硬了，救了我一...&lt;/div&gt;
+英伟达推出史上最强迷你 PC：最高 2070T AI 性能、128G 内存
+
+日前，NVIDIA 正式推出了号称史上最强、最小的迷你 PC&amp;amp;mdash;&amp;amp;mdash;Jetson Thor 系列，AI 性能可达 2070TFLOPS，售价 2.5 万元起。
+Jetson Thor 是专为 AI、机器人、边缘计算等设计的消费级平台，CPU 是 ARM Neoverse-V3AE，而 GPU 基于 ...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/353010" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/353013" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-08-24-66ae06bd</guid>
-      <pubDate>Sun, 24 Aug 2025 12:19:27 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-08-25-986230e3</guid>
+      <pubDate>Mon, 25 Aug 2025 12:20:20 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

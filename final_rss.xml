@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-08-30</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-08-31</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 30 Aug 2025 12:14:13 +0800</lastBuildDate>
-    <pubDate>Sat, 30 Aug 2025 12:14:13 +0800</pubDate>
+    <lastBuildDate>Sun, 31 Aug 2025 12:14:24 +0800</lastBuildDate>
+    <pubDate>Sun, 31 Aug 2025 12:14:24 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-08-30</title>
+      <title>每日科技新闻聚合 - 2025-08-31</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-08-30&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-08-31&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,34 +37,18 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-08-30&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年08月30日 12:14:13 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-08-31&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年08月31日 12:14:24 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;任正非王兴兴梁文锋入选「时代 AI 百人」；小米主动召回充电宝；阿里蒋凡：淘宝闪购规模+心智超预期｜... (2篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜小米营销遭苹果三星联合起诉/华为官宣 MatePad Mini/特斯拉推出高性能版 Model...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;拨号上网尘封往事：当三个聋哑人，向巨头发起革命&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;任正非王兴兴梁文锋入选「时代 AI 百人」；小米主动召回充电宝；阿里蒋凡：淘宝闪购规模+心智超预期｜极客早知道&lt;/div&gt;
- &lt;div class="topic-content"&gt;
-&amp;amp;nbsp;
-《时代》公布 2025 全球 AI 领域百大影响力人物：华为任正非、DeepSeek 梁文锋、宇树王兴兴等入选「领导者」榜单
-8 月 30 日消息，《时代》杂志于 8 月 28 日发布 2025 年度《全球 AI 领域百大影响力人物》（TIME100 AI）榜单，华为创始人任正非、Deepseek&amp;amp;nbsp;首席执行官梁文峰、xAI 创始人埃隆・马斯克（Elon Musk）、Ope...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了2篇相关文章)&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1636159?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/353293" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;早报｜小米营销遭苹果三星联合起诉/华为官宣 MatePad Mini/特斯拉推出高性能版 Model Y&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 崔东树：7 月中国占世界汽车份额 34%
-· 华为将推出小尺寸平板 MatePad Mini
-· 广州「电鸡」新规：启动外卖等服务行业专用号牌#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+ &lt;div class="topic-title"&gt;拨号上网尘封往事：当三个聋哑人，向巨头发起革命&lt;/div&gt;
+ &lt;div class="topic-content"&gt;如果这个故事留下了什么教训，我想应该是：不要忽视包容性和无障碍设计，它们可能成为科技创新的源泉，足以改变世界。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -76,14 +60,14 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1636163?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1636166?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-08-30-97945a94</guid>
-      <pubDate>Sat, 30 Aug 2025 12:14:13 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-08-31-008a4398</guid>
+      <pubDate>Sun, 31 Aug 2025 12:14:24 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-09-01</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-09-02</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 01 Sep 2025 12:22:54 +0800</lastBuildDate>
-    <pubDate>Mon, 01 Sep 2025 12:22:54 +0800</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2025 12:15:13 +0800</lastBuildDate>
+    <pubDate>Tue, 02 Sep 2025 12:15:13 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-09-01</title>
+      <title>每日科技新闻聚合 - 2025-09-02</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-09-01&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-09-02&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,49 +37,67 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-09-01&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年09月01日 12:22:54 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-09-02&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年09月02日 12:15:13 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;从「卖设备」到「建关系」，AI 硬件的破局点到底在哪里？ (2篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;今起 AI 生成内容必须亮明身份；大疆双摄 Pocket 4 曝光；微信公号留言广告上线&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;广告，救不了 AI 搜索 (4篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;19 亿美元的 91 助手死了，但「手机助手」已经秽土转生&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;腾讯回应米哈游起诉：QQ用户资料不能随便给；特斯拉首曝Cyber SUV；外卖「小电驴」须装北斗定位...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;从「卖设备」到「建关系」，AI 硬件的破局点到底在哪里？&lt;/div&gt;
- &lt;div class="topic-content"&gt;&amp;amp;nbsp;
-头图来源：百度
-&amp;amp;nbsp;
-资本的流向，往往是下一个风口的风向标。
-近期，投资圈对硬件项目的兴趣显著回升，有机构甚至一个月内就过会了十个左右的硬件项目，还有一些项目被多家机构青睐，要想投进去还得经过一番「争夺」。
-可以看到，与过去一年多全行业聚焦于「AI 大脑」的景象不同，市场的关注点正在向「AI 身体」延伸。
-资本的嗅觉是敏锐的，这背后是一个正在形成的行业共识：模型应用创新，似乎...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了2篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-title"&gt;广告，救不了 AI 搜索&lt;/div&gt;
+ &lt;div class="topic-content"&gt;作者｜芯芯
+编辑｜靖宇
+AI 搜索初创公司 Perplexity，最近过得并不轻松。
+这家成立仅三年的公司，估值已飙至 180 亿美元，一边大力加码广告与购物业务，一边应对新闻出版商的集体围攻。就在 8 月，它又传出震撼业界的消息：
+想以 345 亿美元收购谷歌 Chrome 。
+然而在这个关键时刻，Perplexity 负责广告业务的高管 Taz Patel 却被爆突然离职。短短九个月的任期，留...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了4篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1636216?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/353340" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1636186?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1636290?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1636243?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 3&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
  &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;今起 AI 生成内容必须亮明身份；大疆双摄 Pocket 4 曝光；微信公号留言广告上线&lt;/div&gt;
- &lt;div class="topic-content"&gt;&amp;amp;nbsp;
+ &lt;div class="topic-title"&gt;19 亿美元的 91 助手死了，但「手机助手」已经秽土转生&lt;/div&gt;
+ &lt;div class="topic-content"&gt;再见了，所有的手机助手#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
 
-AI 生成内容必须「亮明身份」，《人工智能生成合成内容标识办法》9 月 1 日起施行
-8 月 31 日消息，国家网信办等四部门联合发布的《人工智能生成合成内容标识办法》将于 9 月 1 日起正式施行，所有&amp;amp;nbsp;AI&amp;amp;nbsp;生成的文字、图片、视频等内容都要「亮明身份」。
-《标识办法》明确，人工智能生成合成内容标识主要包括显式标识和隐式标识两种形式，显式标识是指在生成合成内容...&lt;/div&gt;
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1636263?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;腾讯回应米哈游起诉：QQ用户资料不能随便给；特斯拉首曝Cyber SUV；外卖「小电驴」须装北斗定位｜极客早知道&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+特斯拉 Cyber SUV 首次预告，马斯克称公司未来约 80% 价值将源于 Optimus 擎天柱机器人
+9 月 2 日消息，特斯拉在美国劳动节假期发布了第四版「宏图计划」，强调其 Optimus 擎天柱人形机器人的潜力，并在一段宣传视频中首次展示了 Cyber SUV 模型。
+目前关于这款车型所有信息均未公布，且目前尚不确定该车型是否会真正量产，但视频内容表明特斯拉正在探索这一方向。
+在最新...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/353308" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/353370" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-09-01-38a5777d</guid>
-      <pubDate>Mon, 01 Sep 2025 12:22:54 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-09-02-a2e3972c</guid>
+      <pubDate>Tue, 02 Sep 2025 12:15:13 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

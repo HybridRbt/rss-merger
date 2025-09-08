@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-09-07</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-09-08</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 07 Sep 2025 12:13:59 +0800</lastBuildDate>
-    <pubDate>Sun, 07 Sep 2025 12:13:59 +0800</pubDate>
+    <lastBuildDate>Mon, 08 Sep 2025 12:15:41 +0800</lastBuildDate>
+    <pubDate>Mon, 08 Sep 2025 12:15:41 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-09-07</title>
+      <title>每日科技新闻聚合 - 2025-09-08</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-09-07&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-09-08&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,19 +37,21 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-09-07&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年09月07日 12:13:59 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-09-08&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年09月08日 12:15:41 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;GPT-4o 见 AV 女优的次数比「您好」还多 2.6 倍，AI 正在被中文互联网疯狂污染？&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;苹果 iPhone 17 系列规格已全被曝光；Anthropic 全面封杀中国公司接入；今夜将迎来「...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜国行 iPhone 17 Air 或无缘首发，Pro 影像大升级/威马汽车宣布本月复产/小米 ...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;国行版苹果 AI 推迟至年底上线；视频平台广告被曝「偷时间」；美国计划限制进口中国无人机和重型载具 ...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
  &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;GPT-4o 见 AV 女优的次数比「您好」还多 2.6 倍，AI 正在被中文互联网疯狂污染？&lt;/div&gt;
- &lt;div class="topic-content"&gt;4o 的 pre-train 语料库的中文污染情况，实际上可能极其夸张#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+ &lt;div class="topic-title"&gt;早报｜国行 iPhone 17 Air 或无缘首发，Pro 影像大升级/威马汽车宣布本月复产/小米 16 真机曝光&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 马斯克：特斯拉将推出史诗级芯片
+· 宝马 CFO：凭借新纯电车型，有望实现在华市场回暖
+· 辛芷蕾成为本届威尼斯影后#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -61,25 +63,25 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1636728?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1636978?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;苹果 iPhone 17 系列规格已全被曝光；Anthropic 全面封杀中国公司接入；今夜将迎来「血月」月全食｜极客早知道&lt;/div&gt;
+ &lt;div class="topic-title"&gt;国行版苹果 AI 推迟至年底上线；视频平台广告被曝「偷时间」；美国计划限制进口中国无人机和重型载具 | 极客早知道｜极客早知道&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-苹果 iPhone 17 系列规格曝光：Air 厚 5.5mm、2800mAh 电池，Pro Max 配 5000mAh 电池
-9 月 6 日，科技媒体 WccfTech 发布博文，报道称韩国电信运营商泄露苹果 iPhone 17 系列完整规格，包括标准版、超薄 Air 版及两款 Pro 机型，全系搭载 A19 系列芯片，将于北京时间 9 月 10 日凌晨 1 点登场。
-标准版 iPhone 1...&lt;/div&gt;
+iPhone 17 首发无缘国行 AI！苹果计划 2025 年底在中国推出 Apple Intelligence
+9 月 8 日消息，苹果将在 9 月 10 日凌晨 1 点召开秋季新品发布会，iPhone 17 系列是最大亮点，此前有爆料认为这次能首发支持国行AI，现在看来要再一次失望了。
+据马克&amp;amp;middot;古尔曼（Mark Gurman）最新透露，苹果目前还在继续推进 Apple Inte...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/353568" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/353572" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-09-07-c9d2bc82</guid>
-      <pubDate>Sun, 07 Sep 2025 12:13:59 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-09-08-f6fb525b</guid>
+      <pubDate>Mon, 08 Sep 2025 12:15:41 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

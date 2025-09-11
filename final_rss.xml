@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-09-10</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-09-11</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 10 Sep 2025 12:14:23 +0800</lastBuildDate>
-    <pubDate>Wed, 10 Sep 2025 12:14:23 +0800</pubDate>
+    <lastBuildDate>Thu, 11 Sep 2025 12:14:51 +0800</lastBuildDate>
+    <pubDate>Thu, 11 Sep 2025 12:14:51 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-09-10</title>
+      <title>每日科技新闻聚合 - 2025-09-11</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-09-10&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-09-11&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,55 +37,54 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-09-10&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年09月10日 12:14:23 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-09-11&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年09月11日 12:14:51 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;史上最贵「打工皇帝」！马斯克解锁1万亿美金工资，拢共分几步？&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;500 块的「电子宠物」，治好了我的「路怒症」｜New Things&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;5999 元起，苹果发布eSIM、超薄 iPhone；王腾再辟谣离职原因谣言；反恶性补贴，主要外卖平...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜独家解析 iPhone 17 全新快充协议/电信移动回应还未支持苹果新机 eSIM/鸿蒙版《原...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;高德扫街榜，能不能做成中国的「Google Map」？&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;早报｜独家解析 iPhone 17 全新快充协议/电信移动回应还未支持苹果新机 eSIM/鸿蒙版《原神》上线&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 工信部等部门联合整治汽车行业网络乱象
+· 华为开源新 7B 模型，快慢思考自由切换
+· 戴尔回应裁员：持续优化运营管理#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1637384?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
  &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;史上最贵「打工皇帝」！马斯克解锁1万亿美金工资，拢共分几步？&lt;/div&gt;
- &lt;div class="topic-content"&gt;1万亿美元。
-你没看错，这不是哪个小国家的经济总量，而是特斯拉准备给老板马斯克一个人的「超级大礼包」。
-最近，特斯拉的董事会宣布了一个让所有人都惊掉下巴的提议：他们为马斯克设计了一份史无前例的薪酬方案，未来十年里，如果马斯克能带队完成一系列「几乎不可能」的任务，他最多就能拿到价值1万亿美元的奖励。这绝对是美国公司历史上最大手笔的老板激励计划了。
-根据特斯拉上周五提交的委托书文件，马斯克可能获得的额...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/353727" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-5"&gt;
- &lt;div class="topic-title"&gt;500 块的「电子宠物」，治好了我的「路怒症」｜New Things&lt;/div&gt;
- &lt;div class="topic-content"&gt;最近，你是不是也在小红书或YouTube上刷到过它？
-就是那个戴着头盔的小家伙，总喜欢「坐」在各种酷炫跑车的仪表盘上。你一脚油门，它为你欢呼；一个漂亮甩尾，它比你还激动，甚至还会俏皮地对你眨眨眼。关于它的笔记和视频，经常就能收割成百上千的点赞。
-与此同时，它的火热也启发了国内许多团队，比如最近众筹成功的ManGoGo，以及梦丘Mos精灵机器人等，都借鉴了类似的设计思路。
-这个小家伙其实是来自日本D...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/353725" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-6"&gt;
- &lt;div class="topic-title"&gt;5999 元起，苹果发布eSIM、超薄 iPhone；王腾再辟谣离职原因谣言；反恶性补贴，主要外卖平台被约谈｜极客早知道&lt;/div&gt;
- &lt;div class="topic-content"&gt;
+ &lt;div class="topic-title"&gt;高德扫街榜，能不能做成中国的「Google Map」？&lt;/div&gt;
+ &lt;div class="topic-content"&gt;&amp;amp;nbsp;
 &amp;amp;nbsp;
-苹果秋季发布会：iPhone 全系升级高刷屏，推出超薄 iPhone Air
-9 月 9 日消息，苹果公司在美国当地时间 9 月 9 日举行秋季新品发布会，推出了 iPhone 17 系列、全新产品线 iPhone Air、AirPods Pro 3 以及 Apple Watch Series 11 等多款硬件新品。本次发布会核心策略是将 Pro 级功能下放，并推出设计驱动的全新产...&lt;/div&gt;
+头图来源：高德
+&amp;amp;nbsp;
+9月10日，前几天被传得很热闹的阿里神秘业务终于揭晓&amp;amp;mdash;&amp;amp;mdash;高德地图正式推出了一款基于真实导航、出行行为，融合AI技术打造而成的生活服务榜单，高德扫街榜。
+&amp;amp;nbsp;
+与市面上常见的用户图文点评的传统榜单不同，该产品将用户的真实导航、到店等出行行为数据作为核心排名依据，旨在解决当前评价体系中普遍存在的刷分、注水等问题，...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/353703" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/353805" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-09-10-a375e913</guid>
-      <pubDate>Wed, 10 Sep 2025 12:14:23 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-09-11-d69ecbf0</guid>
+      <pubDate>Thu, 11 Sep 2025 12:14:51 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-09-13</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-09-14</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 13 Sep 2025 12:14:10 +0800</lastBuildDate>
-    <pubDate>Sat, 13 Sep 2025 12:14:10 +0800</pubDate>
+    <lastBuildDate>Sun, 14 Sep 2025 12:14:13 +0800</lastBuildDate>
+    <pubDate>Sun, 14 Sep 2025 12:14:13 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-09-13</title>
+      <title>每日科技新闻聚合 - 2025-09-14</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-09-13&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-09-14&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,34 +37,33 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-09-13&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年09月13日 12:14:10 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-09-14&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年09月14日 12:14:13 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;iPhone 17 Air 在华发售延期；罗永浩直播回应西贝；《流浪地球》第三部剧本完稿，共计十五万... (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;iPhone 17 全系上线拼多多，5099 起；「罗西大战」后续，传「预制菜国标」过审；小米蔚来小...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;iPhone 17 Air 在华发售延期；罗永浩直播回应西贝；《流浪地球》第三部剧本完稿，共计十五万字｜极客早知道&lt;/div&gt;
+ &lt;div class="topic-title"&gt;iPhone 17 全系上线拼多多，5099 起；「罗西大战」后续，传「预制菜国标」过审；小米蔚来小鹏抵制「车圈黑公关」&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-iPhone 17 Air 在华发售延期，苹果回应：力争尽快在中国推出
-9 月 12 日，发布了超薄机型 iPhone Air，但因为统一取消了实体 SIM 卡方案，必须在支持 eSIM 的地区才能使用，也因为这个特殊设计，它在国内未能与今年的另外三款 iPhone 同步发售。
-据新浪科技报道，苹果针对此事回应称，我们正与监管机构紧密合作，力争尽快在中国推出。
-
-目前苹果官网的标注信息依然是今晚...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了2篇相关文章)&lt;/div&gt;
+破发！iPhone 17 全系上线拼多多百亿补贴：5099 元起
+9 月 13 日消息，iPhone 17 系列昨晚已经开始预购，除了因 eSIM 延期的 Air 之外，其他三款发货时间都已经排到 10 月 15 日之后。
+具体如下：
+iPhone 17：256GB 5099 元；512GB 7099 元。
+iPhone 17 Pro：256GB 8099 元；512GB 10099 元；1TB...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1637683?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/353927" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/353935" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-09-13-a1bdbffa</guid>
-      <pubDate>Sat, 13 Sep 2025 12:14:10 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-09-14-bc72bd6d</guid>
+      <pubDate>Sun, 14 Sep 2025 12:14:13 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

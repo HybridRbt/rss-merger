@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-09-17</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-09-18</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 17 Sep 2025 12:14:39 +0800</lastBuildDate>
-    <pubDate>Wed, 17 Sep 2025 12:14:39 +0800</pubDate>
+    <lastBuildDate>Thu, 18 Sep 2025 12:14:38 +0800</lastBuildDate>
+    <pubDate>Thu, 18 Sep 2025 12:14:38 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-09-17</title>
+      <title>每日科技新闻聚合 - 2025-09-18</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-09-17&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-09-18&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,46 +37,68 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-09-17&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年09月17日 12:14:39 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-09-18&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年09月18日 12:14:38 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;华为首款旅行车 1 小时订单破 5000，余承东再次「封神」？ (2篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;刘强东喊话王兴：尊重兴哥，不应是仇人；美机器人公司估值暴涨至390亿美元；iOS 微信支持聊天发实况...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;腾讯 AI 的新叙事 (3篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;吉利银河 M9 上市！5.2 米车长+大六座，只卖 17.38 万元&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;23.59万元起售，没有四环标的 AUDI E5 到底算不算奥迪？&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;华为首款旅行车 1 小时订单破 5000，余承东再次「封神」？&lt;/div&gt;
- &lt;div class="topic-content"&gt;刚刚，鸿蒙智行旗下的首款旅行车享界 S9T 正式上市。其中，增程版起售价为 30.98 万元，和享界 S9 轿车增程版同价；纯电版起售价为 32.98 万元，比享界 S9 纯电版起售价便宜 7 万元。
-显然，享界希望用「轿车、旅行车同价位」的策略，取得新的增长点。
-不同汽车市场有着不同的消费习惯。在欧洲市场，由于窄路弯道较多，旅行车因为有着比 SUV 更好的操控性备受欢迎；但在目前国内汽车市场里，...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了2篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-title"&gt;腾讯 AI 的新叙事&lt;/div&gt;
+ &lt;div class="topic-content"&gt;过去一年，人工智能的讨论热度，正悄然从「模型参数有多大」转向「实际场景中有多好用」。当最初的技术狂热逐渐褪去，产业界开始冷静地审视：AI 究竟能在多大程度上成为真实的生产力。在这样的背景下，观察腾讯这样一家拥有海量用户和庞大业务场景的巨头如何作答，无疑具有风向标的意义。
+9 月 16 日，带着探寻答案的目的，我来到了深圳的 2025 腾讯全球数字生态大会。这场大会，既是腾讯对外展示其最新技术与产品...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了3篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1637982?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/354049" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1638234?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1638221?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/354095" target="_blank"&gt;阅读原文 3&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
  &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;刘强东喊话王兴：尊重兴哥，不应是仇人；美机器人公司估值暴涨至390亿美元；iOS 微信支持聊天发实况图｜极客早知道&lt;/div&gt;
- &lt;div class="topic-content"&gt;
-车顶维权女车主出镜发声：4 年了，我终于赢了特斯拉
-9 月 16 日，历时 4 年的维权长跑，特斯拉车顶维权当事人张女士 @ 淡水里的珊瑚 今日发视频称：「四年了我终于赢了特斯拉一次」。
-据其晒出的判决书，北京市大兴区人民法院一审判决责令特斯拉向其提供事故前半小时的完整行车数据。
+ &lt;div class="topic-title"&gt;吉利银河 M9 上市！5.2 米车长+大六座，只卖 17.38 万元&lt;/div&gt;
+ &lt;div class="topic-content"&gt;当「价值战」打响，谁会最难受？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
 
-张女士称，感谢北京大兴法院判决、特斯拉汽车销售服务（北京）有限公司、特斯拉（上海）有限公司共同于本判决生效之日起十...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/354023" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1638174?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;23.59万元起售，没有四环标的 AUDI E5 到底算不算奥迪？&lt;/div&gt;
+ &lt;div class="topic-content"&gt;新 AUDI，卷成「新势力」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1637992?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-09-17-5e1be4aa</guid>
-      <pubDate>Wed, 17 Sep 2025 12:14:39 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-09-18-d6ca37af</guid>
+      <pubDate>Thu, 18 Sep 2025 12:14:38 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

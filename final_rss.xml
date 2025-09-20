@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-09-19</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-09-20</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 19 Sep 2025 12:14:49 +0800</lastBuildDate>
-    <pubDate>Fri, 19 Sep 2025 12:14:49 +0800</pubDate>
+    <lastBuildDate>Sat, 20 Sep 2025 12:14:35 +0800</lastBuildDate>
+    <pubDate>Sat, 20 Sep 2025 12:14:35 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-09-19</title>
+      <title>每日科技新闻聚合 - 2025-09-20</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-09-19&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-09-20&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,21 +37,34 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-09-19&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年09月19日 12:14:49 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-09-20&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年09月20日 12:14:35 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜英伟达斥资50亿美元收购英特尔股份/携程被约谈/追觅CEO：手机跟华为小米「三分天下」&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;投50亿美元，英伟达联手英特尔；谷歌将Gemini加入浏览器；网约车司机平均月入过万&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;iPhone 17 Pro 首日即现划痕；传 OpenAI 联手立讯做 AI 硬件；2025 年搞笑... (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;传祺向往 S9 乾崑版发布，22.99 万元起搭载 ADS 4 MAX 超阶版，对标问界 M7&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
+ &lt;div class="topic" id="topic-1"&gt;
+ &lt;div class="topic-title"&gt;iPhone 17 Pro 首日即现划痕；传 OpenAI 联手立讯做 AI 硬件；2025 年搞笑诺贝尔出炉&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+小米召回超 11.6 万辆 SU7 标准版，雷军回应
+9 月 19 日，据国家市场监督管理总局官网，小米召回 11.7 万辆标准版 SU7，并登上热搜第一。小米汽车科技有限公司将通过汽车远程升级（OTA）技术，为召回范围内的车辆免费升级软件，以消除安全隐患。
+随后，雷军微博发文表示，小米汽车 OTA 秋季大版本升级，今日起，小米 SU7、YU7 将同步升级。（来源：新浪科技）
+
+质感开倒车？iP...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了2篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1638463?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/354209" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;早报｜英伟达斥资50亿美元收购英特尔股份/携程被约谈/追觅CEO：手机跟华为小米「三分天下」&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 苹果承认 iPhone 17 拍照现黑色方块
-· 微信员工回应「去重瘦身脚本」：无效且有风险
-· 锤子科技新增 2 条失信被执行人信息#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+ &lt;div class="topic" id="topic-2"&gt;
+ &lt;div class="topic-title"&gt;传祺向往 S9 乾崑版发布，22.99 万元起搭载 ADS 4 MAX 超阶版，对标问界 M7&lt;/div&gt;
+ &lt;div class="topic-content"&gt;满配家庭头等舱。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -63,25 +76,14 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1638386?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;投50亿美元，英伟达联手英特尔；谷歌将Gemini加入浏览器；网约车司机平均月入过万&lt;/div&gt;
- &lt;div class="topic-content"&gt;
-英伟达宣布将向英特尔投资 50 亿美元，黄仁勋：英伟达 AI 和英特尔 CPU 紧密结合在一起
-9 月 18 日消息，晚间英伟达宣布将向英特尔投资 50 亿美元，为这家陷入困境的美国芯片代工厂注入力量，但并未给予其关键的制造订单。
-英伟达表示，将斥资 50 亿美元、以每股 23.28 美元的价格收购英特尔普通股，这一价格略低于英特尔股价周三收盘价 24.90 美元。比上个月美国政府以每股 20....&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/354136" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1638434?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-09-19-31d9070b</guid>
-      <pubDate>Fri, 19 Sep 2025 12:14:49 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-09-20-3bb3e5e6</guid>
+      <pubDate>Sat, 20 Sep 2025 12:14:35 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-09-23</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-09-24</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 23 Sep 2025 12:14:47 +0800</lastBuildDate>
-    <pubDate>Tue, 23 Sep 2025 12:14:47 +0800</pubDate>
+    <lastBuildDate>Wed, 24 Sep 2025 12:14:50 +0800</lastBuildDate>
+    <pubDate>Wed, 24 Sep 2025 12:14:50 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-09-23</title>
+      <title>每日科技新闻聚合 - 2025-09-24</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-09-23&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-09-24&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,54 +37,32 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-09-23&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年09月23日 12:14:47 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-09-24&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年09月24日 12:14:50 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜英伟达千亿美元投资OpenAI/宇树发布「围殴」机器人视频/微信回应「存储空间不足」提示Bug&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;小米 17 系列手机官宣 9 月 25 日发布；iPhone 17 标准款需求超预期，苹果已增产；罗...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;华为问界新 M7，1 小时大定 3 万；李想：iPhone 17 顶配太丑，不买；防台风，腾讯「捆绑... (2篇文章)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;早报｜英伟达千亿美元投资OpenAI/宇树发布「围殴」机器人视频/微信回应「存储空间不足」提示Bug&lt;/div&gt;
- &lt;div class="topic-content"&gt;• 分析师称 iPhone 17 易刮花不影响销量 
-• 雷军谈为何坚持办演讲
-• 丑化理想 MEGA 案终审宣判：赔12万元并道歉#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博
-
-
-
-
-&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1638645?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;小米 17 系列手机官宣 9 月 25 日发布；iPhone 17 标准款需求超预期，苹果已增产；罗永浩再回应债务问题：个人债务五年前就还完了，后面是主动还的公司债务｜极客早知道&lt;/div&gt;
+&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
+ &lt;div class="topic" id="topic-1"&gt;
+ &lt;div class="topic-title"&gt;华为问界新 M7，1 小时大定 3 万；李想：iPhone 17 顶配太丑，不买；防台风，腾讯「捆绑」QQ 企鹅塑像&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-小米 17 系列手机官宣 9 月 25 日发布：全球首发第五代骁龙 8 至尊版，搭载澎湃 OS3
-9 月 22 日，小米手机宣布，全新小米 17 系列 9 月 25 日晚 7 点发布，三款齐登场，全系产品力跨代升级，搭载小米澎湃 OS3。值得一提的是，这款新机将全球首发第五代骁龙 8 至尊版。
-小米手机官方公告公布了全新小米 17 标准版手机的外观，并分享了新机的设计亮点：
-
-
-6.3&amp;amp;Prim...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+问界新 M7 一小时大定破 3 万台，余承东称要把安全做到第一
+全新问界 M7 9 月 23 日正式上市，提供增程和纯电两种动力，共 12 款配置车型，售价 27.98 万元起。官方数据显示，新车一小时大定破 3 万台。此前信息显示，新车 5 分钟大定破 1 万台。
+另外，华为常务董事、终端 BG CEO 余承东在发布会上表示，鸿蒙智行要把安全做到第一，「昨天下午任总还和我讲，要把安全做到最高级...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了2篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/354297" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1638834?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/354351" target="_blank"&gt;阅读原文 2&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-09-23-4303cf82</guid>
-      <pubDate>Tue, 23 Sep 2025 12:14:47 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-09-24-84a452be</guid>
+      <pubDate>Wed, 24 Sep 2025 12:14:50 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

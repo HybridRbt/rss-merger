@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-09-28</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-09-29</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 28 Sep 2025 12:14:46 +0800</lastBuildDate>
-    <pubDate>Sun, 28 Sep 2025 12:14:46 +0800</pubDate>
+    <lastBuildDate>Mon, 29 Sep 2025 12:15:42 +0800</lastBuildDate>
+    <pubDate>Mon, 29 Sep 2025 12:15:42 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-09-28</title>
+      <title>每日科技新闻聚合 - 2025-09-29</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-09-28&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-09-29&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,43 +37,59 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-09-28&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年09月28日 12:14:46 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-09-29&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年09月29日 12:15:42 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;24.98万的理想i6，在特斯拉、小米、蔚来「后院」放了一把火&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;小米 17 开售 5 分钟，破国产机销售纪录；Meta 研发机器人项目；国内发布「脑机接口标准」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;做 AI 陪伴收获 1000 万用户后，前微信 AI 产品负责人，要重新定义生活里的 AI (3篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜「越狱神器」91助手停止服务/雷军：小米汽车定制服务推动科技平权/黄仁勋：应该把钱都给Open...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;24.98万的理想i6，在特斯拉、小米、蔚来「后院」放了一把火&lt;/div&gt;
- &lt;div class="topic-content"&gt;9月26日，理想汽车发布了新款五座纯电SUV&amp;amp;mdash;&amp;amp;mdash;理想i6。这款车只有一个配置，售价为24.98万元，略低于不久前预告的 25 万至 30 万元区间。
-值得一提的是，在2025年10月31日之前下「大定」的用户，直接优惠1万元现金，这样价格就直接来到了23.98万元。
-和以往专注家庭用户的「奶爸车」定位不同，理想i6的目标用户画像是年轻人。为了宣告这个转变，理想还破天荒地签下...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/354593" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;小米 17 开售 5 分钟，破国产机销售纪录；Meta 研发机器人项目；国内发布「脑机接口标准」&lt;/div&gt;
+&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
+ &lt;div class="topic" id="topic-1"&gt;
+ &lt;div class="topic-title"&gt;做 AI 陪伴收获 1000 万用户后，前微信 AI 产品负责人，要重新定义生活里的 AI&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-小米 17 系列开售 5 分钟破 25 年国产手机首销纪录
-小米 17 系列手机昨日 10 点开启首销，据小米手机官方消息，小米 17 全系开售 5 分钟，刷新 2025 年国产手机全价位段新机系列，首销全天销量、销额纪录。
 
-同时，小米 CEO 雷军发文补充，小米 17 Pro Max 单款机型也打破了今年国产手机全价位段首销全天销量、销售额纪录，在小米 17 系列中销量占比超过 50%，感谢...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+作者｜苏子华
+编辑｜靖宇
+&amp;amp;nbsp;
+
+
+如今，各种主打「陪伴」或「Agent」概念的 AI 应用层出不穷。然而，WithFeeling.ai 走出了一条与众不同，且如今看来更为有效的路。
+WithFeeling.ai 创始人肖敏此前是微信 AI 的产品负责人。2022 年中，她选择创业，在 2023 年初推出主打「真诚、真实」的 AI 陪伴产品 Paradot，上线至今已经积累了 1000...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园 (合并了3篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/354556" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/354653" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/354651" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/354629" target="_blank"&gt;阅读原文 3&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
+ &lt;div class="topic" id="topic-2"&gt;
+ &lt;div class="topic-title"&gt;早报｜「越狱神器」91助手停止服务/雷军：小米汽车定制服务推动科技平权/黄仁勋：应该把钱都给OpenAI&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· iPhone 17 Pro 机身材质疑似虚假宣传
+· 俄罗斯公布国产 EUV 光刻设备长期路线图，目标 2037 年实现亚 10nm 制程
+· GitHub 或被澳大利亚列为「危害未成年人的社交平台」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1639455?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-09-28-aeed18da</guid>
-      <pubDate>Sun, 28 Sep 2025 12:14:46 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-09-29-596621d3</guid>
+      <pubDate>Mon, 29 Sep 2025 12:15:42 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

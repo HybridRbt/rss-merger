@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-09-30</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-10-01</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 30 Sep 2025 12:15:02 +0800</lastBuildDate>
-    <pubDate>Tue, 30 Sep 2025 12:15:02 +0800</pubDate>
+    <lastBuildDate>Wed, 01 Oct 2025 12:14:50 +0800</lastBuildDate>
+    <pubDate>Wed, 01 Oct 2025 12:14:50 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-09-30</title>
+      <title>每日科技新闻聚合 - 2025-10-01</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-09-30&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-10-01&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,87 +37,32 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-09-30&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年09月30日 12:15:02 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-10-01&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年10月01日 12:14:50 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;一把魔法扫帚，可以贴地飞行：戴森 PencilVac 评测&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜卢伟冰回应小米17标准版销量不及预期/微信更新，聊天支持发Live图/特斯拉前员工被机器人打成...&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;Claude 4.5 刚刚发布，能连肝 30 多个小时，史上最卷 AI 诞生&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-4"&gt;DeepSeek V3.2 发布，API 成本减半；特斯拉员工被机器人打伤，索赔 5100 万美元；...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;OpenAI 深夜重磅推出新视频模型和独立 App；英伟达市值突破4.5万亿美元；特斯拉预计推出第三... (2篇文章)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-5"&gt;
- &lt;div class="topic-title"&gt;一把魔法扫帚，可以贴地飞行：戴森 PencilVac 评测&lt;/div&gt;
- &lt;div class="topic-content"&gt;扫地，不就是一把扫帚的事吗？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博
-
-
-
-
-&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1639479?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-6"&gt;
- &lt;div class="topic-title"&gt;早报｜卢伟冰回应小米17标准版销量不及预期/微信更新，聊天支持发Live图/特斯拉前员工被机器人打成重伤&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 余承东被任命为华为 IRB 主任
-· 「Mac 不会感染病毒」神话正在加速破灭
-· 前 Google 高管出任 OpenAI 韩国区负责人#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博
-
-
-
-
-&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1639710?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-7"&gt;
- &lt;div class="topic-title"&gt;Claude 4.5 刚刚发布，能连肝 30 多个小时，史上最卷 AI 诞生&lt;/div&gt;
- &lt;div class="topic-content"&gt;论卷编程，还得看 Claude。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博
-
-
-
-
-&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1639684?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-8"&gt;
- &lt;div class="topic-title"&gt;DeepSeek V3.2 发布，API 成本减半；特斯拉员工被机器人打伤，索赔 5100 万美元；Claude 新模型登场&lt;/div&gt;
+&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
+ &lt;div class="topic" id="topic-1"&gt;
+ &lt;div class="topic-title"&gt;OpenAI 深夜重磅推出新视频模型和独立 App；英伟达市值突破4.5万亿美元；特斯拉预计推出第三代人形机器人 | 极客早知道&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-DeepSeek-V3.2-Exp 模型正式发布并开源，API 大幅降价
-9 月 29 日消息，DeepSeek 今日正式发布&amp;amp;nbsp;DeepSeek-V3.2-Exp 模型，这是一个实验性（Experimental）的版本。
-作为迈向新一代架构的中间步骤，V3.2-Exp 在 V3.1-Terminus 的基础上引入了 DeepSeek Sparse Attention，针对长文本的训练和...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+OpenAI 推出自研短视频应用 Sora 同步发布 Sora 2 模型
+10 月 1 日，OpenAI 宣布推出音视频生成模型 Sora 2，该模型将作为去年发布的 Sora 模型的升级版。与此同时，OpenAI 还同步上线了一款关联社交应用，同样命名为「Sora」。在这款应用中，用户可生成包含自己及好友形象的视频，并在算法推荐信息流中分享。
+Sora App 目前只能使用邀请码登录，但 Op...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了2篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/354695" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1639815?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/354765" target="_blank"&gt;阅读原文 2&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-09-30-217888ce</guid>
-      <pubDate>Tue, 30 Sep 2025 12:15:02 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-10-01-8e71fea7</guid>
+      <pubDate>Wed, 01 Oct 2025 12:14:50 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

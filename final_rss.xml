@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-10-08</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-10-09</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 08 Oct 2025 12:14:39 +0800</lastBuildDate>
-    <pubDate>Wed, 08 Oct 2025 12:14:39 +0800</pubDate>
+    <lastBuildDate>Thu, 09 Oct 2025 12:15:33 +0800</lastBuildDate>
+    <pubDate>Thu, 09 Oct 2025 12:15:33 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-10-08</title>
+      <title>每日科技新闻聚合 - 2025-10-09</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-10-08&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-10-09&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,32 +37,55 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-10-08&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年10月08日 12:14:39 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-10-09&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年10月09日 12:15:33 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;最便宜 Model 3/Y 亮相，26.4 万；Ive 揭秘 AI 硬件，和 iPhone 完全不同...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;英伟达将投资马斯克的 xAI；低价版Model 3/Y 「阉割」智驾功能；微信推出批量撤回信息功能 (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜雷军：小米 17 系列销量远超预期/取消天幕，简配版 Model Y 发布/微信灰测「批量撤回...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;最便宜 Model 3/Y 亮相，26.4 万；Ive 揭秘 AI 硬件，和 iPhone 完全不同；诺贝尔物理学奖授予量子力学科学家｜极客早知道&lt;/div&gt;
+ &lt;div class="topic-title"&gt;英伟达将投资马斯克的 xAI；低价版Model 3/Y 「阉割」智驾功能；微信推出批量撤回信息功能&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-特斯拉最便宜车型：Model 3/Y 标准版亮相，起价 3.7 万美元
-10 月 8 日消息，特斯拉今天（10 月 8 日）在美国市场推出 Model Y 标准版外，还同步推出了 Model 3 标准版，成为特斯拉目前最便宜的车型，起售价为 36990 美元（注：现汇率约合 26.4 万元人民币），比后驱长续航版（Premium）便宜 5500 美元。
+诺贝尔化学奖授予金属有机骨架开发领域
 
-汽车媒体 edmunds 认为，特斯拉进...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+当地时间 10 月 8 日，瑞典皇家科学院决定将 2025 年诺贝尔化学奖授予北川进、理查德&amp;amp;middot;罗布森以及奥马尔&amp;amp;middot;M&amp;amp;middot;亚吉位科学家，以表彰其在金属有机框架开发领域的贡献。
+中国科学院大连化学物理研究所研究员杨维慎表示，金属有机框架（MOFs）是一种多孔材料，三位获奖人对这种材料的研究开创了网格化学这一新的领域。
+杨维...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园 (合并了2篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/354777" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/354806" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/354778" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
+ &lt;div class="topic" id="topic-2"&gt;
+ &lt;div class="topic-title"&gt;早报｜雷军：小米 17 系列销量远超预期/取消天幕，简配版 Model Y 发布/微信灰测「批量撤回消息」&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 2025 年诺贝尔奖公布
+· OpenAI 多个重磅炸弹公布：ChatGPT 里直接装 App
+· 消息称 M5 iPad Pro 或即将推出#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1640145?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-10-08-9b173a73</guid>
-      <pubDate>Wed, 08 Oct 2025 12:14:39 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-10-09-8900a609</guid>
+      <pubDate>Thu, 09 Oct 2025 12:15:33 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

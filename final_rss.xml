@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-10-09</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-10-10</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 09 Oct 2025 12:15:33 +0800</lastBuildDate>
-    <pubDate>Thu, 09 Oct 2025 12:15:33 +0800</pubDate>
+    <lastBuildDate>Fri, 10 Oct 2025 12:15:05 +0800</lastBuildDate>
+    <pubDate>Fri, 10 Oct 2025 12:15:05 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-10-09</title>
+      <title>每日科技新闻聚合 - 2025-10-10</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-10-09&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-10-10&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,36 +37,42 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-10-09&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年10月09日 12:15:33 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-10-10&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年10月10日 12:15:05 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;英伟达将投资马斯克的 xAI；低价版Model 3/Y 「阉割」智驾功能；微信推出批量撤回信息功能 (2篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜雷军：小米 17 系列销量远超预期/取消天幕，简配版 Model Y 发布/微信灰测「批量撤回...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;Model Y 越来越便宜，特斯拉越来越像丰田 (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜折叠屏iPhone中框材质曝光/阿维塔回应车辆起火，排除电池故障/Figure 发布「最像人类...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;设计比宝马还激进？奥迪 A4 E-tron 预计 28 年量产，或有增程版本&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-4"&gt;Sora 下载量破 100 万次；国庆中秋假期国内游总花费超过 8000 亿元；智驾多位核心高管离职...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;英伟达将投资马斯克的 xAI；低价版Model 3/Y 「阉割」智驾功能；微信推出批量撤回信息功能&lt;/div&gt;
- &lt;div class="topic-content"&gt;
-诺贝尔化学奖授予金属有机骨架开发领域
+ &lt;div class="topic-title"&gt;Model Y 越来越便宜，特斯拉越来越像丰田&lt;/div&gt;
+ &lt;div class="topic-content"&gt;Model Y 标准版之后，特斯拉在中国还「酷」吗？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
 
-当地时间 10 月 8 日，瑞典皇家科学院决定将 2025 年诺贝尔化学奖授予北川进、理查德&amp;amp;middot;罗布森以及奥马尔&amp;amp;middot;M&amp;amp;middot;亚吉位科学家，以表彰其在金属有机框架开发领域的贡献。
-中国科学院大连化学物理研究所研究员杨维慎表示，金属有机框架（MOFs）是一种多孔材料，三位获奖人对这种材料的研究开创了网格化学这一新的领域。
-杨维...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园 (合并了2篇相关文章)&lt;/div&gt;
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/354806" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/354778" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1640249?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1640237?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
  &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;早报｜雷军：小米 17 系列销量远超预期/取消天幕，简配版 Model Y 发布/微信灰测「批量撤回消息」&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 2025 年诺贝尔奖公布
-· OpenAI 多个重磅炸弹公布：ChatGPT 里直接装 App
-· 消息称 M5 iPad Pro 或即将推出#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+ &lt;div class="topic-title"&gt;早报｜折叠屏iPhone中框材质曝光/阿维塔回应车辆起火，排除电池故障/Figure 发布「最像人类的机器人」&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 英特尔公布 Panther Lake 处理器架构细节
+· Mark Gurman 质疑「天线门」修复：真正解决在 iPhone 4s
+· 台积电 Q3 营收突破 340 亿美元，刷新历史纪录#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -78,14 +84,41 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1640145?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1640279?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;设计比宝马还激进？奥迪 A4 E-tron 预计 28 年量产，或有增程版本&lt;/div&gt;
+ &lt;div class="topic-content"&gt;「奥迪公司历史上的最大变革」。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1640225?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-4"&gt;
+ &lt;div class="topic-title"&gt;Sora 下载量破 100 万次；国庆中秋假期国内游总花费超过 8000 亿元；智驾多位核心高管离职，蔚来回应｜极客早知道&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+不再是印度独享：OpenAI 低价 ChatGPT Go 订阅计划扩张至亚洲 16 地，每月不到 5 美元
+10 月 9 日，据外媒 TechCrunch 报道，OpenAI 正加速将其每月不到 5 美元（现汇率约合 35.6 元人民币）的 ChatGPT Go 订阅服务扩展到亚洲 16 个新国家和地区，包括阿富汗、孟加拉国、不丹、文莱、柬埔寨、老挝、马来西亚、马尔代夫、缅甸、尼泊尔、巴基斯坦、...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="http://www.geekpark.net/news/354826" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-10-09-8900a609</guid>
-      <pubDate>Thu, 09 Oct 2025 12:15:33 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-10-10-8e87ab2c</guid>
+      <pubDate>Fri, 10 Oct 2025 12:15:05 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

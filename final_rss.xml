@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-10-10</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-10-11</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 10 Oct 2025 12:15:05 +0800</lastBuildDate>
-    <pubDate>Fri, 10 Oct 2025 12:15:05 +0800</pubDate>
+    <lastBuildDate>Sat, 11 Oct 2025 12:14:05 +0800</lastBuildDate>
+    <pubDate>Sat, 11 Oct 2025 12:14:05 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-10-10</title>
+      <title>每日科技新闻聚合 - 2025-10-11</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-10-10&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-10-11&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,21 +37,22 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-10-10&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年10月10日 12:15:05 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-10-11&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年10月11日 12:14:05 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;Model Y 越来越便宜，特斯拉越来越像丰田 (2篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜折叠屏iPhone中框材质曝光/阿维塔回应车辆起火，排除电池故障/Figure 发布「最像人类...&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;设计比宝马还激进？奥迪 A4 E-tron 预计 28 年量产，或有增程版本&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-4"&gt;Sora 下载量破 100 万次；国庆中秋假期国内游总花费超过 8000 亿元；智驾多位核心高管离职...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜曝苹果或在下周发布新品/山姆公布大疆降价补偿方案/贾国龙回应西贝门头更换：小范围尝试 (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;张一鸣近年来首次公开亮相；微软上海开始新一轮裁员，补偿N+4；罗永浩锐评 iPhone 17 (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;「丐中丐」版特斯拉来了，Model 3/Y降价超3.5万元&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;Model Y 越来越便宜，特斯拉越来越像丰田&lt;/div&gt;
- &lt;div class="topic-content"&gt;Model Y 标准版之后，特斯拉在中国还「酷」吗？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+ &lt;div class="topic-title"&gt;早报｜曝苹果或在下周发布新品/山姆公布大疆降价补偿方案/贾国龙回应西贝门头更换：小范围尝试&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· vivo 正式发布 OriginOS 6 与 BlueOS 3
+· 前 iPhone 设计师操刀，法拉利首款电动车 Elettrica 技术细节曝光
+· 西贝贾国龙回应门头更换：小范围尝试，不会全国普及#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -63,62 +64,39 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1640249?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1640237?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1640431?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1640428?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-2"&gt;
+ &lt;div class="topic-title"&gt;张一鸣近年来首次公开亮相；微软上海开始新一轮裁员，补偿N+4；罗永浩锐评 iPhone 17&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+高通公司涉嫌违反反垄断法，市场监管总局依法决定立案调查
+10 月 10 日消息，国家市场监督管理总局今日宣布，因高通公司收购 Autotalks 公司未依法申报经营者集中，涉嫌违反《中华人民共和国反垄断法》，市场监管总局依法对高通公司开展立案调查。
+
+对此，前魅族科技 CMO 兼公司高级副总裁李楠评论称：当年高通对压根没有使用他们芯片的魅族瞎收费的时候，其实就已经是垄断并且违法了。当年所有媒体，...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园 (合并了2篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="http://www.geekpark.net/news/354857" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/354852" target="_blank"&gt;阅读原文 2&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;早报｜折叠屏iPhone中框材质曝光/阿维塔回应车辆起火，排除电池故障/Figure 发布「最像人类的机器人」&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 英特尔公布 Panther Lake 处理器架构细节
-· Mark Gurman 质疑「天线门」修复：真正解决在 iPhone 4s
-· 台积电 Q3 营收突破 340 亿美元，刷新历史纪录#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博
-
-
-
-
-&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1640279?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
  &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;设计比宝马还激进？奥迪 A4 E-tron 预计 28 年量产，或有增程版本&lt;/div&gt;
- &lt;div class="topic-content"&gt;「奥迪公司历史上的最大变革」。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博
-
-
-
-
-&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1640225?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;Sora 下载量破 100 万次；国庆中秋假期国内游总花费超过 8000 亿元；智驾多位核心高管离职，蔚来回应｜极客早知道&lt;/div&gt;
- &lt;div class="topic-content"&gt;
-不再是印度独享：OpenAI 低价 ChatGPT Go 订阅计划扩张至亚洲 16 地，每月不到 5 美元
-10 月 9 日，据外媒 TechCrunch 报道，OpenAI 正加速将其每月不到 5 美元（现汇率约合 35.6 元人民币）的 ChatGPT Go 订阅服务扩展到亚洲 16 个新国家和地区，包括阿富汗、孟加拉国、不丹、文莱、柬埔寨、老挝、马来西亚、马尔代夫、缅甸、尼泊尔、巴基斯坦、...&lt;/div&gt;
+ &lt;div class="topic-title"&gt;「丐中丐」版特斯拉来了，Model 3/Y降价超3.5万元&lt;/div&gt;
+ &lt;div class="topic-content"&gt;更「亲民」的特斯拉，终于来了。
+10月7日，特斯拉在美国推出了 Model Y 的精简版，称为 Standard，并出人意料地宣布了 Model 3 Standard。你可以把它们理解为「青春版」或「入门版」，核心目的非常直接，降低价格，让更多人买得起。目前，特斯拉中国官网尚未推出类似车型。
+价格有多吸引人呢？新款Model 3的起售价为36,990美元（约合26.34万元），比之前便宜了5000...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/354826" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/354862" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-10-10-8e87ab2c</guid>
-      <pubDate>Fri, 10 Oct 2025 12:15:05 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-10-11-8f7d0190</guid>
+      <pubDate>Sat, 11 Oct 2025 12:14:05 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

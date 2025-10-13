@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-10-12</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-10-13</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 12 Oct 2025 12:14:15 +0800</lastBuildDate>
-    <pubDate>Sun, 12 Oct 2025 12:14:15 +0800</pubDate>
+    <lastBuildDate>Mon, 13 Oct 2025 12:15:56 +0800</lastBuildDate>
+    <pubDate>Mon, 13 Oct 2025 12:15:56 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-10-12</title>
+      <title>每日科技新闻聚合 - 2025-10-13</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-10-12&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-10-13&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,21 +37,21 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-10-12&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年10月12日 12:14:15 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-10-13&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年10月13日 12:15:56 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜比亚迪回应「畅销车型」停产/中国联通开启eSIM预约/宗馥莉辞去娃哈哈董事长等职务，将独立运营...&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;马斯克脑机公司展示脑机控制机械臂；三星中国发布折叠屏新机，16999 元起售；滴滴自动驾驶获 20 ...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜曝苹果眼镜连接 iPhone 将切换轻量版系统/美团外卖骑手支持「屏蔽顾客」/真我 GT8 P...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;雷军亲自测试，小米YU9实车谍照曝光；宇树获「秧歌机器人」专利；微团开卖「Win XP」蓝天白云拖鞋&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
  &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;早报｜比亚迪回应「畅销车型」停产/中国联通开启eSIM预约/宗馥莉辞去娃哈哈董事长等职务，将独立运营「娃小宗」&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 中国联通开启 eSIM 业务预约，人数破 3.9 万
-· 焕新极氪 001 发布，官方：明年无换代计划
-· 网易云音乐回应「已故歌手李玟账号被异常登录」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+ &lt;div class="topic-title"&gt;早报｜曝苹果眼镜连接 iPhone 将切换轻量版系统/美团外卖骑手支持「屏蔽顾客」/真我 GT8 Pro 适配理光灵魂焦段&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 商务部公告附件首次改为 wps 格式
+· 疑似小米第三款车型曝光，尺寸亮眼
+· vivo X300 系列将于今日发布#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -63,25 +63,31 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1640588?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1640620?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;马斯克脑机公司展示脑机控制机械臂；三星中国发布折叠屏新机，16999 元起售；滴滴自动驾驶获 20 亿元融资 | 极客早知道&lt;/div&gt;
+ &lt;div class="topic-title"&gt;雷军亲自测试，小米YU9实车谍照曝光；宇树获「秧歌机器人」专利；微团开卖「Win XP」蓝天白云拖鞋&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-Sora 即将在 Android 上发布 先开放北美区域
-在推出 Sora 2 视频生成模型并引爆社交媒体后，OpenAI 正加速将其生态推向更广用户群。继 9 月底上线 iPhone 版后，Sora App 现已登陆 Google Play 商店，并开放美国和加拿大地区用户的安卓预注册。虽然目前仍无法下载，但官方显然不打算让 Android 用户久等。
-目前，Sora 在美国与加拿大地区率先开...&lt;/div&gt;
+
+
+挖走英伟达两员大将：马斯克 xAI 正开发「可用于游戏与机器人领域的世界模型」
+10 月 12 日，据《金融时报》，埃隆・马斯克旗下 xAI 公司正加紧构建其「世界模型」，与 Meta 和谷歌等对手一同角逐下一代 AI 系统。这些系统能够实现对物理环境的自主导航与设计。
+
+
+
+
+根据英伟达的官方介绍，世界模型是一种生成式 AI 模型，能够理解现实世界的动态特征，包括物理属性和空间特性。这类模...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/354883" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/354891" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-10-12-276049d8</guid>
-      <pubDate>Sun, 12 Oct 2025 12:14:15 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-10-13-855ff883</guid>
+      <pubDate>Mon, 13 Oct 2025 12:15:56 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

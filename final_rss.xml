@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-10-16</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-10-17</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 16 Oct 2025 12:14:35 +0800</lastBuildDate>
-    <pubDate>Thu, 16 Oct 2025 12:14:35 +0800</pubDate>
+    <lastBuildDate>Fri, 17 Oct 2025 12:15:31 +0800</lastBuildDate>
+    <pubDate>Fri, 17 Oct 2025 12:15:31 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-10-16</title>
+      <title>每日科技新闻聚合 - 2025-10-17</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-10-16&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-10-17&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,20 +37,21 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-10-16&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年10月16日 12:14:35 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-10-17&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年10月17日 12:15:31 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;不讲 AI 的 iPhone 17 卖爆了，前苹果员工做的 AI 明星产品又死一个 (4篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;苹果发布 M5 芯片笔记本和 iPad；微信：长时间不用账号，不再强行回收； 乔布斯登上一美元硬币 (2篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;Claude「最香」模型发布，速度翻倍价格大砍，编程能力直逼 GPT-5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜奥特曼谈成人内容争议：我们不是世界道德警察/OPPO发布国内首款eSIM手机/卢伟冰称K90不... (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;蔚来回应外国基金投诉：无事实依据；零跑推D19旗舰SUV，配超大电池；卡西欧推《回到未来》40周年联...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;不讲 AI 的 iPhone 17 卖爆了，前苹果员工做的 AI 明星产品又死一个&lt;/div&gt;
- &lt;div class="topic-content"&gt;哪怕只是一个小而美的产品，也会获得用户真诚的喜爱和真切的时间#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+ &lt;div class="topic-title"&gt;早报｜奥特曼谈成人内容争议：我们不是世界道德警察/OPPO发布国内首款eSIM手机/卢伟冰称K90不排斥和小米直接竞争&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· Sora 2 更新：Pro 用户可用分镜板，视频时长上限提升至 25 秒
+· 乔布斯登上 2026 年 1 美元纪念币
+· 259.85 万起，法拉利 Amalfi 硬顶超跑中国首发#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -60,50 +61,29 @@ h2 { color: #007acc; margin-top: 30px; }
 
 
 &lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了4篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1637150?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1640363?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1640983?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 3&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;苹果发布 M5 芯片笔记本和 iPad；微信：长时间不用账号，不再强行回收； 乔布斯登上一美元硬币&lt;/div&gt;
- &lt;div class="topic-content"&gt;
-
-
-首发 M5 芯片：苹果全新 14 英寸 MacBook Pro、iPad Pro 发布
-10 月 15 日闪讯速报，苹果 CEO 蒂姆・库克今晚宣布，全新 14 英寸 MacBook Pro、iPad Pro 发布，两款新品均首发搭载 M5 芯片，售价分别为 12999 元起 / 8999 元起。
-全新 14 英寸 MacBook Pro 和 iPad Pro 将在 10 月 17 日上午 ...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了2篇相关文章)&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1641058?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/355018" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1641106?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1641218?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;Claude「最香」模型发布，速度翻倍价格大砍，编程能力直逼 GPT-5&lt;/div&gt;
- &lt;div class="topic-content"&gt;以小胜大#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博
-
-
-
-
-&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic" id="topic-2"&gt;
+ &lt;div class="topic-title"&gt;蔚来回应外国基金投诉：无事实依据；零跑推D19旗舰SUV，配超大电池；卡西欧推《回到未来》40周年联名表&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+遭新加坡主权财富基金诉讼，蔚来回应：源于不实指控，无事实依据
+近日，「新加坡政府投资公司（GIC）起诉蔚来」的消息引发市场关注。GIC 指控蔚来通过与其合作伙伴共同成立的武汉蔚能电池资产有限公司虚增收入和利润，误导投资者，导致 GIC 遭受投资损失。
+蔚来相关人士回应称，本案件不是新发生的事件，并非针对蔚来近期经营状况，源于 2022 年 6 月做空机构灰熊（Grizzly Research L...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1641081?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/355077" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-10-16-7e58c8e2</guid>
-      <pubDate>Thu, 16 Oct 2025 12:14:35 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-10-17-0f2109cf</guid>
+      <pubDate>Fri, 17 Oct 2025 12:15:31 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-10-21</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-10-22</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 21 Oct 2025 12:15:19 +0800</lastBuildDate>
-    <pubDate>Tue, 21 Oct 2025 12:15:19 +0800</pubDate>
+    <lastBuildDate>Wed, 22 Oct 2025 12:16:13 +0800</lastBuildDate>
+    <pubDate>Wed, 22 Oct 2025 12:16:13 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-10-21</title>
+      <title>每日科技新闻聚合 - 2025-10-22</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-10-21&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-10-22&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,36 +37,33 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-10-21&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年10月21日 12:15:19 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-10-22&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年10月22日 12:16:13 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;字节这款 AI 应用，在海外悄悄「爆了」 (2篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜深圳联通推eSIM上门办理服务/苹果市值创历史新高/宇树发布「能跳芭蕾舞」的机器人&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;宇树发布 H2 仿生人形机器人；DeepSeek 开源新模型；微博 CEO 回应多名 KOL 被禁言...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;亚马逊秘密文件曝光：用机器人取代 60 万美国工人；红果内测短剧带货；OpenAI 推出 AI 浏览... (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;连接之上，生出花样，制糖工厂发布贴贴线全新成员 ArtTie 花线&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;字节这款 AI 应用，在海外悄悄「爆了」&lt;/div&gt;
- &lt;div class="topic-content"&gt;&amp;amp;nbsp;
-尽管字节的豆包大模型在国内常被认为与海外顶尖模型存在差距，但其应用的「出海」版本 Cici 却在国际市场上取得了惊人增长，于近日登顶多国下载榜。
-&amp;amp;nbsp;
-据wired报道，市场分析公司 Sensor Tower 的数据显示，在过去三个月里，豆包app在海外的姊妹版「Cici」在印度尼西亚、马来西亚、菲律宾、墨西哥和英国等市场，一直位列谷歌应用商店下载量前 20 名的免费应用。
-...&lt;/div&gt;
+ &lt;div class="topic-title"&gt;亚马逊秘密文件曝光：用机器人取代 60 万美国工人；红果内测短剧带货；OpenAI 推出 AI 浏览器&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+OpenAI 的网络浏览器：ChatGPT Atlas 正式发布，能让 AI「替你上网」
+10 月 22 日凌晨，OpenAI 通过直播正式推出首款桌面浏览器 ChatGPT Atlas，这款传闻已久的 AI Agent 浏览器终于落地。
+
+Atlas 主打简洁设计，默认主页为 ChatGPT 交互界面，无繁杂书签栏与插件市场，核心围绕 AI 助手展开。关键功能包括智能体模式，可接管网页完成订航...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了2篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1641507?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/355180" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1641730?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/355228" target="_blank"&gt;阅读原文 2&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
  &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;早报｜深圳联通推eSIM上门办理服务/苹果市值创历史新高/宇树发布「能跳芭蕾舞」的机器人&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 微软承认 Windows 11 更新引发恢复环境键鼠失灵
-· 12306 升级积分「零元购」车票兑换功能
-· X推出闲置用户名市场：稀有用户名最高或将要价数百万美元#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+ &lt;div class="topic-title"&gt;连接之上，生出花样，制糖工厂发布贴贴线全新成员 ArtTie 花线&lt;/div&gt;
+ &lt;div class="topic-content"&gt;制糖工厂贴贴线新品——ArtTie花线正式发布#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -78,28 +75,14 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1641600?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;宇树发布 H2 仿生人形机器人；DeepSeek 开源新模型；微博 CEO 回应多名 KOL 被禁言｜极客早知道&lt;/div&gt;
- &lt;div class="topic-content"&gt;
-&amp;amp;nbsp;
-宇树科技发布 H2 仿生人形机器人：身高 180cm、重 70kg，首次拥有拟人仿生脸
-10 月 20 日消息，今日，宇树科技正式发布了其新一代仿生人形机器人 Unitree H2。
-
-&amp;amp;nbsp;
-据官方介绍，Unitree H2 身高 180 厘米，体重 70 公斤，其整体外形设计更加贴近人类的真实形态，从外观上给人以更接近真人的视觉感受。IT 之家注意到，在官方发布的视频中，...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/355174" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1641744?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-10-21-7bb7f804</guid>
-      <pubDate>Tue, 21 Oct 2025 12:15:19 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-10-22-b333c3ac</guid>
+      <pubDate>Wed, 22 Oct 2025 12:16:13 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-10-22</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-10-23</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 22 Oct 2025 12:16:13 +0800</lastBuildDate>
-    <pubDate>Wed, 22 Oct 2025 12:16:13 +0800</pubDate>
+    <lastBuildDate>Thu, 23 Oct 2025 12:15:18 +0800</lastBuildDate>
+    <pubDate>Thu, 23 Oct 2025 12:15:18 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-10-22</title>
+      <title>每日科技新闻聚合 - 2025-10-23</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-10-22&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-10-23&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,33 +37,43 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-10-22&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年10月22日 12:16:13 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-10-23&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年10月23日 12:15:18 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;亚马逊秘密文件曝光：用机器人取代 60 万美国工人；红果内测短剧带货；OpenAI 推出 AI 浏览... (2篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;连接之上，生出花样，制糖工厂发布贴贴线全新成员 ArtTie 花线&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜华为鸿蒙6支持苹果互联/SpaceX称已切断缅甸电诈园区星链/卢伟冰：小米国内高端主要抢的苹果... (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;乔布斯、库克都讨厌的触屏 Mac，可能要被苹果做出来了&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;25 万的奔驰纯电 CLA，没有千匹马力，但它有机械门把手&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-4"&gt;Meta AI狠裁600人，「封杀」ChatGPT，连图灵奖得主都曾气到想跑路&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-5"&gt;微软 CEO 获 9650 万美元最高薪酬；Netflix 宣布全力投入AI ；王自如曝负债 1 亿...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;亚马逊秘密文件曝光：用机器人取代 60 万美国工人；红果内测短剧带货；OpenAI 推出 AI 浏览器&lt;/div&gt;
- &lt;div class="topic-content"&gt;
-OpenAI 的网络浏览器：ChatGPT Atlas 正式发布，能让 AI「替你上网」
-10 月 22 日凌晨，OpenAI 通过直播正式推出首款桌面浏览器 ChatGPT Atlas，这款传闻已久的 AI Agent 浏览器终于落地。
+ &lt;div class="topic-title"&gt;早报｜华为鸿蒙6支持苹果互联/SpaceX称已切断缅甸电诈园区星链/卢伟冰：小米国内高端主要抢的苹果用户&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· iPhone Air 热度下降，消息称产量过足
+· 三星官宣 AI 眼镜计划，联名 Gentle Monster
+· OpenAI 新目标：干掉初级银行从业者的重复任务#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
 
-Atlas 主打简洁设计，默认主页为 ChatGPT 交互界面，无繁杂书签栏与插件市场，核心围绕 AI 助手展开。关键功能包括智能体模式，可接管网页完成订航...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了2篇相关文章)&lt;/div&gt;
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1641730?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/355228" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1641942?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1641798?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
  &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;连接之上，生出花样，制糖工厂发布贴贴线全新成员 ArtTie 花线&lt;/div&gt;
- &lt;div class="topic-content"&gt;制糖工厂贴贴线新品——ArtTie花线正式发布#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+ &lt;div class="topic-title"&gt;乔布斯、库克都讨厌的触屏 Mac，可能要被苹果做出来了&lt;/div&gt;
+ &lt;div class="topic-content"&gt;为什么笔记本和平板，慢慢变成了同一种东西？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -75,14 +85,61 @@ Atlas 主打简洁设计，默认主页为 ChatGPT 交互界面，无繁杂书�
 &lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1641744?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1641883?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;25 万的奔驰纯电 CLA，没有千匹马力，但它有机械门把手&lt;/div&gt;
+ &lt;div class="topic-content"&gt;这是一碗把肉埋在饭里的盖浇饭。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1641849?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-4"&gt;
+ &lt;div class="topic-title"&gt;Meta AI狠裁600人，「封杀」ChatGPT，连图灵奖得主都曾气到想跑路&lt;/div&gt;
+ &lt;div class="topic-content"&gt;有钱就是任性。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1641867?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-5"&gt;
+ &lt;div class="topic-title"&gt;微软 CEO 获 9650 万美元最高薪酬；Netflix 宣布全力投入AI ；王自如曝负债 1 亿，坐绿皮火车&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+9650 万美元，微软 CEO 纳德拉获史上最高薪酬
+10 月 22 日消息，据媒体报道，微软 CEO 萨蒂亚&amp;amp;middot;纳德拉的 2025 财年薪酬跃升至 9650 万美元，这也是他担任微软 CEO 十多年以来的最高薪酬。
+而董事会将此归功于公司在 AI 领域的进步。
+微软董事会薪酬委员会在发布的一份监管文件中的致股东说明中写道，纳德拉带领公司在 AI 领域取得了「非凡」的年度进展。
+据悉...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="http://www.geekpark.net/news/355297" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-10-22-b333c3ac</guid>
-      <pubDate>Wed, 22 Oct 2025 12:16:13 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-10-23-6d134274</guid>
+      <pubDate>Thu, 23 Oct 2025 12:15:18 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-10-25</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-10-26</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 25 Oct 2025 12:14:38 +0800</lastBuildDate>
-    <pubDate>Sat, 25 Oct 2025 12:14:38 +0800</pubDate>
+    <lastBuildDate>Sun, 26 Oct 2025 12:14:32 +0800</lastBuildDate>
+    <pubDate>Sun, 26 Oct 2025 12:14:32 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-10-25</title>
+      <title>每日科技新闻聚合 - 2025-10-26</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-10-25&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-10-26&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,31 +37,31 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-10-25&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年10月25日 12:14:38 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-10-26&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年10月26日 12:14:32 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;ChatGPT 上线「公司知识库」；Optimus 机器人因「手」再次延期；理想回应 MEGA 起火... (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;传OpenAI正开发新的生成式音乐工具；苹果将AirPods印度产能扩大一倍；《王者荣耀世界》官宣2...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;ChatGPT 上线「公司知识库」；Optimus 机器人因「手」再次延期；理想回应 MEGA 起火事件｜极客早知道&lt;/div&gt;
+ &lt;div class="topic-title"&gt;传OpenAI正开发新的生成式音乐工具；苹果将AirPods印度产能扩大一倍；《王者荣耀世界》官宣2026春天见&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-OpenAI 推出新的 ChatGPT 功能 可提升处理企业办公数据能力
-10 月 24 日晚消息，OpenAI 发布了 ChatGPT「公司知识」更新功能，这一新版本主要面向商业、企业和教育用户。通过集成 GPT-5 模型，ChatGPT 能够与 Slack、SharePoint、Google Drive 及 GitHub 等第三方工作空间应用直接连接，从而帮助用户在无需切换应用的情况下，搜索...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了2篇相关文章)&lt;/div&gt;
+消息称 OpenAI 正开发新的生成式音乐工具，可为视频添加配乐
+据《The Information》报道，OpenAI 正在开发一款新工具，该工具可根据文本和音频提示词生成音乐。
+消息人士称，这款工具可用于为现有视频添加配乐，或为已有的人声音轨添加吉他伴奏。目前尚不清楚 OpenAI 计划何时推出该工具，也不清楚其是否会作为独立产品发布，还是将集成到其 ChatGPT 及视频应用 Sora 中...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1642192?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/355544" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/355547" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-10-25-d49752fb</guid>
-      <pubDate>Sat, 25 Oct 2025 12:14:38 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-10-26-59ca871a</guid>
+      <pubDate>Sun, 26 Oct 2025 12:14:32 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

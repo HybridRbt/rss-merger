@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-10-29</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-10-30</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 29 Oct 2025 12:19:58 +0800</lastBuildDate>
-    <pubDate>Wed, 29 Oct 2025 12:19:58 +0800</pubDate>
+    <lastBuildDate>Thu, 30 Oct 2025 12:14:57 +0800</lastBuildDate>
+    <pubDate>Thu, 30 Oct 2025 12:14:57 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-10-29</title>
+      <title>每日科技新闻聚合 - 2025-10-30</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-10-29&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-10-30&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,21 +37,22 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-10-29&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年10月29日 12:19:58 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-10-30&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年10月30日 12:14:57 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜小米汽车新动作曝光：雷军成立架构部门/大疆 Pocket 4 机身图流出/三星三折叠亮相，采用... (2篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;OpenAI完成重组，总集团估值5300亿美元；英伟达发布全新超级AI芯片；「鸭科夫」爆火，B站股价...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜OLED 版 iPad mini 或明年发布/特斯拉已在为马斯克可能离任做准备/英伟达成为史上... (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;GPT 6要来了？15年后市值突破5万亿，OpenAI签下「对赌协议」 (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;OpenAI筹备IPO，估值1万亿美元；英伟达成全球首家5万亿美元公司；中国造「巨型放大镜」，比太阳...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;早报｜小米汽车新动作曝光：雷军成立架构部门/大疆 Pocket 4 机身图流出/三星三折叠亮相，采用内折方案&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 消息称苹果将跟进 LOFIC 相机技术
-· 全球首款单芯片舱驾一体方案落地
-· 喜茶推出「heytea Halloween」节日限定活动#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+ &lt;div class="topic-title"&gt;早报｜OLED 版 iPad mini 或明年发布/特斯拉已在为马斯克可能离任做准备/英伟达成为史上首个市值破 5 万亿美元的公司&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· Photoshop 将支持直连 ChatGPT
+· 「HomePod」成精，1X 人形机器人正式开售
+· 宇树新一代机器狗预热#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -63,27 +64,38 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1642435?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1642562?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1642626?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1642710?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-2"&gt;
+ &lt;div class="topic-title"&gt;GPT 6要来了？15年后市值突破5万亿，OpenAI签下「对赌协议」&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+刚刚，OpenAI 宣布完成公司结构重组，估值锁定 5000 亿美元。这不仅意味着其多年的「营利」与「非营利」矛盾得以破解，更为公司的未来铺就了一条清晰而稳固的跑道。这场重组大戏，终于锤音落定。
+简单来说，OpenAI 现在分为两大组成部分，一家是非营利组织，称为 OpenAI 基金会（OpenAI Foundation），另一家则是公益性营利性组织，OpenAI 集团（OpenAI Group...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了2篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1642709?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/355742" target="_blank"&gt;阅读原文 2&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;OpenAI完成重组，总集团估值5300亿美元；英伟达发布全新超级AI芯片；「鸭科夫」爆火，B站股价创新高｜极客早知道&lt;/div&gt;
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;OpenAI筹备IPO，估值1万亿美元；英伟达成全球首家5万亿美元公司；中国造「巨型放大镜」，比太阳亮万亿倍&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-OpenAI 宣布完成资本重组并与微软达成新协议：基金会控股营利公司，总集团估值 5000 亿美元
-10 月 28 日，OpenAI 宣布完成资本重组，简化公司架构。此次调整确立了非营利机构对营利业务的控制权，并为在通用人工智能（AGI）到来前获取重大资源铺平道路。
-简单来说，OpenAI 现在分为两大组成部分，一家是非营利组织，称为&amp;amp;nbsp;OpenAI 基金会（OpenAI Foundat...&lt;/div&gt;
+消息称 OpenAI 正筹备 IPO，估值或高达 1 万亿美元
+10 月 30 日消息，北京时间今天上午，路透社援引三位知情人士消息称，OpenAI 正在为 IPO 做准备，估值最高可能达到约 1 万亿美元。这次将是史上规模最大的上市之一。
+部分人士表示，OpenAI 计划最早在 2026 年下半年向证券监管机构提交上市申请。公司在初步讨论中设定的融资目标下限为 600 亿美元，实际金额可能更高...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/355676" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/355734" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-10-29-8f8164d7</guid>
-      <pubDate>Wed, 29 Oct 2025 12:19:58 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-10-30-503fff1d</guid>
+      <pubDate>Thu, 30 Oct 2025 12:14:57 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

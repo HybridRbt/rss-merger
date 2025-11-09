@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-11-08</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-11-09</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 08 Nov 2025 12:14:33 +0800</lastBuildDate>
-    <pubDate>Sat, 08 Nov 2025 12:14:33 +0800</pubDate>
+    <lastBuildDate>Sun, 09 Nov 2025 12:15:08 +0800</lastBuildDate>
+    <pubDate>Sun, 09 Nov 2025 12:15:08 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-11-08</title>
+      <title>每日科技新闻聚合 - 2025-11-09</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-11-08&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-11-09&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,52 +37,33 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-11-08&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年11月08日 12:14:33 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-11-09&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年11月09日 12:15:08 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜刘强东：未来员工可能一周只工作一天/微信调研「多手机同时登录」功能/苹果下调全线产品回收价&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;AI热潮推动，全球 DRAM 内存价格暴涨；泡泡玛特回应直播事故；媒体爆料iPhone 18 Pro...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;AI 六巨头罕见同台，辨论 AI 泡沫；SpaceX 公布简化版登月舱方案；王者荣耀年度总决赛首次在...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;早报｜刘强东：未来员工可能一周只工作一天/微信调研「多手机同时登录」功能/苹果下调全线产品回收价&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 闪迪：NAND 闪存紧缺至少延续至 2026 年底
-· 特斯拉 Roadster 2 再度延期，愚人节发布引发质疑
-· 「vibe coding」当选柯林斯 2025 年度词汇，AI 编程趋势受关注#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博
-
-
-
-
-&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1643845?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;AI热潮推动，全球 DRAM 内存价格暴涨；泡泡玛特回应直播事故；媒体爆料iPhone 18 Pro工程机进展&lt;/div&gt;
+&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
+ &lt;div class="topic" id="topic-1"&gt;
+ &lt;div class="topic-title"&gt;AI 六巨头罕见同台，辨论 AI 泡沫；SpaceX 公布简化版登月舱方案；王者荣耀年度总决赛首次在鸟巢举办&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-受 AI 热潮推动 全球 DRAM 内存价格暴涨 172% 创下历史新高
-近期，人工智能技术因其巨大的电力、用水和显卡需求受到广泛关注，而其对存储市场的深刻影响却鲜有人问津。实际上，内存和存储价格已连续数周上涨，且这一趋势预计将持续至明年。
+AI 六巨头罕见同台！
+本周，英伟达 CEO 黄仁勋、Meta 首席 AI 科学家 Yann LeCun，以及顶尖计算机科学家 Yoshua Bengio、Geoffrey Hinton、李飞飞和 Bill Dally 共同荣获本年度伊丽莎白女王工程奖。
 
-据市场研究机构 TrendForce 统计，2025 年第三季度的 DRAM 合同价格较去年同期大幅飙升 171.8%，上涨幅度甚至超过黄金。造成这一巨变...&lt;/div&gt;
+在这次访谈中，大佬们各自分享了自己职业生涯中的顿悟时刻。
+并且这次 6 个人都围绕一个核心问题展开激辩：我们人类，是真的处于一场真实的 AI...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/356147" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/356157" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-11-08-36175e97</guid>
-      <pubDate>Sat, 08 Nov 2025 12:14:33 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-11-09-fb294e22</guid>
+      <pubDate>Sun, 09 Nov 2025 12:15:08 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

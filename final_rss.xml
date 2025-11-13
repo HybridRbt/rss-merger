@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-11-12</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-11-13</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 12 Nov 2025 12:17:00 +0800</lastBuildDate>
-    <pubDate>Wed, 12 Nov 2025 12:17:00 +0800</pubDate>
+    <lastBuildDate>Thu, 13 Nov 2025 12:18:41 +0800</lastBuildDate>
+    <pubDate>Thu, 13 Nov 2025 12:18:41 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-11-12</title>
+      <title>每日科技新闻聚合 - 2025-11-13</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-11-12&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-11-13&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,21 +37,35 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-11-12&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年11月12日 12:17:00 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-11-13&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年11月13日 12:18:41 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜1299元起，苹果上架iPhone专用「袜子」/特斯拉在华销量暴跌，创三年最差记录/西贝回应「... (3篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;传李想亲抓人事，华为系高管退出理想；Meta 首席 AI 科学家杨乐昆离职创业；AI 减肥或致饮食失...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;DeepSeek罗福莉正式亮相小米AI；「周杰伦概念股」联手宇树造 IP 机器人；乘用车百公里加速不... (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜奇瑞为天门山挑战测试意外道歉/OpenAI 突袭发布 GPT-5.1/Steam 主机来啦！明...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;奥迪 Q9 明年登场，携 SQ9 与霍希版硬刚宝马 X7、奔驰 GLS&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;早报｜1299元起，苹果上架iPhone专用「袜子」/特斯拉在华销量暴跌，创三年最差记录/西贝回应「闭店潮」传闻：正常调整&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 胖东来胜诉「柴怼怼」案，法院判赔 260 万元
-· 大疆三款影像新品曝光
-· JR 东日本宣布西瓜卡吉祥物「企鹅」2026 财年末「毕业」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+ &lt;div class="topic-title"&gt;DeepSeek罗福莉正式亮相小米AI；「周杰伦概念股」联手宇树造 IP 机器人；乘用车百公里加速不少于5秒&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+李飞飞团队推出首款商用世界模型
+由李飞飞联合创立的 World Labs 11 月 12 日正式推出其首款商业化世界模型产品&amp;amp;mdash;&amp;amp;mdash;Marble。该产品现已开放免费增值（freemium）与付费订阅服务，支持用户通过文本提示词、照片、视频、3D 布局图或全景图生成可编辑、可下载的 3D 环境。
+所谓「世界模型」，是指一类能构建环境内部表征的 AI 系统，可用于预测未来状态并规...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了2篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1644304?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/356343" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
+ &lt;div class="topic" id="topic-2"&gt;
+ &lt;div class="topic-title"&gt;早报｜奇瑞为天门山挑战测试意外道歉/OpenAI 突袭发布 GPT-5.1/Steam 主机来啦！明年发售&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 火绒安全「手撕」鲁大师流量劫持黑幕
+· 贾跃亭：当年小米在乐视面前根本没有还手之力
+· Insta360 发布 Ace Pro 2 影像大师套餐#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -61,31 +75,33 @@ h2 { color: #007acc; margin-top: 30px; }
 
 
 &lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了3篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1644150?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1644149?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1644102?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 3&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1644359?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
-&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;传李想亲抓人事，华为系高管退出理想；Meta 首席 AI 科学家杨乐昆离职创业；AI 减肥或致饮食失调&lt;/div&gt;
- &lt;div class="topic-content"&gt;&amp;amp;nbsp;
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;奥迪 Q9 明年登场，携 SQ9 与霍希版硬刚宝马 X7、奔驰 GLS&lt;/div&gt;
+ &lt;div class="topic-content"&gt;不仅要卖得好，更要「撑得起场面」。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
 
-Meta 首席 AI 科学家杨立昆计划离职创业
-11 月 11 日，据《金融时报》报道，就在 Meta CEO 马克&amp;amp;middot;扎克伯格 (Mark Zuckerberg) 寻求大幅调整公司 AI 业务之际，Meta 首席 AI 科学家杨立昆 (Yann LeCun) 计划离开这家社交媒体巨头，去创办自己的创业公司。
-杨立昆被誉为现代 AI 先驱之一，也是图灵奖得主。据知情人士...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/356295" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1644262?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-11-12-c3b4aedb</guid>
-      <pubDate>Wed, 12 Nov 2025 12:17:00 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-11-13-c6d9135a</guid>
+      <pubDate>Thu, 13 Nov 2025 12:18:41 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-11-16</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-11-17</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 16 Nov 2025 12:19:35 +0800</lastBuildDate>
-    <pubDate>Sun, 16 Nov 2025 12:19:35 +0800</pubDate>
+    <lastBuildDate>Mon, 17 Nov 2025 12:19:57 +0800</lastBuildDate>
+    <pubDate>Mon, 17 Nov 2025 12:19:57 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-11-16</title>
+      <title>每日科技新闻聚合 - 2025-11-17</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-11-16&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-11-17&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,19 +37,20 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-11-16&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年11月16日 12:19:35 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-11-17&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年11月17日 12:19:57 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;苹果推出大折叠，影像集体上大底，2026 将是手机的「大」年&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;宇树完成上市辅导，拟境内IPO；传索尼开发Labubu电影；2699元！原道X小岛秀夫耳机限量发售&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;刚刚，阿里千问 APP 开启公测，要做中国版ChatGPT | 附实测&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜曝iPhone换代周期大改：或一年发布 6 款新机/雷军连发多条微博回应质疑/Android ...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;雷军连发多条微博回应质疑；iPhone 发布方式将在明年重大变革；年度最令人不安的研究：AI 刷多社...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;苹果推出大折叠，影像集体上大底，2026 将是手机的「大」年&lt;/div&gt;
- &lt;div class="topic-content"&gt;拼「大」不如拼「好」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+ &lt;div class="topic" id="topic-4"&gt;
+ &lt;div class="topic-title"&gt;刚刚，阿里千问 APP 开启公测，要做中国版ChatGPT | 附实测&lt;/div&gt;
+ &lt;div class="topic-content"&gt;C 端 AI 大战升级。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -61,25 +62,46 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1644666?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1644759?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
- &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;宇树完成上市辅导，拟境内IPO；传索尼开发Labubu电影；2699元！原道X小岛秀夫耳机限量发售&lt;/div&gt;
+ &lt;div class="topic" id="topic-5"&gt;
+ &lt;div class="topic-title"&gt;早报｜曝iPhone换代周期大改：或一年发布 6 款新机/雷军连发多条微博回应质疑/Android 微信更新聊天备份至 U 盘&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 北京 6G 实验室多项进展公布
+· 零跑提前完成本年销量目标
+· Reno 15 系列今日发布#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1644719?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-6"&gt;
+ &lt;div class="topic-title"&gt;雷军连发多条微博回应质疑；iPhone 发布方式将在明年重大变革；年度最令人不安的研究：AI 刷多社媒会变蠢｜极客早知道&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-宇树科技完成 IPO 辅导，拟境内首次公开发行股票并上市
-11 月 15 日消息，中国证监会官网今日显示，宇树科技已发布 IPO 辅导工作完成报告，拟申请在中华人民共和国境内首次公开发行股票并上市。
-查询获悉，宇树科技今年 7 月开启上市辅导，由中信证券担任辅导机构。辅导备案报告显示，宇树科技控股股东、实际控制人为王兴兴，王兴兴直接持有公司 23.8216% 股权，并通过上海宇翼企业管理咨询合伙...&lt;/div&gt;
+雷军关于小米汽车安全连发多条微博：「网上有不少人断章取义、歪曲抹黑」
+11 月 16 日，雷军就其 2024 年 4 月的采访言论连发微博澄清。相关话题冲上热搜。
+原采访中，雷军提到「一辆车好看是第一位的」，被指为「小米汽车重颜值轻安全」，质疑其忽视安全标准。
+10:52雷军发布第一条微博，称「这是小米 SU7 发布之前我发的微博，我谈对安全的理解和 SU7 的研发标准。」
+11:25雷军转发上...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/356460" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/356465" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-11-16-167ad095</guid>
-      <pubDate>Sun, 16 Nov 2025 12:19:35 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-11-17-c60259fb</guid>
+      <pubDate>Mon, 17 Nov 2025 12:19:57 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

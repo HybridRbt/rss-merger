@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-11-24</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-11-25</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 24 Nov 2025 12:28:18 +0800</lastBuildDate>
-    <pubDate>Mon, 24 Nov 2025 12:28:18 +0800</pubDate>
+    <lastBuildDate>Tue, 25 Nov 2025 12:19:31 +0800</lastBuildDate>
+    <pubDate>Tue, 25 Nov 2025 12:19:31 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-11-24</title>
+      <title>每日科技新闻聚合 - 2025-11-25</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-11-24&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-11-25&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,46 +37,51 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-11-24&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年11月24日 12:28:18 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-11-25&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年11月25日 12:19:31 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;雷军：辅助驾驶不是自动驾驶；继续干！传库克明年不退休；Altman：谷歌复苏，OpenAI进入艰难时... (4篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;他们没在追风口，而是在造下一个&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜ChatGPT推出购物研究功能/豆包输入法官宣上线/Google苹果互传功能或登陆更多安卓手机&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;特朗普签署行政令，启动人工智能「创世纪计划」；苹果罕见裁员，数十个销售部门岗位被裁；理想高管回应理想...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
- &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;雷军：辅助驾驶不是自动驾驶；继续干！传库克明年不退休；Altman：谷歌复苏，OpenAI进入艰难时刻&lt;/div&gt;
- &lt;div class="topic-content"&gt;
-古尔曼：没有迹象表明库克将卸任苹果 CEO
-近日，英国《金融时报》报道称，苹果公司为首席执行官 Tim Cook 制定继任计划的努力「近期显著加强」，交接可能「最早于明年」发生，甚至有可能在明年春季便启动。
-然而，彭博社记者古尔曼 23 日在其《Power On》通讯专栏中指出，该报道很可能「完全是假的」，并强调 CEO「交接时机尚未成熟」。古尔曼称，「根据我最近几周了解到的所有情况，我认为明年...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了4篇相关文章)&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1645715?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1645721?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/356804" target="_blank"&gt;阅读原文 3&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;他们没在追风口，而是在造下一个&lt;/div&gt;
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;早报｜ChatGPT推出购物研究功能/豆包输入法官宣上线/Google苹果互传功能或登陆更多安卓手机&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· Claude Opus 4.5 正式推出
+· 联想 CFO：正囤积 PC 内存，避免转嫁成本到消费者
+· 美的与比亚迪携手打造「人车家」智慧生态#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1645932?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-4"&gt;
+ &lt;div class="topic-title"&gt;特朗普签署行政令，启动人工智能「创世纪计划」；苹果罕见裁员，数十个销售部门岗位被裁；理想高管回应理想汽车为什么没终身质保｜极客早知道&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-
-
-&amp;amp;nbsp;&lt;/div&gt;
+特朗普签署行政令，启动人工智能「创世纪计划」
+11 月 25 日消息，当地时间 11 月 24 日，美国白宫发布声明表示，总统特朗普签署了一项行政命令，启动一项旨在利用人工智能（AI）变革科学研究方式、加速科学发现的全新国家计划「创世纪计划」。
+声明表示，该命令指示能源部创建一个人工智能实验平台，整合美国超级计算机和独特数据资产，以生成科学基础模型并为机器人实验室提供支持。该命令指示总统科学与技...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/356805" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/356847" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-11-24-edca49fd</guid>
-      <pubDate>Mon, 24 Nov 2025 12:28:18 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-11-25-79840dfb</guid>
+      <pubDate>Tue, 25 Nov 2025 12:19:31 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-12-01</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-12-02</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 01 Dec 2025 12:42:51 +0800</lastBuildDate>
-    <pubDate>Mon, 01 Dec 2025 12:42:51 +0800</pubDate>
+    <lastBuildDate>Tue, 02 Dec 2025 12:23:40 +0800</lastBuildDate>
+    <pubDate>Tue, 02 Dec 2025 12:23:40 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-12-01</title>
+      <title>每日科技新闻聚合 - 2025-12-02</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-12-01&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-12-02&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,41 +37,36 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-12-01&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年12月01日 12:42:51 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-12-02&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年12月02日 12:23:40 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;赶超 Nano Banana 2，国产 AI 生图又杀出「一致性标杆」，Vidu 生图限时无限免费 (2篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜华为 Mate80 信号栏显示 5A，官方回应/罗永浩：今天有个大事情官宣/电动自行车新规上线&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;罗永浩：周一有大事官宣；《阿凡达》导演卡梅隆：生成式 AI「太可怕了」；《疯狂动物城2》刷新中国影史...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;罗永浩年底曝光细红线 AI 软件；超级月亮12月5日再登场；豆包 AI 手机发布，3499元｜极客早... (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;笑死，兵马俑在千问 APP 里跳 K-Pop，比练习生还丝滑&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;赶超 Nano Banana 2，国产 AI 生图又杀出「一致性标杆」，Vidu 生图限时无限免费&lt;/div&gt;
- &lt;div class="topic-content"&gt;比起灵机一动的「随机性」，更加需要可交付的「确定性」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博
+ &lt;div class="topic-title"&gt;罗永浩年底曝光细红线 AI 软件；超级月亮12月5日再登场；豆包 AI 手机发布，3499元｜极客早知道&lt;/div&gt;
+ &lt;div class="topic-content"&gt;&amp;amp;nbsp;
 
 
+&amp;amp;nbsp;
 
-
-&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
+罗永浩宣布将于 12 月 30 日举行年度科技创新分享大会，将发布细红线科技 AI 软件
+12 月 1 日消息，罗永浩今日在微博发长文，宣布「罗永浩的十字路口」之年度科技创新分享大会（2025）将于今年 12 月 30 日在上海召开。
+在长文中，罗永浩解答了一些相关问题。他表示，给大家集中介绍一批令人印象深刻，但还没彻底走进大众视野的中国创新型科技产品。他还强调，...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了2篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1646709?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1646737?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1646923?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/357517" target="_blank"&gt;阅读原文 2&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
  &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;早报｜华为 Mate80 信号栏显示 5A，官方回应/罗永浩：今天有个大事情官宣/电动自行车新规上线&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 小鹏副总裁：反内卷是中国汽车行业走向成熟的必然一步
-· 新款 Studio Display 或将明年初推出
-· 美团自称是「最适合闪购的平台」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+ &lt;div class="topic-title"&gt;笑死，兵马俑在千问 APP 里跳 K-Pop，比练习生还丝滑&lt;/div&gt;
+ &lt;div class="topic-content"&gt;一张图+一句话，让万物开口又起舞#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -83,27 +78,14 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1646663?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;罗永浩：周一有大事官宣；《阿凡达》导演卡梅隆：生成式 AI「太可怕了」；《疯狂动物城2》刷新中国影史纪录｜极客早知道&lt;/div&gt;
- &lt;div class="topic-content"&gt;
-
-华与华服务西贝 10 年收了六千多万元，罗永浩：周一有大事官宣
-11 月 30 日，据报道，在与西贝的舆论战告一段落后，罗永浩与华创始人华杉之间的隔空「交锋」再次引发关注。昨日晚间，罗永浩在直播时透露，这周「因为香港出了火灾，无论是官宣还是跟人吵架都不合适」。
-
-同时，他还预告下周一有个大的事件官宣，「是正事」，不想被这种吵架扯皮的事情带跑偏了，「等这个事情结束后，看哪天心情好就公布（录音）了...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/357449" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1646836?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-12-01-5ab6c9fb</guid>
-      <pubDate>Mon, 01 Dec 2025 12:42:51 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-12-02-2584d0d1</guid>
+      <pubDate>Tue, 02 Dec 2025 12:23:40 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

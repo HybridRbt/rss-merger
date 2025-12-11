@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-12-10</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-12-11</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 10 Dec 2025 12:27:32 +0800</lastBuildDate>
-    <pubDate>Wed, 10 Dec 2025 12:27:32 +0800</pubDate>
+    <lastBuildDate>Thu, 11 Dec 2025 12:29:39 +0800</lastBuildDate>
+    <pubDate>Thu, 11 Dec 2025 12:29:39 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-12-10</title>
+      <title>每日科技新闻聚合 - 2025-12-11</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-12-10&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-12-11&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,51 +37,60 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-12-10&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年12月10日 12:27:32 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-12-11&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年12月11日 12:29:39 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;1.5万亿美元，SpaceX或成最强IPO；暴涨700%，人形机器人迎拐点；智谱开源AutoGLM，... (2篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;GPT-5.2 内幕曝光：停掉 Sora，八周内死磕 ChatGPT 求生，AGI 梦想向生存低头&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;AI 时代的超级个体，正在小红书上寻找自己的绿洲 (7篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;流量时代的失灵：AI 能否让经营者重新看见真实需求？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;OpenAI 宣布紧急状态：全力推进 ChatGPT；冯提莫复播，直播间破十万；马斯克：若重新来过，...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;1.5万亿美元，SpaceX或成最强IPO；暴涨700%，人形机器人迎拐点；智谱开源AutoGLM，「豆包手机」人人可造&lt;/div&gt;
- &lt;div class="topic-content"&gt;
-消息称 SpaceX 推进史上最大 IPO：拟募资超 300 亿美元，目标估值 1.5 万亿美元
-12 月 10 日消息，据彭博社报道，知情人士透露，SpaceX 正积极推进首次公开募股（IPO）计划，拟募资规模将远超 300 亿美元（现汇率约合 2123.38 亿元人民币），若成功实施，这将成为有史以来规模最大的上市交易。
-该公司正将估值目标定为约 1.5 万亿美元（现汇率约合 10.62 万...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了2篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-title"&gt;AI 时代的超级个体，正在小红书上寻找自己的绿洲&lt;/div&gt;
+ &lt;div class="topic-content"&gt;整理｜徐珊 
+编辑｜ 郑玄
+2025 年，AI 浪潮带来的不只是技术奇点，更是一场深刻的、直击灵魂的个体觉醒。
+我们曾以为，伟大的创新者总是那些孤独的探索者，一个人在冰冷的算法世界里艰难前行。但在这场宏大的变革中，一切似乎有些不同，我们发现了：超级个体的成长，从来不是一场孤立的硬核探索之路，而是创造者们与用户之间的「双向奔赴」。
+AI 将生产要素变得极度低廉，一个人的力量足以顶替过去一个团队的效率...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了7篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1647908?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/357829" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1647849?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1648071?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1648099?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 3&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
  &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;GPT-5.2 内幕曝光：停掉 Sora，八周内死磕 ChatGPT 求生，AGI 梦想向生存低头&lt;/div&gt;
- &lt;div class="topic-content"&gt;被 Google 逼入墙角#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博
-
-
-
-
-&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-title"&gt;流量时代的失灵：AI 能否让经营者重新看见真实需求？&lt;/div&gt;
+ &lt;div class="topic-content"&gt;整理｜ Moonshot 
+编辑｜ 靖宇
+在这一两年里，我们被反复提醒：AI 正在重塑一切。它在改变创作方式，改变知识分发方式，改变我们对「效率」与「增长」的定义。
+但在前沿技术叙事之外，有一群人的声音往往被忽略：那些撑起地方经济、在反全球化浪潮中迷茫的中小企业者。
+他们既不是大公司，也不是受资本追逐的创业者，而是当地餐厅、跨国小工厂、手工艺工作坊、贴纸品牌、区域零售商&amp;amp;hellip;&amp;amp;helli...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1647912?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/357901" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;OpenAI 宣布紧急状态：全力推进 ChatGPT；冯提莫复播，直播间破十万；马斯克：若重新来过，不会再领导美国「政府效率部」｜极客早知道&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+OpenAI 宣布紧急状态：放弃 AGI 梦想，全力拯救 ChatGPT
+12 月 10 日，OpenAI 首席执行官 Sam Altman 宣布公司进入「红色警报」状态，暂停所有其他项目，全力以赴拯救 ChatGPT。
+自从谷歌的「Nano Banana」模型意外走红以来，AI 领域的竞争局势发生了翻天覆地的变化。曾被认为慢半拍的谷歌，最近在 AI 技术上取得了显著进展，并凭借 Gemini ...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="http://www.geekpark.net/news/357888" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-12-10-9742fd09</guid>
-      <pubDate>Wed, 10 Dec 2025 12:27:32 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-12-11-6b1bd3fd</guid>
+      <pubDate>Thu, 11 Dec 2025 12:29:39 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

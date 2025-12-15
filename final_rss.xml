@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-12-14</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-12-15</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 14 Dec 2025 12:30:34 +0800</lastBuildDate>
-    <pubDate>Sun, 14 Dec 2025 12:30:34 +0800</pubDate>
+    <lastBuildDate>Mon, 15 Dec 2025 12:33:37 +0800</lastBuildDate>
+    <pubDate>Mon, 15 Dec 2025 12:33:37 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-12-14</title>
+      <title>每日科技新闻聚合 - 2025-12-15</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-12-14&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-12-15&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,31 +37,46 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-12-14&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年12月14日 12:30:34 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-12-15&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年12月15日 12:33:37 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;摩尔线程回应「75亿理财」：符合公司股东利益；OpenAI卖「周边」，上线秒空；宇树发「机器人App...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;特斯拉启动 Robotaixi 测试；ChatGPT 成人模式最快明年一季度上线；DRAM 紧缺至 ... (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;具身智能的共识与非共识：地平线携手生态伙伴共话产业未来&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;摩尔线程回应「75亿理财」：符合公司股东利益；OpenAI卖「周边」，上线秒空；宇树发「机器人App Store」&lt;/div&gt;
+ &lt;div class="topic-title"&gt;特斯拉启动 Robotaixi 测试；ChatGPT 成人模式最快明年一季度上线；DRAM 紧缺至 2028 年 | 极客早知道&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-摩尔线程回应「拟用 75 亿元闲置募资现金理财」：符合公司及全体股东利益
-12 月 12 日晚间，摩尔线程智能科技（北京）股份有限公司发布公告，计划使用不超过 75 亿元的部分闲置募集资金进行现金管理。
-作为「国产 GPU 第一股」在科创板上市的摩尔线程，扣除发行费用后，首次公开发行人民币普通股实际募集资金净额 75.76 亿元。这意味着，此次摩尔线程拟用于现金管理的资金，最高额度占到了上市募集...&lt;/div&gt;
+无安全员、无乘员，特斯拉在奥斯汀启动 Robotaxi 无人驾驶测试
+12 月 15 日消息，特斯拉首席执行官埃隆・马斯克（Elon Musk）于周日证实，公司已在得克萨斯州奥斯汀启动无人驾驶 Robotaxi 路测，测试车辆内未配备任何乘员。两辆特斯拉 Model Y Robotaxi 被目击在奥斯汀公共道路上行驶，车内空无一人。
+马斯克上周确认，「将在未来三周内从车辆中移除安全监督员」。自今...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了2篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1648472?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/358009" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
+ &lt;div class="topic" id="topic-2"&gt;
+ &lt;div class="topic-title"&gt;具身智能的共识与非共识：地平线携手生态伙伴共话产业未来&lt;/div&gt;
+ &lt;div class="topic-content"&gt;作者｜汤一涛 
+编辑｜ 郑玄
+&amp;amp;nbsp;
+智能汽车作为机器人的第一个大终端。在大模型技术快速发展的当下，源自智能汽车的算法、算力技术正在被加速复用，催生出从单一任务到通用智能、从交通工具到机器人的宏大图景，推动着一场从「车」到「人」的智能化跃迁。
+然而，具身智能的发展还面临多重现实挑战。从数据采集到模型训练，从硬件本体到场景落地，产业链各环节都存在大量技术和工程问题。仅仅依靠单一机构难以全链条突...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/358007" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/358003" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-12-14-0ffc499f</guid>
-      <pubDate>Sun, 14 Dec 2025 12:30:34 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-12-15-4f8b1b52</guid>
+      <pubDate>Mon, 15 Dec 2025 12:33:37 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

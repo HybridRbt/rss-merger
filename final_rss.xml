@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-12-16</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-12-17</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 16 Dec 2025 12:29:42 +0800</lastBuildDate>
-    <pubDate>Tue, 16 Dec 2025 12:29:42 +0800</pubDate>
+    <lastBuildDate>Wed, 17 Dec 2025 12:27:00 +0800</lastBuildDate>
+    <pubDate>Wed, 17 Dec 2025 12:27:00 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-12-16</title>
+      <title>每日科技新闻聚合 - 2025-12-17</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-12-16&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-12-17&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,37 +37,38 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-12-16&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年12月16日 12:29:42 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-12-17&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年12月17日 12:27:00 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;群核科技，摸着李飞飞过河 (2篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜iPhone 20或将采用「四曲面」全面屏设计/首批L3车型获批，两家车企入围/麦当劳涨价，涨...&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;马斯克：在地球建核聚变装置愚蠢至极；英伟达发布新一代开源大模型；全球首款猫用减肥药进入临床试验&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;追赶谷歌，OpenAI 推出全新旗舰生图模型；折叠屏 iPhone 设计细节曝光；余承东接任华为终端... (3篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;有了 Steam Machine，Steam Phone 还会远吗？｜硬哲学&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;早报｜苹果数十款新品遭泄密，折叠屏 iPhone 也在内/媲美 DeepSeek，小米新模型发布/O...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-4"&gt;大众 ID.Polo 暂无入华计划，起售超 20 万元，没勇气面对国产车？&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;群核科技，摸着李飞飞过河&lt;/div&gt;
- &lt;div class="topic-content"&gt;作者｜Li Yuan 
-编辑｜ 郑玄
-李飞飞的「空间智能」（Spatial Intelligence），无疑是今年科技圈最性感的词汇之一。
-当这位 AI 教母振臂一呼，原本还在卷文本、卷视频生成的行业目光，瞬间被拉向了 3D 世界。然而，这个领域太过前沿，以至于在大洋彼岸，除了李飞飞的 World Labs，真正能看懂并跟进的玩家也寥寥无几。
-在中国，谁会是那个最快跟进的人？
-令人意外的是，答案或...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了2篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-title"&gt;追赶谷歌，OpenAI 推出全新旗舰生图模型；折叠屏 iPhone 设计细节曝光；余承东接任华为终端有限公司董事长｜极客早知道&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+&amp;amp;nbsp;
+已免费开放：OpenAI 最强 AI 生图模型登场，奥尔特曼变身性感消防员
+12 月 17 日消息，OpenAI 昨日（12 月 16 日）发布博文，推出「全新旗舰 ChatGPT 图像生成模型」GPT Image 1.5，并罕见公开了该项目背后的庞大研发团队名单，并同步在 ChatGPT 中推出了专用的「Images」（图像）标签页。
+
+&amp;amp;nbsp;
+此次更新被视为 ChatGP...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了3篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1648550?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/358069" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1648620?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1648706?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/358098" target="_blank"&gt;阅读原文 3&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
  &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;早报｜iPhone 20或将采用「四曲面」全面屏设计/首批L3车型获批，两家车企入围/麦当劳涨价，涨幅0.5–1元&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 曝 iPhone 20 将采用「四曲面」无边框设计
-· 扫地机器人「鼻祖」破产，中国代工厂接盘
-· 微软 Copilot「强势入驻」LG 电视，不可卸载引争议#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+ &lt;div class="topic-title"&gt;有了 Steam Machine，Steam Phone 还会远吗？｜硬哲学&lt;/div&gt;
+ &lt;div class="topic-content"&gt;我要在手机上玩 GTA6！#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -79,27 +80,50 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1648576?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1648727?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;马斯克：在地球建核聚变装置愚蠢至极；英伟达发布新一代开源大模型；全球首款猫用减肥药进入临床试验&lt;/div&gt;
- &lt;div class="topic-content"&gt;
-马斯克公开唱衰核聚变，疑似为光伏站台
+ &lt;div class="topic-title"&gt;早报｜苹果数十款新品遭泄密，折叠屏 iPhone 也在内/媲美 DeepSeek，小米新模型发布/OpenAI 版 Nano Banana 来袭&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 余承东接任华为终端董事长，执掌手机、汽车、AI 三大核心业务
+· 「30 万级」玛莎拉蒂被一抢而空，销售直言不建议买
+· 小鹏获广州 L3 路测牌照，2026 年将量产 L4 级方案#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
 
-12月15日，马斯克在个人社交账号上公开唱衰核聚变发电。其直言不讳道：&amp;amp;ldquo;在地球上建造小型核聚变反应堆简直愚蠢至极。&amp;amp;rdquo;
-马斯克指出，太阳本身已是天空中一个巨大的、免费的核聚变反应堆。太阳产生的能量能够满足全太阳系所有的能源需求，而建造小型核聚变反应堆则是一种经济上的浪费。
-在马斯克最新的太空AI设想中，其计划每年部署100GW的太阳能...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/358055" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1648705?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-4"&gt;
+ &lt;div class="topic-title"&gt;大众 ID.Polo 暂无入华计划，起售超 20 万元，没勇气面对国产车？&lt;/div&gt;
+ &lt;div class="topic-content"&gt;小车市场是中国车市的一道附加题。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1648658?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-12-16-f538cc30</guid>
-      <pubDate>Tue, 16 Dec 2025 12:29:42 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-12-17-334790be</guid>
+      <pubDate>Wed, 17 Dec 2025 12:27:00 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

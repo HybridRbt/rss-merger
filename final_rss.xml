@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-12-17</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-12-18</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 17 Dec 2025 12:27:00 +0800</lastBuildDate>
-    <pubDate>Wed, 17 Dec 2025 12:27:00 +0800</pubDate>
+    <lastBuildDate>Thu, 18 Dec 2025 12:28:02 +0800</lastBuildDate>
+    <pubDate>Thu, 18 Dec 2025 12:28:02 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-12-17</title>
+      <title>每日科技新闻聚合 - 2025-12-18</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-12-17&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-12-18&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,38 +37,41 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-12-17&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年12月17日 12:27:00 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-12-18&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年12月18日 12:28:02 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;追赶谷歌，OpenAI 推出全新旗舰生图模型；折叠屏 iPhone 设计细节曝光；余承东接任华为终端... (3篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;有了 Steam Machine，Steam Phone 还会远吗？｜硬哲学&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;早报｜苹果数十款新品遭泄密，折叠屏 iPhone 也在内/媲美 DeepSeek，小米新模型发布/O...&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-4"&gt;大众 ID.Polo 暂无入华计划，起售超 20 万元，没勇气面对国产车？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜曝iPhone 18 Pro将采用打孔屏/前OpenAI大神姚顺雨入职腾讯/又快又便宜，Gem... (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;2025年度词「Slop」：如果屏幕里装的是泔水，那我们算什么？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;OpenAI 已讨论以约 7500 亿美元的估值筹集数百亿美元资金；消息称 SpaceX 要求员工进...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;追赶谷歌，OpenAI 推出全新旗舰生图模型；折叠屏 iPhone 设计细节曝光；余承东接任华为终端有限公司董事长｜极客早知道&lt;/div&gt;
- &lt;div class="topic-content"&gt;
-&amp;amp;nbsp;
-已免费开放：OpenAI 最强 AI 生图模型登场，奥尔特曼变身性感消防员
-12 月 17 日消息，OpenAI 昨日（12 月 16 日）发布博文，推出「全新旗舰 ChatGPT 图像生成模型」GPT Image 1.5，并罕见公开了该项目背后的庞大研发团队名单，并同步在 ChatGPT 中推出了专用的「Images」（图像）标签页。
+ &lt;div class="topic-title"&gt;早报｜曝iPhone 18 Pro将采用打孔屏/前OpenAI大神姚顺雨入职腾讯/又快又便宜，Gemini 3 Flash发布&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 特斯拉成美国市值第七大公司
+· 比亚迪推进 L3 量产内测
+· 荣耀 WIN 系列外观公布#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
 
-&amp;amp;nbsp;
-此次更新被视为 ChatGP...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了3篇相关文章)&lt;/div&gt;
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1648620?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1648706?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/358098" target="_blank"&gt;阅读原文 3&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1648893?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1648878?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
  &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;有了 Steam Machine，Steam Phone 还会远吗？｜硬哲学&lt;/div&gt;
- &lt;div class="topic-content"&gt;我要在手机上玩 GTA6！#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+ &lt;div class="topic-title"&gt;2025年度词「Slop」：如果屏幕里装的是泔水，那我们算什么？&lt;/div&gt;
+ &lt;div class="topic-content"&gt;到了 2025 年，人类终于对满屏的生成式内容失去了一切好奇#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -80,50 +83,25 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1648727?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1648756?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;早报｜苹果数十款新品遭泄密，折叠屏 iPhone 也在内/媲美 DeepSeek，小米新模型发布/OpenAI 版 Nano Banana 来袭&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 余承东接任华为终端董事长，执掌手机、汽车、AI 三大核心业务
-· 「30 万级」玛莎拉蒂被一抢而空，销售直言不建议买
-· 小鹏获广州 L3 路测牌照，2026 年将量产 L4 级方案#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博
-
-
-
-
-&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-title"&gt;OpenAI 已讨论以约 7500 亿美元的估值筹集数百亿美元资金；消息称 SpaceX 要求员工进入 IPO 前的「静默期」；《阿凡达 3》媒体口碑解禁：烂番茄新鲜度 68%，M 站开分 64｜极客早知道&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+OpenAI 已讨论以约 7500 亿美元的估值筹集数百亿美元资金
+12 月 18 日，据&amp;amp;nbsp;The Information&amp;amp;nbsp;独家报道，据三位知情人士透露，OpenAI 已与部分投资者展开初步洽谈，计划以约 7500 亿美元的估值进行新一轮融资。
+其中两位人士称，此次融资规模或达数百亿美元，最高甚至有望达到 1000 亿美元。目前相关磋商尚处早期阶段，尚未敲定任何事项。这一估值...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1648705?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;大众 ID.Polo 暂无入华计划，起售超 20 万元，没勇气面对国产车？&lt;/div&gt;
- &lt;div class="topic-content"&gt;小车市场是中国车市的一道附加题。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博
-
-
-
-
-&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1648658?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/358151" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-12-17-334790be</guid>
-      <pubDate>Wed, 17 Dec 2025 12:27:00 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-12-18-455deaeb</guid>
+      <pubDate>Thu, 18 Dec 2025 12:28:02 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

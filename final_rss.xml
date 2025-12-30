@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-12-29</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-12-30</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 29 Dec 2025 12:42:33 +0800</lastBuildDate>
-    <pubDate>Mon, 29 Dec 2025 12:42:33 +0800</pubDate>
+    <lastBuildDate>Tue, 30 Dec 2025 12:32:32 +0800</lastBuildDate>
+    <pubDate>Tue, 30 Dec 2025 12:32:32 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-12-29</title>
+      <title>每日科技新闻聚合 - 2025-12-30</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-12-29&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-12-30&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,19 +37,19 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-12-29&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年12月29日 12:42:33 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-12-30&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年12月30日 12:32:32 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;万物皆可 AI 的 2025，生活更需要「有人在」&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜财政部明确！「国补」明年继续实施/马斯克评价宇树机器人「下黑脚」/追觅四门超跑1月见&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;鸿蒙走向「好用」的背后：是 1000 万开发者愿意多走一步&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜Meta收购Manus，肖弘出任Meta副总裁/微信回应安装包11年膨胀500倍：不会无限增长...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
  &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;万物皆可 AI 的 2025，生活更需要「有人在」&lt;/div&gt;
- &lt;div class="topic-content"&gt;有些时刻没写在年度榜单，但值得特别鸣谢#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+ &lt;div class="topic-title"&gt;鸿蒙走向「好用」的背后：是 1000 万开发者愿意多走一步&lt;/div&gt;
+ &lt;div class="topic-content"&gt;2025 年，鸿蒙让更多开发者吃上螃蟹。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -61,14 +61,14 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1650027?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1650242?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;早报｜财政部明确！「国补」明年继续实施/马斯克评价宇树机器人「下黑脚」/追觅四门超跑1月见&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 曾打造《梦幻游戏》等 IP，网易游戏元老宣布退休
-· 零跑首款 MPV 车型亮相
-· 深蓝汽车董事长：L2 到 L3 是责任主体的巨大跨越#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+ &lt;div class="topic-title"&gt;早报｜Meta收购Manus，肖弘出任Meta副总裁/微信回应安装包11年膨胀500倍：不会无限增长/宇树首家线下店即将开业&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 上汽通用五菱首款「满血华为」车型登陆华为乾崑 App
+· 摄影大赛一等奖作品被指 AI 生成，主办方：正在核查
+· 机构：DRAM 缺货加剧，价格在明年也不会下降#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -80,14 +80,14 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1650059?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1650221?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-12-29-946f28a1</guid>
-      <pubDate>Mon, 29 Dec 2025 12:42:33 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-12-30-9d549638</guid>
+      <pubDate>Tue, 30 Dec 2025 12:32:32 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

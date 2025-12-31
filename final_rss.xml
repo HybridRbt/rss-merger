@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-12-30</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2025-12-31</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 30 Dec 2025 12:32:32 +0800</lastBuildDate>
-    <pubDate>Tue, 30 Dec 2025 12:32:32 +0800</pubDate>
+    <lastBuildDate>Wed, 31 Dec 2025 12:32:46 +0800</lastBuildDate>
+    <pubDate>Wed, 31 Dec 2025 12:32:46 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2025-12-30</title>
+      <title>每日科技新闻聚合 - 2025-12-31</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2025-12-30&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2025-12-31&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,19 +37,40 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2025-12-30&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年12月30日 12:32:32 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2025-12-31&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2025年12月31日 12:32:46 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;鸿蒙走向「好用」的背后：是 1000 万开发者愿意多走一步&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜Meta收购Manus，肖弘出任Meta副总裁/微信回应安装包11年膨胀500倍：不会无限增长...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜2026年「国补」政策出炉，智能眼镜首次加入/小米回应17 Ultra变焦环松动：正常现象/何... (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;Gemini 确诊重度焦虑：为了让 AI 像人，我们把它逼疯了&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
+ &lt;div class="topic" id="topic-1"&gt;
+ &lt;div class="topic-title"&gt;早报｜2026年「国补」政策出炉，智能眼镜首次加入/小米回应17 Ultra变焦环松动：正常现象/何小鹏：L4无人驾驶近在眼前&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· M6 MacBook Pro 或支持蜂窝网络和触控操作
+· 台积电悄然量产 2 nm，全球晶圆代工进入「N2 时间」
+· 三星三折叠或亏本卖，定价高达 1.7 万元仍难覆盖成本#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1650386?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1650392?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;鸿蒙走向「好用」的背后：是 1000 万开发者愿意多走一步&lt;/div&gt;
- &lt;div class="topic-content"&gt;2025 年，鸿蒙让更多开发者吃上螃蟹。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+ &lt;div class="topic" id="topic-2"&gt;
+ &lt;div class="topic-title"&gt;Gemini 确诊重度焦虑：为了让 AI 像人，我们把它逼疯了&lt;/div&gt;
+ &lt;div class="topic-content"&gt;警惕那些不劳而获的智慧#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -61,33 +82,14 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1650242?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;早报｜Meta收购Manus，肖弘出任Meta副总裁/微信回应安装包11年膨胀500倍：不会无限增长/宇树首家线下店即将开业&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 上汽通用五菱首款「满血华为」车型登陆华为乾崑 App
-· 摄影大赛一等奖作品被指 AI 生成，主办方：正在核查
-· 机构：DRAM 缺货加剧，价格在明年也不会下降#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博
-
-
-
-
-&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1650221?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1647714?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2025-12-30-9d549638</guid>
-      <pubDate>Tue, 30 Dec 2025 12:32:32 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2025-12-31-d96ed5a7</guid>
+      <pubDate>Wed, 31 Dec 2025 12:32:46 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-01-05</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-01-06</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 05 Jan 2026 12:51:12 +0800</lastBuildDate>
-    <pubDate>Mon, 05 Jan 2026 12:51:12 +0800</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2026 12:33:34 +0800</lastBuildDate>
+    <pubDate>Tue, 06 Jan 2026 12:33:34 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-01-05</title>
+      <title>每日科技新闻聚合 - 2026-01-06</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-01-05&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-01-06&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,40 +37,19 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-01-05&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年01月05日 12:51:12 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-01-06&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年01月06日 12:33:34 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;2 亿人民币、117 辆车，奔驰在冰天雪地里整了个大活儿 (2篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜苹果回应国行AI灰度测试：未正式上线/Grok低俗内容生成引争议/罗马仕启动「重生计划」，目标...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;英伟达罕见不发显卡，刚刚黄仁勋带着2.5吨新「核弹」炸场，DeepSeek又被点名&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜雷军回应YU7「丢轮保车」：奔驰早就在用/周冠宇加盟凯迪拉克F1车队/格力：不涨价、不跟进「铝...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
- &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;2 亿人民币、117 辆车，奔驰在冰天雪地里整了个大活儿&lt;/div&gt;
- &lt;div class="topic-content"&gt;绅士服务绅士。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博
-
-
-
-
-&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1650565?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1650675?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;早报｜苹果回应国行AI灰度测试：未正式上线/Grok低俗内容生成引争议/罗马仕启动「重生计划」，目标一季度完成重组&lt;/div&gt;
- &lt;div class="topic-content"&gt;· Grok 新功能争议不断：马斯克「带头」穿比基尼，未成年人照片遭恶意修改
-· 回旋踢碎西瓜、踹飞 60 公斤沙包：宇树 H2 机器人训练视频曝光
-· 消息称博通获 210 亿美元大单，Anthropic 直接采购近百万颗 TPU v7#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;英伟达罕见不发显卡，刚刚黄仁勋带着2.5吨新「核弹」炸场，DeepSeek又被点名&lt;/div&gt;
+ &lt;div class="topic-content"&gt;AI 时代，英伟达不再是一家芯片公司#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -82,14 +61,33 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1650686?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1650803?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-4"&gt;
+ &lt;div class="topic-title"&gt;早报｜雷军回应YU7「丢轮保车」：奔驰早就在用/周冠宇加盟凯迪拉克F1车队/格力：不涨价、不跟进「铝代铜」&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 蚂蚁、美团入局 AI 硬件， Looki 完成超 2000 万美元 A 轮融资
+· 胖东来就「茶叶有苍蝇」致歉：客服处理失当，商品已下架复核
+· 曝小红书内测长文付费功能，进军付费网文市场#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1650800?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-01-05-d327a0e3</guid>
-      <pubDate>Mon, 05 Jan 2026 12:51:12 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-01-06-7e494bdc</guid>
+      <pubDate>Tue, 06 Jan 2026 12:33:34 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

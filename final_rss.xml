@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-01-06</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-01-07</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 06 Jan 2026 12:33:34 +0800</lastBuildDate>
-    <pubDate>Tue, 06 Jan 2026 12:33:34 +0800</pubDate>
+    <lastBuildDate>Wed, 07 Jan 2026 12:33:53 +0800</lastBuildDate>
+    <pubDate>Wed, 07 Jan 2026 12:33:53 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-01-06</title>
+      <title>每日科技新闻聚合 - 2026-01-07</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-01-06&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-01-07&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,38 +37,20 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-01-06&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年01月06日 12:33:34 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-01-07&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年01月07日 12:33:53 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;英伟达罕见不发显卡，刚刚黄仁勋带着2.5吨新「核弹」炸场，DeepSeek又被点名&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜雷军回应YU7「丢轮保车」：奔驰早就在用/周冠宇加盟凯迪拉克F1车队/格力：不涨价、不跟进「铝...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;22.99 万元起！新一代小米 SU7 开启预售，「安全」性能重点加强&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;被 ADHD 困扰的不止罗永浩，我想分享几个能帮上忙的 AI 工具&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;早报｜新一代小米SU7官宣/英特尔发布首款1.8nm芯片/霸王茶姬回应「印度制茶」视频：相关店员已被...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;英伟达罕见不发显卡，刚刚黄仁勋带着2.5吨新「核弹」炸场，DeepSeek又被点名&lt;/div&gt;
- &lt;div class="topic-content"&gt;AI 时代，英伟达不再是一家芯片公司#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博
-
-
-
-
-&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1650803?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
  &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;早报｜雷军回应YU7「丢轮保车」：奔驰早就在用/周冠宇加盟凯迪拉克F1车队/格力：不涨价、不跟进「铝代铜」&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 蚂蚁、美团入局 AI 硬件， Looki 完成超 2000 万美元 A 轮融资
-· 胖东来就「茶叶有苍蝇」致歉：客服处理失当，商品已下架复核
-· 曝小红书内测长文付费功能，进军付费网文市场#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+ &lt;div class="topic-title"&gt;22.99 万元起！新一代小米 SU7 开启预售，「安全」性能重点加强&lt;/div&gt;
+ &lt;div class="topic-content"&gt;新一代 SU7 仍然是一台出色的驾驶者之车。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -80,14 +62,50 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1650800?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1651010?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-5"&gt;
+ &lt;div class="topic-title"&gt;被 ADHD 困扰的不止罗永浩，我想分享几个能帮上忙的 AI 工具&lt;/div&gt;
+ &lt;div class="topic-content"&gt;生活不必总是一板一眼的直线行驶，哪怕是蛇形走位，只要你在前进，那就是属于你的胜利。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1650902?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-6"&gt;
+ &lt;div class="topic-title"&gt;早报｜新一代小米SU7官宣/英特尔发布首款1.8nm芯片/霸王茶姬回应「印度制茶」视频：相关店员已被辞退&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 英伟达计划于今年一季度重启 RTX 3060 生产
+· MiniMax 港股 IPO 超额认购 1209 倍，将于 1 月 9 日正式上市
+· 郑州中原保时捷「跑路」后续：门店已确认停业、被移出经销网络#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1650986?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-01-06-7e494bdc</guid>
-      <pubDate>Tue, 06 Jan 2026 12:33:34 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-01-07-6c6e321e</guid>
+      <pubDate>Wed, 07 Jan 2026 12:33:53 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

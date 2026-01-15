@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-01-14</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-01-15</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 14 Jan 2026 12:40:47 +0800</lastBuildDate>
-    <pubDate>Wed, 14 Jan 2026 12:40:47 +0800</pubDate>
+    <lastBuildDate>Thu, 15 Jan 2026 12:33:53 +0800</lastBuildDate>
+    <pubDate>Thu, 15 Jan 2026 12:33:53 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-01-14</title>
+      <title>每日科技新闻聚合 - 2026-01-15</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-01-14&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-01-15&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,20 +37,19 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-01-14&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年01月14日 12:40:47 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-01-15&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年01月15日 12:33:53 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜苹果推出创作「全家桶」，最低6元每月/Meta元宇宙部门计划裁员数百人/微信员工回应通知头像讨...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;实测国行 iPhone 绑 VISA 卡，首批支持这 8 家银行，还有更多在路上｜附绑卡指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜小米潘九堂：没有哪家成功的企业不大量模仿别人/携程因涉嫌垄断被立案调查/国区苹果钱包今天起支持...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
- &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;早报｜苹果推出创作「全家桶」，最低6元每月/Meta元宇宙部门计划裁员数百人/微信员工回应通知头像讨论：安卓一直都有、iOS正在灰测&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 苹果公布 2025 年服务成绩单：App Store 周活跃用户突破 8.5 亿
-· DeepSeek 母公司幻方量化去年收益 56.6%，助力新模型研发
-· 印度拟要求手机厂商交出系统源代码，苹果等巨头强烈反对#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;实测国行 iPhone 绑 VISA 卡，首批支持这 8 家银行，还有更多在路上｜附绑卡指南&lt;/div&gt;
+ &lt;div class="topic-content"&gt;十年之期已到！#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -62,14 +61,33 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1651706?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1651823?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-4"&gt;
+ &lt;div class="topic-title"&gt;早报｜小米潘九堂：没有哪家成功的企业不大量模仿别人/携程因涉嫌垄断被立案调查/国区苹果钱包今天起支持Visa卡&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 具身智能公司「组团」上春晚，总赞助金额或达 5 亿元
+· 「打工人版 Claude Code」几乎由 AI 全自动开发，10 天内完成首个版本
+· 问界 46 个月达成百万辆下线，刷新新势力最快纪录#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1651775?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-01-14-0e200df0</guid>
-      <pubDate>Wed, 14 Jan 2026 12:40:47 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-01-15-2fe8165e</guid>
+      <pubDate>Thu, 15 Jan 2026 12:33:53 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

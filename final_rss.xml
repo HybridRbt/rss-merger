@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-01-20</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-01-21</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 20 Jan 2026 12:38:19 +0800</lastBuildDate>
-    <pubDate>Tue, 20 Jan 2026 12:38:19 +0800</pubDate>
+    <lastBuildDate>Wed, 21 Jan 2026 12:37:51 +0800</lastBuildDate>
+    <pubDate>Wed, 21 Jan 2026 12:37:51 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-01-20</title>
+      <title>每日科技新闻聚合 - 2026-01-21</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-01-20&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-01-21&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,20 +37,19 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-01-20&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年01月20日 12:38:19 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-01-21&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年01月21日 12:37:51 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜寒武纪登顶中国AI企业50强/销量连续四年下滑，保时捷中国总裁回应/4999元起，荣耀Magi... (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;关于我被AI硬件夺舍成为赛博改造人趁着大模型订阅到期逃跑却因无法使用微信乘车码导致迷路被抓这回事&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜华为重返中国智能手机出货榜首/SK海力士发人均64万绩效奖/追觅手机外观图曝光，「翡翠战甲」后...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
- &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;早报｜寒武纪登顶中国AI企业50强/销量连续四年下滑，保时捷中国总裁回应/4999元起，荣耀Magic8 Pro Air正式发布&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 逐际动力 LimX Oli 实现全尺寸人形机器人群体自主出舱
-· Chrome 浏览器新增支持垂直标签页功能
-· Anthropic 拟融资 250 亿美元，红杉资本首次入局#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;关于我被AI硬件夺舍成为赛博改造人趁着大模型订阅到期逃跑却因无法使用微信乘车码导致迷路被抓这回事&lt;/div&gt;
+ &lt;div class="topic-content"&gt;穿 AI 内裤，当能工智人#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -60,17 +59,35 @@ h2 { color: #007acc; margin-top: 30px; }
 
 
 &lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1651778?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1652342?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1652530?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-4"&gt;
+ &lt;div class="topic-title"&gt;早报｜华为重返中国智能手机出货榜首/SK海力士发人均64万绩效奖/追觅手机外观图曝光，「翡翠战甲」后盖引讨论&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 平价 MacBook 将至：售价或低至 3000 元
+· 百度文心助手月活破 2 亿，与豆包、千问并列亿级阵营
+· 今日宜休获数千万元融资，王腾发文感谢投资人#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1652527?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-01-20-e20bca9b</guid>
-      <pubDate>Tue, 20 Jan 2026 12:38:19 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-01-21-b4a8c096</guid>
+      <pubDate>Wed, 21 Jan 2026 12:37:51 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

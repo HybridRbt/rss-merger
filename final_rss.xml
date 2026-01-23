@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-01-22</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-01-23</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 22 Jan 2026 12:41:53 +0800</lastBuildDate>
-    <pubDate>Thu, 22 Jan 2026 12:41:53 +0800</pubDate>
+    <lastBuildDate>Fri, 23 Jan 2026 12:36:16 +0800</lastBuildDate>
+    <pubDate>Fri, 23 Jan 2026 12:36:16 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-01-22</title>
+      <title>每日科技新闻聚合 - 2026-01-23</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-01-22&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-01-23&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,19 +37,20 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-01-22&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年01月22日 12:41:53 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-01-23&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年01月23日 12:36:16 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;苹果下个爆款可能不是 iPhone，居然「复活」全网群嘲的 Ai Pin，首批 2000 万台&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜曝iPhone 18 Pro仍采用居中灵动岛/马斯克、奥特曼隔空互怼/微信迎来15周年，官方晒...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜苹果官宣马年优惠，最高省1000元/宇树澄清：去年人形机器人出货量超5500台/曝vivo叫停... (2篇文章)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;苹果下个爆款可能不是 iPhone，居然「复活」全网群嘲的 Ai Pin，首批 2000 万台&lt;/div&gt;
- &lt;div class="topic-content"&gt;当「失败产品」成为灵感来源#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
+ &lt;div class="topic" id="topic-1"&gt;
+ &lt;div class="topic-title"&gt;早报｜苹果官宣马年优惠，最高省1000元/宇树澄清：去年人形机器人出货量超5500台/曝vivo叫停AI眼镜项目&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 曝 OpenAI 悄然推进机器人项目：百人团队昼夜采集训练数据
+· 曝 vivo 叫停 AI 眼镜项目
+· 王小川回应张文宏：医生成长不能以患者为成本#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -59,35 +60,17 @@ h2 { color: #007acc; margin-top: 30px; }
 
 
 &lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1652629?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;早报｜曝iPhone 18 Pro仍采用居中灵动岛/马斯克、奥特曼隔空互怼/微信迎来15周年，官方晒1.0版本&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 马斯克喊话「不要让亲人用 ChatGPT」，奥特曼回应：超过 50 人死于 Autopilot
-· 拼多多被罚 10 万元
-· 可灵 AI 月活破 1200 万，去年收入达 1.4 亿美元#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博
-
-
-
-
-&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1652625?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1652776?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1652767?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-01-22-8e0845f4</guid>
-      <pubDate>Thu, 22 Jan 2026 12:41:53 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-01-23-408a5f84</guid>
+      <pubDate>Fri, 23 Jan 2026 12:36:16 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

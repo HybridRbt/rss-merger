@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-01-27</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-01-28</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 27 Jan 2026 12:40:43 +0800</lastBuildDate>
-    <pubDate>Tue, 27 Jan 2026 12:40:43 +0800</pubDate>
+    <lastBuildDate>Wed, 28 Jan 2026 12:38:10 +0800</lastBuildDate>
+    <pubDate>Wed, 28 Jan 2026 12:38:10 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-01-27</title>
+      <title>每日科技新闻聚合 - 2026-01-28</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-01-27&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-01-28&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,40 +37,21 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-01-27&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年01月27日 12:40:43 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-01-28&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年01月28日 12:38:10 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜马化腾内部讲话：微信AI全家桶未必大家都喜欢/李想开会近两小时只谈AI：一定会做机器人/肯德基... (2篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;这份 2025 年度回忆，属于你和 AI 小电拼&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;奥特曼亲口承认 GPT-5.2 搞砸了，这是 OpenAI CEO 最特别的一次直播&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;直降 2000 块！iPhone Air 买不买？这里有一份价值 5499 的选购指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;送你一份 2026 iPhone 保养指南，不怕「星宇橙」变「芭比粉」｜附教程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-4"&gt;早报｜OpenAI推出科研写作工具Prism/Kimi推出最强开源Agent模型/AI承诺内容有误赔...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
- &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;早报｜马化腾内部讲话：微信AI全家桶未必大家都喜欢/李想开会近两小时只谈AI：一定会做机器人/肯德基回应涨价：仍具性价比&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 微软确认 Windows 11 补丁导致无法开机，需手动恢复系统
-· 前西班牙国家队主帅因迷信 ChatGPT 被解雇：训练与引援全靠 AI
-· 宇树科技官宣确认成为今年春晚机器人合作伙伴#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博
-
-
-
-
-&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1652980?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1653065?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;这份 2025 年度回忆，属于你和 AI 小电拼&lt;/div&gt;
- &lt;div class="topic-content"&gt;AI 小电拼只是第一步。SDC 框架的真正完成，来自每一个用户对设备的掌控与参与。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+ &lt;div class="topic" id="topic-5"&gt;
+ &lt;div class="topic-title"&gt;奥特曼亲口承认 GPT-5.2 搞砸了，这是 OpenAI CEO 最特别的一次直播&lt;/div&gt;
+ &lt;div class="topic-content"&gt;ChatGPT 掉队是不争的事实了吗？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -82,14 +63,67 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1653090?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1653116?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-6"&gt;
+ &lt;div class="topic-title"&gt;直降 2000 块！iPhone Air 买不买？这里有一份价值 5499 的选购指南&lt;/div&gt;
+ &lt;div class="topic-content"&gt;To Air or not to Air, that is the question.#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1653071?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-7"&gt;
+ &lt;div class="topic-title"&gt;送你一份 2026 iPhone 保养指南，不怕「星宇橙」变「芭比粉」｜附教程&lt;/div&gt;
+ &lt;div class="topic-content"&gt;新三年，旧三年，擦擦洗洗又三年。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1653242?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-8"&gt;
+ &lt;div class="topic-title"&gt;早报｜OpenAI推出科研写作工具Prism/Kimi推出最强开源Agent模型/AI承诺内容有误赔10万，首例AI幻觉案宣判&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 美光计划投资 240 亿美元扩建新加坡 NAND 产能
+· Clawdbot 提示词注入风险引关注：一封邮件可远程清空收件箱
+· 曝大疆 Osmo Pocket 4 本周亮相，售价约 3500 元#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1653238?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-01-27-406a9e79</guid>
-      <pubDate>Tue, 27 Jan 2026 12:40:43 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-01-28-cf278460</guid>
+      <pubDate>Wed, 28 Jan 2026 12:38:10 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

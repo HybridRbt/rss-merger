@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-02-12</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-02-13</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 12 Feb 2026 13:21:33 +0800</lastBuildDate>
-    <pubDate>Thu, 12 Feb 2026 13:21:33 +0800</pubDate>
+    <lastBuildDate>Fri, 13 Feb 2026 13:17:40 +0800</lastBuildDate>
+    <pubDate>Fri, 13 Feb 2026 13:17:40 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-02-12</title>
+      <title>每日科技新闻聚合 - 2026-02-13</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-02-12&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-02-13&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,20 +37,21 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-02-12&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年02月12日 13:21:33 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-02-13&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年02月13日 13:17:40 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜DeepSeek悄悄更新，春节模型大战开启/三星S26月底见，或首发2nm处理器/车用固态电池... (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜影石CEO回应年会送房送车/12306新增「低人一等座」提醒/OpenAI发布新模型，用英伟达...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;早报｜DeepSeek悄悄更新，春节模型大战开启/三星S26月底见，或首发2nm处理器/车用固态电池国标要来了&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 苹果 AI Siri 再延期：能力大削，或 9 月见
-· 豆包、蚂蚁阿福加入春节红包大战
-· 马斯克：要在月球建厂生产 AI 卫星#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+ &lt;div class="topic-title"&gt;早报｜影石CEO回应年会送房送车/12306新增「低人一等座」提醒/OpenAI发布新模型，用英伟达对手芯片&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 市监局：反对厂商「内卷」、亏本卖车
+· 荣耀前 CEO 赵明加入千里科技
+· 小米开源首代机器人 VLA 大模型
+·#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -60,17 +61,16 @@ h2 { color: #007acc; margin-top: 30px; }
 
 
 &lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1655021?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1655016?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1655183?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-02-12-cef63e90</guid>
-      <pubDate>Thu, 12 Feb 2026 13:21:33 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-02-13-cf515801</guid>
+      <pubDate>Fri, 13 Feb 2026 13:17:40 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

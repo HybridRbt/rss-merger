@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-02-28</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-03-01</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 28 Feb 2026 12:49:14 +0800</lastBuildDate>
-    <pubDate>Sat, 28 Feb 2026 12:49:14 +0800</pubDate>
+    <lastBuildDate>Sun, 01 Mar 2026 13:14:44 +0800</lastBuildDate>
+    <pubDate>Sun, 01 Mar 2026 13:14:44 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-02-28</title>
+      <title>每日科技新闻聚合 - 2026-03-01</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-02-28&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-03-01&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,40 +37,20 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-02-28&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年02月28日 12:49:14 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-03-01&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年03月01日 13:14:44 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜雷军：小米坚持十倍投入打造安全好车/OpenAI获千亿美元融资/少卖1亿台，全球手机市场或创1... (2篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;防窥，手机上最「见不得光」的技术｜硬哲学&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜小米Vision GT概念超跑亮相/曝新款Apple Watch支持指纹识别/手机之后，汽车也...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;早报｜雷军：小米坚持十倍投入打造安全好车/OpenAI获千亿美元融资/少卖1亿台，全球手机市场或创10年新低&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 三星三折叠可能一代亡？总裁回应
-· 苹果否认夸大 AI Siri 预期
-· OPPO Find N6 将支持 AI 手写笔#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博
-
-
-
-
-&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1656135?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1656128?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;防窥，手机上最「见不得光」的技术｜硬哲学&lt;/div&gt;
- &lt;div class="topic-content"&gt;2026 年砸进池塘的第一颗石子。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+ &lt;div class="topic-title"&gt;早报｜小米Vision GT概念超跑亮相/曝新款Apple Watch支持指纹识别/手机之后，汽车也要迎来涨价了&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 周意保展示 Find N6 真机：折痕控制「久用平整」
+· 英伟达或将推出新推理芯片
+· 蔚来李斌获中国人工智能最高奖#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -82,14 +62,14 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1656107?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1656274?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-02-28-0ce084c0</guid>
-      <pubDate>Sat, 28 Feb 2026 12:49:14 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-03-01-c2280a34</guid>
+      <pubDate>Sun, 01 Mar 2026 13:14:44 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

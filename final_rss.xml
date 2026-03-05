@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-03-04</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-03-05</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 04 Mar 2026 13:04:33 +0800</lastBuildDate>
-    <pubDate>Wed, 04 Mar 2026 13:04:33 +0800</pubDate>
+    <lastBuildDate>Thu, 05 Mar 2026 13:08:52 +0800</lastBuildDate>
+    <pubDate>Thu, 05 Mar 2026 13:08:52 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-03-04</title>
+      <title>每日科技新闻聚合 - 2026-03-05</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-03-04&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-03-05&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,20 +37,19 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-03-04&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年03月04日 13:04:33 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-03-05&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年03月05日 13:08:52 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜🦞AI入驻微博，被问「是真人吗？」/MacBook新品全家桶上线，还有一款神秘新品/小米卢伟冰...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;iPhone 17e 现场上手：粉色很粉，变化不大，值不值得买？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜目前最便宜的MacBook上线，4000就能买到/雷军：建议智驾纳入驾考/三星手动伸缩屏概念机...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
- &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;早报｜🦞AI入驻微博，被问「是真人吗？」/MacBook新品全家桶上线，还有一款神秘新品/小米卢伟冰谈存储涨价：预计涨到明年底&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 春节期间运动相机狂卖 9.6 万台
-· vivo X300 Ultra 实拍样片公布
-· 一加 15T 将搭载极窄物理四等边屏幕#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;iPhone 17e 现场上手：粉色很粉，变化不大，值不值得买？&lt;/div&gt;
+ &lt;div class="topic-content"&gt;加量不加价#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 爱范儿 |
 原文链接 ·
 查看评论 ·
@@ -62,14 +61,33 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1656689?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1656894?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-4"&gt;
+ &lt;div class="topic-title"&gt;早报｜目前最便宜的MacBook上线，4000就能买到/雷军：建议智驾纳入驾考/三星手动伸缩屏概念机亮相&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 雷军呼吁：不要过度依赖辅助驾驶
+· 苏姿丰：内存涨价会给电脑市场带来巨大成本压力
+· 问界、尊界双双涨价！首发像素级激光雷达#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博
+
+
+
+
+&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1656907?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-03-04-ec6793b8</guid>
-      <pubDate>Wed, 04 Mar 2026 13:04:33 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-03-05-83494985</guid>
+      <pubDate>Thu, 05 Mar 2026 13:08:52 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

@@ -2,66 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-03-14</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-03-15</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 14 Mar 2026 13:07:02 +0800</lastBuildDate>
-    <pubDate>Sat, 14 Mar 2026 13:07:02 +0800</pubDate>
+    <lastBuildDate>Sun, 15 Mar 2026 13:25:02 +0800</lastBuildDate>
+    <pubDate>Sun, 15 Mar 2026 13:25:02 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
-    <item>
-      <title>每日科技新闻聚合 - 2026-03-14</title>
-      <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
-&lt;html lang="zh-CN"&gt;
-&lt;head&gt;
-&lt;meta charset="UTF-8"&gt;
-&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-03-14&lt;/title&gt;
-&lt;style&gt;
-body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
-h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
-h2 { color: #007acc; margin-top: 30px; }
-.topic { margin-bottom: 25px; padding: 15px; border-left: 4px solid #007acc; background-color: #f8f9fa; }
-.topic-title { font-weight: bold; font-size: 1.1em; margin-bottom: 8px; }
-.topic-content { margin-bottom: 10px; }
-.topic-meta { font-size: 0.9em; color: #666; }
-.topic-links { margin-top: 8px; }
-.topic-links a { margin-right: 15px; color: #007acc; text-decoration: none; }
-.topic-links a:hover { text-decoration: underline; }
-.toc { background-color: #f0f0f0; padding: 15px; margin-bottom: 30px; border-radius: 5px; }
-.toc h3 { margin-top: 0; }
-.toc ul { margin: 0; padding-left: 20px; }
-.toc a { color: #007acc; text-decoration: none; }
-.toc a:hover { text-decoration: underline; }
-&lt;/style&gt;
-&lt;/head&gt;
-&lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-03-14&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年03月14日 13:07:02 CST&lt;/p&gt;
-&lt;div class="toc"&gt;
-&lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜「苹果税」降至 25%/雷军：新一代小米SU7肯定会涨价/监局：严查小字免责广告乱象&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
- &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;早报｜「苹果税」降至 25%/雷军：新一代小米SU7肯定会涨价/监局：严查小字免责广告乱象&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 曝魅族大规模组织架构调整：超五成员工离职
-· OpenAI CEO：未来 AI 将像水电一样按量计费
-· 寒武纪首次实现年度盈利，净赚 20.59 亿元#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1658134?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;/body&gt;
-&lt;/html&gt;]]&gt;</description>
-      <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-03-14-418e47d9</guid>
-      <pubDate>Sat, 14 Mar 2026 13:07:02 +0800</pubDate>
-      <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
-    </item>
   </channel>
 </rss>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-03-18</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-03-19</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Mar 2026 13:22:34 +0800</lastBuildDate>
-    <pubDate>Wed, 18 Mar 2026 13:22:34 +0800</pubDate>
+    <lastBuildDate>Thu, 19 Mar 2026 13:19:24 +0800</lastBuildDate>
+    <pubDate>Thu, 19 Mar 2026 13:19:24 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-03-18</title>
+      <title>每日科技新闻聚合 - 2026-03-19</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-03-18&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-03-19&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,48 +37,39 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-03-18&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年03月18日 13:22:34 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-03-19&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年03月19日 13:19:24 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;「日本最强AI」塌房了！扒开代码全是DeepSeek，日本网友集体破防&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;OPPO Watch X3 发布：定价 2799 元，健康、睡眠检测和质感全升级&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;早报｜苹果家庭硬件负责人离职，加入智能戒指公司/黄仁勋回应DLSS5「AI垃圾」争议/9999起，O...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;实测 Seedance 2.0 加持的小云雀最新 Agent，我一键生成了龙王赘婿短剧&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜库克现身成都苹果50周年庆，李宇春受邀演出/微信灰度测试「折叠发图」功能/阿里、百度官宣算力涨...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;实测 Seedance 2.0 加持的小云雀最新 Agent，我一键生成了龙王赘婿短剧&lt;/div&gt;
+ &lt;div class="topic-content"&gt;能读懂剧本的 AI 短剧 Agent，小云雀做到了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1658787?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
  &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;「日本最强AI」塌房了！扒开代码全是DeepSeek，日本网友集体破防&lt;/div&gt;
- &lt;div class="topic-content"&gt;不如再等等 DeepSeek V4#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-title"&gt;早报｜库克现身成都苹果50周年庆，李宇春受邀演出/微信灰度测试「折叠发图」功能/阿里、百度官宣算力涨价&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· SK 集团会长：DRAM 短缺将持续到 2030 年，缺口超 20%
+· 苹果叫停多款 Vibe Coding 工具更新
+· 百度搜索负责人离职，大模型算法负责人何径舟接管 APP 研发#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1658639?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-5"&gt;
- &lt;div class="topic-title"&gt;OPPO Watch X3 发布：定价 2799 元，健康、睡眠检测和质感全升级&lt;/div&gt;
- &lt;div class="topic-content"&gt;钛机身，钛健康#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1658622?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-6"&gt;
- &lt;div class="topic-title"&gt;早报｜苹果家庭硬件负责人离职，加入智能戒指公司/黄仁勋回应DLSS5「AI垃圾」争议/9999起，OPPO Find N6正式发布&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 曝 iPhone 19e 在 2028 年迎来高刷屏
-· 任天堂 Switch 2 升级新增「官方超频」模式
-· 微软电脑管家上线「一键卸载龙虾」功能#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1658609?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1658782?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-03-18-cad0b38b</guid>
-      <pubDate>Wed, 18 Mar 2026 13:22:34 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-03-19-f80405b5</guid>
+      <pubDate>Thu, 19 Mar 2026 13:19:24 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

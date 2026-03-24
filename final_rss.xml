@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-03-23</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-03-24</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 23 Mar 2026 13:26:57 +0800</lastBuildDate>
-    <pubDate>Mon, 23 Mar 2026 13:26:57 +0800</pubDate>
+    <lastBuildDate>Tue, 24 Mar 2026 13:19:58 +0800</lastBuildDate>
+    <pubDate>Tue, 24 Mar 2026 13:19:58 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-03-23</title>
+      <title>每日科技新闻聚合 - 2026-03-24</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-03-23&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-03-24&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,30 +37,48 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-03-23&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年03月23日 13:26:57 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-03-24&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年03月24日 13:19:58 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜库克：迫不及待想看中国AI下一步进展/手持智能相机市场迎来大爆发/微信推出官方龙虾插件🦞&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;微信龙虾插件上线72小时，就被OpenClaw一次更新干崩了&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;iPhone 上最好的相机 App，是怎么和苹果决裂的？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;早报｜iOS27定档6月9日、将公布AI最新进展/8499起，华为发布Mate80 Pro Max风...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
- &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;早报｜库克：迫不及待想看中国AI下一步进展/手持智能相机市场迎来大爆发/微信推出官方龙虾插件🦞&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 🦞大湾区首个千人龙虾会 AIDONE 圆满落幕
-· 劳斯莱斯放弃全面电动化
-· 消息称新款 HomePod 仍需等待#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
+ &lt;div class="topic" id="topic-4"&gt;
+ &lt;div class="topic-title"&gt;微信龙虾插件上线72小时，就被OpenClaw一次更新干崩了&lt;/div&gt;
+ &lt;div class="topic-content"&gt;微信没给 OpenClaw 打钱？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1659298?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1659499?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-5"&gt;
+ &lt;div class="topic-title"&gt;iPhone 上最好的相机 App，是怎么和苹果决裂的？&lt;/div&gt;
+ &lt;div class="topic-content"&gt;曾经是 iOS 上最优秀的拍照 app，如今 Halide 再也不想唱苹果的「样板戏」了，反而举起了反苹果的大旗。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1659470?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-6"&gt;
+ &lt;div class="topic-title"&gt;早报｜iOS27定档6月9日、将公布AI最新进展/8499起，华为发布Mate80 Pro Max风驰版/小鹏汽车成立Robotaxi业务部&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 曝扎克伯格正打造 CEO Agent 替自己干活
+· 苹果地图或加搜索广告
+· 三星 Galaxy S26 本周支持 AirDrop#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1659467?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-03-23-c36b7194</guid>
-      <pubDate>Mon, 23 Mar 2026 13:26:57 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-03-24-f1994237</guid>
+      <pubDate>Tue, 24 Mar 2026 13:19:58 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

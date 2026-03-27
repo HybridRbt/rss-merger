@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-03-26</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-03-27</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Mar 2026 13:28:24 +0800</lastBuildDate>
-    <pubDate>Thu, 26 Mar 2026 13:28:24 +0800</pubDate>
+    <lastBuildDate>Fri, 27 Mar 2026 13:29:29 +0800</lastBuildDate>
+    <pubDate>Fri, 27 Mar 2026 13:29:29 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-03-26</title>
+      <title>每日科技新闻聚合 - 2026-03-27</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-03-26&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-03-27&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,39 +37,48 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-03-26&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年03月26日 13:28:24 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-03-27&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年03月27日 13:29:29 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;我们都误解了折叠屏｜明日后视镜&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜曝Siri史上最大更新将亮相WWDC/SpaceX最快本周提交IPO/Epic Games宣布...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;大唐朔北的一场 S 级事故&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;专访 vivo 总裁胡柏山：AI 已经很聪明了，vivo 要让它真正看懂世界&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;早报｜苹果下架「刨丝器」Mac Pro/小米遭老头乐起诉，后者称已和解/微信官方解读「正在输入」背后...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;我们都误解了折叠屏｜明日后视镜&lt;/div&gt;
- &lt;div class="topic-content"&gt;8×1 &amp;gt; 4×2#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1659802?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
  &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;早报｜曝Siri史上最大更新将亮相WWDC/SpaceX最快本周提交IPO/Epic Games宣布裁员逾千人&lt;/div&gt;
- &lt;div class="topic-content"&gt;· MIUI 正式停更，最后两款设备停止支持
-· 快手 2025 年财报：日活破 4 亿，AI 单月收入破 2000 万美元
-· Kimi CEO：AI 研发正进入「AI 主导研究」时代，行业标准「已具备被挑战的条件」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-title"&gt;大唐朔北的一场 S 级事故&lt;/div&gt;
+ &lt;div class="topic-content"&gt;折痕这个千古难题，OPPO Find N6 给「摆平」了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1659798?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1659997?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-5"&gt;
+ &lt;div class="topic-title"&gt;专访 vivo 总裁胡柏山：AI 已经很聪明了，vivo 要让它真正看懂世界&lt;/div&gt;
+ &lt;div class="topic-content"&gt;今后十年的 vivo，会去往什么方向？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1659975?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-6"&gt;
+ &lt;div class="topic-title"&gt;早报｜苹果下架「刨丝器」Mac Pro/小米遭老头乐起诉，后者称已和解/微信官方解读「正在输入」背后原理&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 荣耀高管谈内存涨价：价格高位或持续到 28 年
+· 大疆首款全景无人机发布，2788 元起
+· 零跑 A10 上市，售价 6.58 万元起#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1659953?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-03-26-ab1ff4eb</guid>
-      <pubDate>Thu, 26 Mar 2026 13:28:24 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-03-27-51edc13c</guid>
+      <pubDate>Fri, 27 Mar 2026 13:29:29 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

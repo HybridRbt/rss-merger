@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-04-08</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-04-09</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 08 Apr 2026 13:43:26 +0800</lastBuildDate>
-    <pubDate>Wed, 08 Apr 2026 13:43:26 +0800</pubDate>
+    <lastBuildDate>Thu, 09 Apr 2026 13:45:00 +0800</lastBuildDate>
+    <pubDate>Thu, 09 Apr 2026 13:45:00 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-04-08</title>
+      <title>每日科技新闻聚合 - 2026-04-09</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-04-08&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-04-09&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,66 +37,50 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-04-08&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年04月08日 13:43:26 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-04-09&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年04月09日 13:45:00 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;租电 40 万元起？蔚来 ES9 是李斌刺向高端 SUV 市场的「利刃」&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;不到 24 小时，奥特曼的天塌了两次&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;刚刚，DeepSeek 大升级，V4 真的不远了｜附体验细节&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-4"&gt;突发！史上最强 Claude 发布：聪明到不敢开放，还会突破权限掩盖操作痕迹&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-5"&gt;早报｜苹果折叠屏iPhone或推迟，彭博社：仍按计划于9月发布/最强Claude发布，不对普通用户开...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜B站推出播放页暂停广告/GoPro启动大规模裁员/Meta时隔9个月再发大模型，被指「图表造假... (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;专访 OPPO 影像算法总监罗俊：好的计算摄影，就是让你忘掉计算摄影&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;8 分钟充满！领克 10 刷新全球充电纪录，全新高性能版超越 Taycan 拿下第一&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
+ &lt;div class="topic" id="topic-1"&gt;
+ &lt;div class="topic-title"&gt;早报｜B站推出播放页暂停广告/GoPro启动大规模裁员/Meta时隔9个月再发大模型，被指「图表造假」&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· Perplexity Agent 业务爆发，单月 ARR 暴增 50% 突破 4.5 亿美元
+· Meta 发布首款超级智能实验室模型 Muse Spark
+· 字节成 AI「黄埔军校」，核心人才流向 Meta、苹果、OpenAI#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1661370?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1661480?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-6"&gt;
- &lt;div class="topic-title"&gt;租电 40 万元起？蔚来 ES9 是李斌刺向高端 SUV 市场的「利刃」&lt;/div&gt;
- &lt;div class="topic-content"&gt;一台负责抬高品牌天花板、重新定义旗舰水准的车。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic" id="topic-2"&gt;
+ &lt;div class="topic-title"&gt;专访 OPPO 影像算法总监罗俊：好的计算摄影，就是让你忘掉计算摄影&lt;/div&gt;
+ &lt;div class="topic-content"&gt;什么是计算摄影的「真实感」？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1661245?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1660769?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
- &lt;div class="topic" id="topic-7"&gt;
- &lt;div class="topic-title"&gt;不到 24 小时，奥特曼的天塌了两次&lt;/div&gt;
- &lt;div class="topic-content"&gt;两种 Token 烧法，要解决同一个问题#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;8 分钟充满！领克 10 刷新全球充电纪录，全新高性能版超越 Taycan 拿下第一&lt;/div&gt;
+ &lt;div class="topic-content"&gt;领克也有了属于它的「六边形战士」。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1661310?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-8"&gt;
- &lt;div class="topic-title"&gt;刚刚，DeepSeek 大升级，V4 真的不远了｜附体验细节&lt;/div&gt;
- &lt;div class="topic-content"&gt;DeepSeek 搅动了整个 AI 圈，但现实也终将搅动 DeepSeek。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1661286?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-9"&gt;
- &lt;div class="topic-title"&gt;突发！史上最强 Claude 发布：聪明到不敢开放，还会突破权限掩盖操作痕迹&lt;/div&gt;
- &lt;div class="topic-content"&gt;软件安全将不再是人与人之间的较量，而是 AI 与 AI 之间的对拼。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1661287?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-10"&gt;
- &lt;div class="topic-title"&gt;早报｜苹果折叠屏iPhone或推迟，彭博社：仍按计划于9月发布/最强Claude发布，不对普通用户开放/携程试行「无理由事假」：每年最多45天&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 讨好型+反社会型人格：《纽约客》深度调查还原山姆·奥特曼真实面目
-· 曝苹果 MacBook 超 40% 产能已迁至越南
-· NASA 公布 iPhone 17 Pro Max 太空自拍样片#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1661288?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1661433?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-04-08-7867c816</guid>
-      <pubDate>Wed, 08 Apr 2026 13:43:26 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-04-09-1a78d3e6</guid>
+      <pubDate>Thu, 09 Apr 2026 13:45:00 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-04-09</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-04-10</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 09 Apr 2026 13:45:00 +0800</lastBuildDate>
-    <pubDate>Thu, 09 Apr 2026 13:45:00 +0800</pubDate>
+    <lastBuildDate>Fri, 10 Apr 2026 13:53:22 +0800</lastBuildDate>
+    <pubDate>Fri, 10 Apr 2026 13:53:22 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-04-09</title>
+      <title>每日科技新闻聚合 - 2026-04-10</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-04-09&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-04-10&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,50 +37,59 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-04-09&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年04月09日 13:45:00 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-04-10&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年04月10日 13:53:22 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜B站推出播放页暂停广告/GoPro启动大规模裁员/Meta时隔9个月再发大模型，被指「图表造假... (2篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;专访 OPPO 影像算法总监罗俊：好的计算摄影，就是让你忘掉计算摄影&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;8 分钟充满！领克 10 刷新全球充电纪录，全新高性能版超越 Taycan 拿下第一&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;华为 Pura 90 官宣，还有抢跑苹果的「阔折叠」 (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;SBTI说我废物，这是今年听过最舒服的一句话&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;创造力时代，需要更多创造力机器｜安克 eufyMake E1 体验&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-4"&gt;早报｜大疆Pocket 4官宣，下周发布/芯片用完，曝苹果为MacBook Neo补货/ChatGP...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;早报｜B站推出播放页暂停广告/GoPro启动大规模裁员/Meta时隔9个月再发大模型，被指「图表造假」&lt;/div&gt;
- &lt;div class="topic-content"&gt;· Perplexity Agent 业务爆发，单月 ARR 暴增 50% 突破 4.5 亿美元
-· Meta 发布首款超级智能实验室模型 Muse Spark
-· 字节成 AI「黄埔军校」，核心人才流向 Meta、苹果、OpenAI#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-title"&gt;华为 Pura 90 官宣，还有抢跑苹果的「阔折叠」&lt;/div&gt;
+ &lt;div class="topic-content"&gt;如何定价，也是发布会的一大看点#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1661370?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1661480?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1661692?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1661633?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
  &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;专访 OPPO 影像算法总监罗俊：好的计算摄影，就是让你忘掉计算摄影&lt;/div&gt;
- &lt;div class="topic-content"&gt;什么是计算摄影的「真实感」？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-title"&gt;SBTI说我废物，这是今年听过最舒服的一句话&lt;/div&gt;
+ &lt;div class="topic-content"&gt;全网最火人格测试#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1660769?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1661628?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;8 分钟充满！领克 10 刷新全球充电纪录，全新高性能版超越 Taycan 拿下第一&lt;/div&gt;
- &lt;div class="topic-content"&gt;领克也有了属于它的「六边形战士」。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-title"&gt;创造力时代，需要更多创造力机器｜安克 eufyMake E1 体验&lt;/div&gt;
+ &lt;div class="topic-content"&gt;想要即得到。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1661433?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1661629?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-4"&gt;
+ &lt;div class="topic-title"&gt;早报｜大疆Pocket 4官宣，下周发布/芯片用完，曝苹果为MacBook Neo补货/ChatGPT推出100美元Pro订阅&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 腾讯云官宣涨价
+· NASA「阿耳忒弥斯 2 号」启程返航，带回有史以来最清晰月球照片
+· 微信公众号更新「非真人创作」新规，违规最高封号#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1661625?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-04-09-1a78d3e6</guid>
-      <pubDate>Thu, 09 Apr 2026 13:45:00 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-04-10-b853c314</guid>
+      <pubDate>Fri, 10 Apr 2026 13:53:22 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

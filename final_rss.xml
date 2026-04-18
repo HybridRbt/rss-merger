@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-04-17</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-04-18</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 17 Apr 2026 13:59:12 +0800</lastBuildDate>
-    <pubDate>Fri, 17 Apr 2026 13:59:12 +0800</pubDate>
+    <lastBuildDate>Sat, 18 Apr 2026 13:29:22 +0800</lastBuildDate>
+    <pubDate>Sat, 18 Apr 2026 13:29:22 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-04-17</title>
+      <title>每日科技新闻聚合 - 2026-04-18</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-04-17&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-04-18&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,39 +37,30 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-04-17&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年04月17日 13:59:12 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-04-18&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年04月18日 13:29:22 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜雷军:不能因为有黑稿就不说话/曝OLED版iPad Air明年到来/2999起，大疆发布Osm...&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;DJI Pocket 4：为点赞而生的相机&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜刚刚，OpenAI两位大牛离职/一季度iPhone出货量激增20%/雷军回应小米做入门车型：1...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;早报｜雷军:不能因为有黑稿就不说话/曝OLED版iPad Air明年到来/2999起，大疆发布Osmo Pocket 4&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 曝 OLED 版 iPad Air 明年到来
-· L2 辅助驾驶强制国标开始征求意见：脱手脱眼超时将自动接管并禁用系统
-· 黄仁勋：若 DeepSeek 率先在华为平台上出现，「对美国将是可怕的结果」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
+ &lt;div class="topic" id="topic-1"&gt;
+ &lt;div class="topic-title"&gt;早报｜刚刚，OpenAI两位大牛离职/一季度iPhone出货量激增20%/雷军回应小米做入门车型：10万块难做好智能化&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 曝 DeepSeek 首次启动融资，估值不低于百亿美元
+· iOS 27 AI 功能前瞻：视觉智能更完善
+· 可画发布 Canva AI 2.0：一句话生成完整设计#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1662626?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;DJI Pocket 4：为点赞而生的相机&lt;/div&gt;
- &lt;div class="topic-content"&gt;是 Pocket 4，还是 Pocket 3 Pro？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1662433?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1662774?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-04-17-5e8f11e5</guid>
-      <pubDate>Fri, 17 Apr 2026 13:59:12 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-04-18-3a4b763a</guid>
+      <pubDate>Sat, 18 Apr 2026 13:29:22 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

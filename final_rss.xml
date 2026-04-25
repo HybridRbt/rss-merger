@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-04-24</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-04-25</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 24 Apr 2026 14:03:15 +0800</lastBuildDate>
-    <pubDate>Fri, 24 Apr 2026 14:03:15 +0800</pubDate>
+    <lastBuildDate>Sat, 25 Apr 2026 13:43:43 +0800</lastBuildDate>
+    <pubDate>Sat, 25 Apr 2026 13:43:43 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-04-24</title>
+      <title>每日科技新闻聚合 - 2026-04-25</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-04-24&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-04-25&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,51 +37,48 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-04-24&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年04月24日 14:03:15 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-04-25&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年04月25日 13:43:43 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;华为 Pura 90 Pro Max 评测：6499 元起，最难绕开的影像旗舰 (2篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜特斯拉第三代人形机器人预计年中亮相/更省token，GPT-5.5正式发布/西山居游戏辟谣「解... (2篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;小米 YU7 GT 定档 5 月底，更长更宽更低趴，马力超千匹｜北京车展&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;领克 GT 概念跑车全球首秀，领克 10+ 与 10 开启预售，20.99 万起&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;纵横在北京车展上发了 6 款新车，想要打造一个 700 系宇宙&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;早报｜小米YU7 GT定档五月底/罗福莉：中美顶尖模型代差仅两三个月/餐馆「反向抹零」被立案调查&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
- &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;华为 Pura 90 Pro Max 评测：6499 元起，最难绕开的影像旗舰&lt;/div&gt;
- &lt;div class="topic-content"&gt;希望能够推出蜜雪冰城联名配色#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1663707?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1663613?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;早报｜特斯拉第三代人形机器人预计年中亮相/更省token，GPT-5.5正式发布/西山居游戏辟谣「解散」传言：将依法追究恶意造谣&lt;/div&gt;
- &lt;div class="topic-content"&gt;· Google 发布第八代 TPU：博通做训练，联发科做推理
-· 曝微软曾考虑收购 Cursor
-· 曝美团副总裁夏华夏已离职，执掌无人车与 AI 业务逾十年#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1663666?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1663686?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;小米 YU7 GT 定档 5 月底，更长更宽更低趴，马力超千匹｜北京车展&lt;/div&gt;
- &lt;div class="topic-content"&gt;马力 1003 匹，极速 300km/h，续航 700km。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic" id="topic-4"&gt;
+ &lt;div class="topic-title"&gt;领克 GT 概念跑车全球首秀，领克 10+ 与 10 开启预售，20.99 万起&lt;/div&gt;
+ &lt;div class="topic-content"&gt;燃油不死。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1663691?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1663866?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-5"&gt;
+ &lt;div class="topic-title"&gt;纵横在北京车展上发了 6 款新车，想要打造一个 700 系宇宙&lt;/div&gt;
+ &lt;div class="topic-content"&gt;6 款新车，全叫 700。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1663858?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-6"&gt;
+ &lt;div class="topic-title"&gt;早报｜小米YU7 GT定档五月底/罗福莉：中美顶尖模型代差仅两三个月/餐馆「反向抹零」被立案调查&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· Google 拟向 Anthropic 投资最高 400 亿美元
+· Apple Music 副总裁：AI 音乐投稿泛滥，但几乎没人听
+· 全新理想 L9 Livis 亮相北京车展，5 月 15 日上市#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1663855?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-04-24-223f07b7</guid>
-      <pubDate>Fri, 24 Apr 2026 14:03:15 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-04-25-0399a26f</guid>
+      <pubDate>Sat, 25 Apr 2026 13:43:43 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

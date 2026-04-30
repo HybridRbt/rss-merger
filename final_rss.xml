@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-04-29</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-04-30</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 29 Apr 2026 14:17:59 +0800</lastBuildDate>
-    <pubDate>Wed, 29 Apr 2026 14:17:59 +0800</pubDate>
+    <lastBuildDate>Thu, 30 Apr 2026 14:22:26 +0800</lastBuildDate>
+    <pubDate>Thu, 30 Apr 2026 14:22:26 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-04-29</title>
+      <title>每日科技新闻聚合 - 2026-04-30</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-04-29&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-04-30&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,53 +37,52 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-04-29&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年04月29日 14:17:59 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-04-30&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年04月30日 14:22:26 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;比亚迪5月1日开始涨价；微信朋友圈悄然改版；麦当劳奶昔正式回归 (3篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;高通的「共享内存架构」，想让 Win 本追上 MacBook Pro&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;iPhone 18「缩水」？苹果新 CEO 正在下一盘大棋&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;马斯克：OpenAI 是我的创意，Altman 是小偷；Claude Code 使用成本翻倍；Ima... (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;我测 SBTI，但我不是 SB.skill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;早报｜苹果iOS 27或大幅升级照片App/曝一加、realme正式合并/去年我国Token调用量达...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;比亚迪5月1日开始涨价；微信朋友圈悄然改版；麦当劳奶昔正式回归&lt;/div&gt;
+ &lt;div class="topic-title"&gt;马斯克：OpenAI 是我的创意，Altman 是小偷；Claude Code 使用成本翻倍；Image 2 登顶视觉模型榜｜极客早知道&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-谷歌被曝与五角大楼签署机密 AI 协议，条款宽松程度超OpenAI
-当地时间 4 月 27 日，据知情人士透露，谷歌与美国国防部签署了一项机密 AI 协议，允许五角大楼将谷歌 AI 用于任何合法的政府目的。
-协议同时要求谷歌根据政府要求协助调整其 AI 安全设置与过滤器。媒体指出，该协议的条款宽松程度被认为超过 OpenAI 今年 2 月与五角大楼达成的协议。
-截至发稿，谷歌股价小幅上涨 0.1...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了3篇相关文章)&lt;/div&gt;
+结束与微软独家合作，OpenAI 模型接入亚马逊 AWS
+4 月 29 日，在亚马逊云科技（Amazon Web Services，简称 AWS）新品发布会上，AWS 宣布携手 OpenAI，将 OpenAI 最新大模型接入 Amazon Bedrock，在 Amazon Bedrock 上线 Codex 代码 Agent，并推出由 OpenAI 赋能的 Amazon Bedrock 托管 Ag...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园 (合并了2篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1664344?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1664341?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/363496" target="_blank"&gt;阅读原文 3&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/363602" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/363594" target="_blank"&gt;阅读原文 2&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
  &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;高通的「共享内存架构」，想让 Win 本追上 MacBook Pro&lt;/div&gt;
- &lt;div class="topic-content"&gt;内存带宽才是真理。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-title"&gt;我测 SBTI，但我不是 SB.skill&lt;/div&gt;
+ &lt;div class="topic-content"&gt;正式被确诊为 skill：成本低，可复制，一抓一大把#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1664390?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1664362?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;iPhone 18「缩水」？苹果新 CEO 正在下一盘大棋&lt;/div&gt;
- &lt;div class="topic-content"&gt;减配不涨价，可以接受吗？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-title"&gt;早报｜苹果iOS 27或大幅升级照片App/曝一加、realme正式合并/去年我国Token调用量达21100万亿&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 新一轮融资在路上，Anthropic 估值或突破 9000 亿美元
+· Alphabet Q1 净利润暴增 81%，Google Cloud 首破 200 亿美元大关
+· Azure 增速 40%、AI 狂飙 123%，微软云业务全面提速#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1664130?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1664570?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-04-29-ec71f98f</guid>
-      <pubDate>Wed, 29 Apr 2026 14:17:59 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-04-30-28934718</guid>
+      <pubDate>Thu, 30 Apr 2026 14:22:26 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

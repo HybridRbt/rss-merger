@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-05-03</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-05-04</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 03 May 2026 14:22:23 +0800</lastBuildDate>
-    <pubDate>Sun, 03 May 2026 14:22:23 +0800</pubDate>
+    <lastBuildDate>Mon, 04 May 2026 14:33:48 +0800</lastBuildDate>
+    <pubDate>Mon, 04 May 2026 14:33:48 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-05-03</title>
+      <title>每日科技新闻聚合 - 2026-05-04</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-05-03&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-05-04&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,53 +37,32 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-05-03&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年05月03日 14:22:23 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-05-04&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年05月04日 14:33:48 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;魔法原子进军硅谷背后：世界模型野望与生态卡位&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;张雪机车夺得 WSBK 第三冠；传苹果正在酝酿一笔大型 AI 收购；创始人加入后，OpenAI 宣布...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;传小米新 SU7 锁单突破 7 万；微信输入法测「隔空发图」功能；豆包二代 AI 手机上半年发布&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;魔法原子进军硅谷背后：世界模型野望与生态卡位&lt;/div&gt;
+&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
+ &lt;div class="topic" id="topic-1"&gt;
+ &lt;div class="topic-title"&gt;传小米新 SU7 锁单突破 7 万；微信输入法测「隔空发图」功能；豆包二代 AI 手机上半年发布&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-
-
-硅谷来了一家中国具身公司。
-作者｜Li Yuan
-编辑｜郑玄
-&amp;amp;nbsp;
-
-
-中国机器人公司火，已经不只是在国内了。一家具身智能公司，近期已经把发布会开到了硅谷。
-美西时间 4 月 28 日，魔法原子 MagicLab 在硅谷举办全球首届具身智能创新大会 GEIS。
-魔法原子在会上推出了新一代人形机器人 MagicBot X1 和灵巧手 MagicHand H01，而且第一次把其世界模型 ...&lt;/div&gt;
+即将超越英伟达！谷歌母公司 Alphabet 市值已达 4.6 万亿美元
+5 月 3 日消息，据媒体报道，受超预期财报提振，谷歌母公司 Alphabet 股价周四（4 月 30 日）大涨 10%，年内累计涨幅达到 140%，市值突破 4.6 万亿美元。
+该公司周三公布的营收超出分析师预期，其中谷歌云业务收入更是突破 200 亿美元大关。
+目前，全球市值第一的公司仍是人工智能芯片霸主英伟达，市值接...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/363699" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;张雪机车夺得 WSBK 第三冠；传苹果正在酝酿一笔大型 AI 收购；创始人加入后，OpenAI 宣布开放 OpenClaw 直连｜极客早知道&lt;/div&gt;
- &lt;div class="topic-content"&gt;&amp;amp;nbsp;
-
-世界超级摩托车锦标赛「张雪机车」夺第三冠
-5 月 2 日消息，在 2026 世界超级摩托车锦标赛（WSBK）匈牙利站 WorldSSP 组别第一回合正赛中，中国摩托车制造商「张雪机车」的法国车手瓦伦丁&amp;amp;middot;德比斯夺得冠军。这也是他与「张雪机车」的第三冠。
-凭借本场胜利，德比斯以 97 分在车手积分榜上升到第三位；「张雪机车」积 99 分，在制造商积分榜上同样排名第三。
-德...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/363698" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/363701" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-05-03-bec70d8e</guid>
-      <pubDate>Sun, 03 May 2026 14:22:23 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-05-04-5004f45b</guid>
+      <pubDate>Mon, 04 May 2026 14:33:48 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

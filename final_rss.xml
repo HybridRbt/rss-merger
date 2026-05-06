@@ -2,13 +2,83 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-05-05</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-05-06</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 05 May 2026 14:10:12 +0800</lastBuildDate>
-    <pubDate>Tue, 05 May 2026 14:10:12 +0800</pubDate>
+    <lastBuildDate>Wed, 06 May 2026 14:24:50 +0800</lastBuildDate>
+    <pubDate>Wed, 06 May 2026 14:24:50 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
+    <item>
+      <title>每日科技新闻聚合 - 2026-05-06</title>
+      <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
+&lt;html lang="zh-CN"&gt;
+&lt;head&gt;
+&lt;meta charset="UTF-8"&gt;
+&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-05-06&lt;/title&gt;
+&lt;style&gt;
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
+h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
+h2 { color: #007acc; margin-top: 30px; }
+.topic { margin-bottom: 25px; padding: 15px; border-left: 4px solid #007acc; background-color: #f8f9fa; }
+.topic-title { font-weight: bold; font-size: 1.1em; margin-bottom: 8px; }
+.topic-content { margin-bottom: 10px; }
+.topic-meta { font-size: 0.9em; color: #666; }
+.topic-links { margin-top: 8px; }
+.topic-links a { margin-right: 15px; color: #007acc; text-decoration: none; }
+.topic-links a:hover { text-decoration: underline; }
+.toc { background-color: #f0f0f0; padding: 15px; margin-bottom: 30px; border-radius: 5px; }
+.toc h3 { margin-top: 0; }
+.toc ul { margin: 0; padding-left: 20px; }
+.toc a { color: #007acc; text-decoration: none; }
+.toc a:hover { text-decoration: underline; }
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-05-06&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年05月06日 14:24:50 CST&lt;/p&gt;
+&lt;div class="toc"&gt;
+&lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;AI 大模型的「中文税」：中文比英文更费 Token，为什么？ (6篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;等 DeepSeek 回复的 30 秒，是手机最好玩的半小时&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
+ &lt;div class="topic" id="topic-1"&gt;
+ &lt;div class="topic-title"&gt;AI 大模型的「中文税」：中文比英文更费 Token，为什么？&lt;/div&gt;
+ &lt;div class="topic-content"&gt;作者｜汤一涛 
+编辑｜ 靖宇
+&amp;amp;nbsp;
+Opus 4.7 刚发布那几天，X 上怨声载道。有人说一次对话就把她的 session 额度用光了，有人说同一段代码跑完的成本比上周翻了一倍多；还有人晒出自己 200 美元 Max 订阅不到两小时就触顶的截图。
+&amp;amp;nbsp;
+
+&amp;amp;nbsp;
+独立开发者 BridgeMind 承认 Claude 是世界上最好的模型，但同时也是最贵的模型。他的 Max 订阅...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了6篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1664764?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1664813?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/363720" target="_blank"&gt;阅读原文 3&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
+ &lt;div class="topic" id="topic-2"&gt;
+ &lt;div class="topic-title"&gt;等 DeepSeek 回复的 30 秒，是手机最好玩的半小时&lt;/div&gt;
+ &lt;div class="topic-content"&gt;屏幕常亮，心态常好。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1664713?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;]]&gt;</description>
+      <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
+      <guid isPermaLink="false">aggregated-news-2026-05-06-51244d8e</guid>
+      <pubDate>Wed, 06 May 2026 14:24:50 +0800</pubDate>
+      <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
+    </item>
   </channel>
 </rss>

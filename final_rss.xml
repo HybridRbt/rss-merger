@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-05-09</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-05-10</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 09 May 2026 14:09:44 +0800</lastBuildDate>
-    <pubDate>Sat, 09 May 2026 14:09:44 +0800</pubDate>
+    <lastBuildDate>Sun, 10 May 2026 14:28:39 +0800</lastBuildDate>
+    <pubDate>Sun, 10 May 2026 14:28:39 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-05-09</title>
+      <title>每日科技新闻聚合 - 2026-05-10</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-05-09&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-05-10&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,58 +37,65 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-05-09&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年05月09日 14:09:44 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-05-10&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年05月10日 14:28:39 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;雷克萨斯新纯电 SUV TZ 亮相，比汉兰达更大，将于 27 年引入国内&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜小米增程SUV 曝光，但不叫YU9/苹果与英特尔达成初步芯片代工协议/Cloudflare用A...&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;OSMO Pocket 4P，是大疆自己打响的「云台相机下半场」第一枪&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜中汽协辟谣8家车企锁电被约谈/曝苹果正在研发全息iPhone/李想回应理想L9四年换代：汽车不...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;华为 Pura X Max 卖爆了，但「阔折叠」还只赢了一半&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;Altman 或官宣 OpenAI 硬件；李想谈 L9 4 年才换代：汽车非手机，AI 帮助有限；多...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
  &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;雷克萨斯新纯电 SUV TZ 亮相，比汉兰达更大，将于 27 年引入国内&lt;/div&gt;
- &lt;div class="topic-content"&gt;三排六座，定位高于雷克萨斯 RZ。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-title"&gt;早报｜中汽协辟谣8家车企锁电被约谈/曝苹果正在研发全息iPhone/李想回应理想L9四年换代：汽车不是手机&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 曝甲骨文裁员 2-3 万人，员工集体争取更高遣散费遭拒
+· 小鹏多款 SUV 新车亮相
+· Google 旗下修图软件推出大更新#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1665210?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1665336?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;div class="topic" id="topic-5"&gt;
- &lt;div class="topic-title"&gt;早报｜小米增程SUV 曝光，但不叫YU9/苹果与英特尔达成初步芯片代工协议/Cloudflare用AI裁掉20%员工&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 小米汽车人事分工调整：前特斯拉上海工厂厂长宋钢接管生产制造
-· 索尼与台积电官宣合作开发下一代图像传感器
-· Google 面试将允许使用 AI 助手#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1665264?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-6"&gt;
- &lt;div class="topic-title"&gt;OSMO Pocket 4P，是大疆自己打响的「云台相机下半场」第一枪&lt;/div&gt;
+ &lt;div class="topic-title"&gt;华为 Pura X Max 卖爆了，但「阔折叠」还只赢了一半&lt;/div&gt;
  &lt;div class="topic-content"&gt;
 
 
-「手持云台相机」品类里，大疆独行时代的最后一年。
+卖得好，用户「用钱投票」，只是定义一个好产品的关键指标之一。
 作者｜张勇毅
 编辑｜靖宇
 &amp;amp;nbsp;
 
 
-2025 年的某段时间，打开抖音、小红书、B 站，很多人都会有一种隐约的视觉重复&amp;amp;mdash;&amp;amp;mdash;一台黑色的、屏幕能旋转的小相机，反复出现。
-当时这台「小相机」，无论是国内的视频创作者，还是海外的 YouTuber，几乎人手一台。旅行 Vlog、家庭记录、街头美食、宠物日常，那个机身造型成...&lt;/div&gt;
+4 月 25 日上午 10 点 08 分，华为 Pura X Max 正式开售。10999 元起步，12999 元的典藏版比标准版贵 2000 元。
+十天之后，第三方监测数据公布了更多细节&amp;amp;mdash;&amp;amp;mdash;典藏版占首销总量的 55%，标准版只占 45%。
+越贵的版本，反而卖得更...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/363872" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/363936" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-6"&gt;
+ &lt;div class="topic-title"&gt;Altman 或官宣 OpenAI 硬件；李想谈 L9 4 年才换代：汽车非手机，AI 帮助有限；多家车企否认「被约谈」&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+Altman「官宣」OpenAI 手机
+昨日早间，Altman 发布了一条 X，几乎坐实了近半个月来的传闻。
+X 正文只有三个词：「call me maybe」
+配图是 ChatGPT 官方账号 10 小时前发的&amp;amp;mdash;&amp;amp;mdash;黑色太空背景，月球地平线，地平线上方升起一个发光的 ChatGPT 输入框。
+
+看似没头没尾，但这几天郭明錤那份&amp;quot;OpenAI 手机加速到 2027 H1&amp;quot;的...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="http://www.geekpark.net/news/363934" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-05-09-d6a790ee</guid>
-      <pubDate>Sat, 09 May 2026 14:09:44 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-05-10-46027215</guid>
+      <pubDate>Sun, 10 May 2026 14:28:39 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

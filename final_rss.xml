@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-05-10</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-05-11</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 10 May 2026 14:28:39 +0800</lastBuildDate>
-    <pubDate>Sun, 10 May 2026 14:28:39 +0800</pubDate>
+    <lastBuildDate>Mon, 11 May 2026 14:59:00 +0800</lastBuildDate>
+    <pubDate>Mon, 11 May 2026 14:59:00 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-05-10</title>
+      <title>每日科技新闻聚合 - 2026-05-11</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-05-10&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-05-11&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,65 +37,75 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-05-10&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年05月10日 14:28:39 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-05-11&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年05月11日 14:59:00 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜中汽协辟谣8家车企锁电被约谈/曝苹果正在研发全息iPhone/李想回应理想L9四年换代：汽车不...&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;华为 Pura X Max 卖爆了，但「阔折叠」还只赢了一半&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;Altman 或官宣 OpenAI 硬件；李想谈 L9 4 年才换代：汽车非手机，AI 帮助有限；多...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;第一批用 AI 写代码的 10 后，已经被苹果邀请去 WWDC 了 (4篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜微信灰测「组合支付」功能/苹果或重新设计macOS27「液态玻璃」/哈啰回应员工脚踩青桔美团&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;Figure AI 发布新 demo：两个机器人点头致意，我们一起把被子拉开&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-4"&gt;OTA 升级后续航减 200 KM，央视揭秘新能源汽车「锁电」真相；黄仁勋：别怕 AI，今天是应届生...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
+ &lt;div class="topic" id="topic-1"&gt;
+ &lt;div class="topic-title"&gt;第一批用 AI 写代码的 10 后，已经被苹果邀请去 WWDC 了&lt;/div&gt;
+ &lt;div class="topic-content"&gt;AI 时代，编程能力更珍贵了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了4篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1665285?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1665224?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1665359?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 3&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;早报｜中汽协辟谣8家车企锁电被约谈/曝苹果正在研发全息iPhone/李想回应理想L9四年换代：汽车不是手机&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 曝甲骨文裁员 2-3 万人，员工集体争取更高遣散费遭拒
-· 小鹏多款 SUV 新车亮相
-· Google 旗下修图软件推出大更新#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic" id="topic-2"&gt;
+ &lt;div class="topic-title"&gt;早报｜微信灰测「组合支付」功能/苹果或重新设计macOS27「液态玻璃」/哈啰回应员工脚踩青桔美团&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 曝字节跳动上调今年资本开支至逾 2000 亿元，加码 AI 基建
+· 魏建军：汽车不是快消品，中国车企出海要保证长期可信赖
+· 美国企业开始回避「AI 原生」毕业生：会用 ChatGPT，但不会独立思考#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1665336?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1665356?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
- &lt;div class="topic" id="topic-5"&gt;
- &lt;div class="topic-title"&gt;华为 Pura X Max 卖爆了，但「阔折叠」还只赢了一半&lt;/div&gt;
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;Figure AI 发布新 demo：两个机器人点头致意，我们一起把被子拉开&lt;/div&gt;
  &lt;div class="topic-content"&gt;
 
 
-卖得好，用户「用钱投票」，只是定义一个好产品的关键指标之一。
-作者｜张勇毅
+全球首次用单一神经网络实现多机器人协作 locomanipulation。
+作者｜Li Yuan
 编辑｜靖宇
 &amp;amp;nbsp;
 
 
-4 月 25 日上午 10 点 08 分，华为 Pura X Max 正式开售。10999 元起步，12999 元的典藏版比标准版贵 2000 元。
-十天之后，第三方监测数据公布了更多细节&amp;amp;mdash;&amp;amp;mdash;典藏版占首销总量的 55%，标准版只占 45%。
-越贵的版本，反而卖得更...&lt;/div&gt;
+5 月 8 日晚，Figure AI 发布了新的 demo。
+卧室里，两台 Helix‑02 机器人在不到两分钟的时间里完成了整个房间的整理：开关门、挂衣服、收拾耳机、倒垃圾、推动椅子，最终把床上的被子整齐盖好。
+拉被子时，两台机器人互相「点头」，像在默契确认，然后...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/363936" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/363963" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
- &lt;div class="topic" id="topic-6"&gt;
- &lt;div class="topic-title"&gt;Altman 或官宣 OpenAI 硬件；李想谈 L9 4 年才换代：汽车非手机，AI 帮助有限；多家车企否认「被约谈」&lt;/div&gt;
+ &lt;div class="topic" id="topic-4"&gt;
+ &lt;div class="topic-title"&gt;OTA 升级后续航减 200 KM，央视揭秘新能源汽车「锁电」真相；黄仁勋：别怕 AI，今天是应届生最好时机：微信测试「组合支付」功能｜极客早知道&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-Altman「官宣」OpenAI 手机
-昨日早间，Altman 发布了一条 X，几乎坐实了近半个月来的传闻。
-X 正文只有三个词：「call me maybe」
-配图是 ChatGPT 官方账号 10 小时前发的&amp;amp;mdash;&amp;amp;mdash;黑色太空背景，月球地平线，地平线上方升起一个发光的 ChatGPT 输入框。
+系统 OTA 升级后续航从 500km 变 300km？央视揭秘新能源汽车「锁电」真相
+5 月 10 日消息，据央视报道，有车主反映其标称 CLTC 续航 510 公里的车辆，在完成一次夜间 OTA 升级后实际续航不足 300 公里，快充时间也从 40 分钟延长至 70 分钟。因此，近日新能源汽车行业「锁电」问题持续发酵，引发广泛关注。
 
-看似没头没尾，但这几天郭明錤那份&amp;quot;OpenAI 手机加速到 2027 H1&amp;quot;的...&lt;/div&gt;
+所谓「锁电」，是指车企通过 OTA 远程升级或线下软件更...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/363934" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/363937" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-05-10-46027215</guid>
-      <pubDate>Sun, 10 May 2026 14:28:39 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-05-11-e1fc1478</guid>
+      <pubDate>Mon, 11 May 2026 14:59:00 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-05-11</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-05-12</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 11 May 2026 14:59:00 +0800</lastBuildDate>
-    <pubDate>Mon, 11 May 2026 14:59:00 +0800</pubDate>
+    <lastBuildDate>Tue, 12 May 2026 14:31:35 +0800</lastBuildDate>
+    <pubDate>Tue, 12 May 2026 14:31:35 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-05-11</title>
+      <title>每日科技新闻聚合 - 2026-05-12</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-05-11&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-05-12&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,75 +37,69 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-05-11&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年05月11日 14:59:00 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-05-12&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年05月12日 14:31:35 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;第一批用 AI 写代码的 10 后，已经被苹果邀请去 WWDC 了 (4篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜微信灰测「组合支付」功能/苹果或重新设计macOS27「液态玻璃」/哈啰回应员工脚踩青桔美团&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;Figure AI 发布新 demo：两个机器人点头致意，我们一起把被子拉开&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-4"&gt;OTA 升级后续航减 200 KM，央视揭秘新能源汽车「锁电」真相；黄仁勋：别怕 AI，今天是应届生...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;OPPO 就母亲节文案发布问责通告；OpenAI 投资 40 亿美元成立新公司加速企业级 AI 落地... (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;Markdown 已死，HTML 当立？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;小米 YU7 GT 定档 5 月 21 日，预计售价 40 万，还有更便宜的 YU7 「青春版」将一...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-4"&gt;售价破千万！兰博基尼用 V12+三电机，再次刷新敞篷车上限&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-5"&gt;激光雷达上车！比亚迪 2026 款海鸥发布，6.99 万元起&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;第一批用 AI 写代码的 10 后，已经被苹果邀请去 WWDC 了&lt;/div&gt;
- &lt;div class="topic-content"&gt;AI 时代，编程能力更珍贵了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了4篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-title"&gt;OPPO 就母亲节文案发布问责通告；OpenAI 投资 40 亿美元成立新公司加速企业级 AI 落地；Claude 勒索行为源于网络邪恶信息&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+OPPO 就母亲节文案事件发布问责通告，中国区业务负责人段要辉职级直降两级
+5 月 11 日，OPPO 内部正式发布母亲节品牌营销事故问责通告，对相关责任人进行定级处罚。其中，OPPO 中国区业务负责人段要辉负最终管理责任，职级直降两级，本年度绩效不高于 C，冻结调薪 36 个月；直属业务部门部长、公关部部长等均受到降职或冻结调薪处分。
+事件起因于 5 月 8 日 OPPO 官方微博及小红书账号...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了2篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1665285?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1665224?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1665359?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 3&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1665508?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/364004" target="_blank"&gt;阅读原文 2&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
  &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;早报｜微信灰测「组合支付」功能/苹果或重新设计macOS27「液态玻璃」/哈啰回应员工脚踩青桔美团&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 曝字节跳动上调今年资本开支至逾 2000 亿元，加码 AI 基建
-· 魏建军：汽车不是快消品，中国车企出海要保证长期可信赖
-· 美国企业开始回避「AI 原生」毕业生：会用 ChatGPT，但不会独立思考#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-title"&gt;Markdown 已死，HTML 当立？&lt;/div&gt;
+ &lt;div class="topic-content"&gt;想要什么格式就什么格式#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1665356?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1665516?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;Figure AI 发布新 demo：两个机器人点头致意，我们一起把被子拉开&lt;/div&gt;
- &lt;div class="topic-content"&gt;
-
-
-全球首次用单一神经网络实现多机器人协作 locomanipulation。
-作者｜Li Yuan
-编辑｜靖宇
-&amp;amp;nbsp;
-
-
-5 月 8 日晚，Figure AI 发布了新的 demo。
-卧室里，两台 Helix‑02 机器人在不到两分钟的时间里完成了整个房间的整理：开关门、挂衣服、收拾耳机、倒垃圾、推动椅子，最终把床上的被子整齐盖好。
-拉被子时，两台机器人互相「点头」，像在默契确认，然后...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+ &lt;div class="topic-title"&gt;小米 YU7 GT 定档 5 月 21 日，预计售价 40 万，还有更便宜的 YU7 「青春版」将一同亮相&lt;/div&gt;
+ &lt;div class="topic-content"&gt;YU7 GT 秀肌肉、提品牌、战全球；YU7「青春版」 降门槛、保销量、拼刺刀。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/363963" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1665470?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;OTA 升级后续航减 200 KM，央视揭秘新能源汽车「锁电」真相；黄仁勋：别怕 AI，今天是应届生最好时机：微信测试「组合支付」功能｜极客早知道&lt;/div&gt;
- &lt;div class="topic-content"&gt;
-系统 OTA 升级后续航从 500km 变 300km？央视揭秘新能源汽车「锁电」真相
-5 月 10 日消息，据央视报道，有车主反映其标称 CLTC 续航 510 公里的车辆，在完成一次夜间 OTA 升级后实际续航不足 300 公里，快充时间也从 40 分钟延长至 70 分钟。因此，近日新能源汽车行业「锁电」问题持续发酵，引发广泛关注。
-
-所谓「锁电」，是指车企通过 OTA 远程升级或线下软件更...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+ &lt;div class="topic-title"&gt;售价破千万！兰博基尼用 V12+三电机，再次刷新敞篷车上限&lt;/div&gt;
+ &lt;div class="topic-content"&gt;失去车顶，不失下压力。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/363937" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1665437?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-5"&gt;
+ &lt;div class="topic-title"&gt;激光雷达上车！比亚迪 2026 款海鸥发布，6.99 万元起&lt;/div&gt;
+ &lt;div class="topic-content"&gt;重点是：人无我有。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1665496?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-05-11-e1fc1478</guid>
-      <pubDate>Mon, 11 May 2026 14:59:00 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-05-12-71ad64bc</guid>
+      <pubDate>Tue, 12 May 2026 14:31:35 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

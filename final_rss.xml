@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-05-26</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-05-27</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 26 May 2026 15:36:49 +0800</lastBuildDate>
-    <pubDate>Tue, 26 May 2026 15:36:49 +0800</pubDate>
+    <lastBuildDate>Wed, 27 May 2026 15:56:39 +0800</lastBuildDate>
+    <pubDate>Wed, 27 May 2026 15:56:39 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-05-26</title>
+      <title>每日科技新闻聚合 - 2026-05-27</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-05-26&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-05-27&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,50 +37,30 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-05-26&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年05月26日 15:36:49 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-05-27&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年05月27日 15:56:39 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;AI 的承诺一文不值，谁该买单？ (2篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;用 Codex 优化网速狂飙 900Mbps？实测之后我发现了新的隐藏玩法&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;早报｜华为公布韬定律，Mate 90有望搭载更强芯片/宇树科技上会估值420亿/DeepSeek登顶...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜小米卢伟冰：大型新车今年下半年上市/支付宝推出全球首个Token Pay服务/滴滴崩了，官方致...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;AI 的承诺一文不值，谁该买单？&lt;/div&gt;
- &lt;div class="topic-content"&gt;豆包的人格化设计已经成功到了渗透进流行文化的程度，它不再是一个工具，而是一种「关系」的想象。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1666938?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1666860?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;用 Codex 优化网速狂飙 900Mbps？实测之后我发现了新的隐藏玩法&lt;/div&gt;
- &lt;div class="topic-content"&gt;还可以破解家用电器，释放C盘空间#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-title"&gt;早报｜小米卢伟冰：大型新车今年下半年上市/支付宝推出全球首个Token Pay服务/滴滴崩了，官方致歉&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· QuestMobile：AI 原生 App 月活达到 4.61 亿
+· 特斯拉高管：正研究三电机版 Model 3 的可行性
+· 阿里 Qwen3.7-Max 登顶国产第一，仅次于 Claude Opus 4.7 thinking#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1666874?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;早报｜华为公布韬定律，Mate 90有望搭载更强芯片/宇树科技上会估值420亿/DeepSeek登顶全球调用榜&lt;/div&gt;
- &lt;div class="topic-content"&gt;· Gurman：Apple Watch 需要重启健康叙事
-· 银河证券：钠离子电池规模化节点临近
-· 美团、腾讯参投机器人公司天机智能 10 亿元融资#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1666931?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1667026?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-05-26-c74277de</guid>
-      <pubDate>Tue, 26 May 2026 15:36:49 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-05-27-30fa32f0</guid>
+      <pubDate>Wed, 27 May 2026 15:56:39 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

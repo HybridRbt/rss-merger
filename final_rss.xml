@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-06-11</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-06-12</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 11 Jun 2026 16:28:10 +0800</lastBuildDate>
-    <pubDate>Thu, 11 Jun 2026 16:28:10 +0800</pubDate>
+    <lastBuildDate>Fri, 12 Jun 2026 16:17:02 +0800</lastBuildDate>
+    <pubDate>Fri, 12 Jun 2026 16:17:02 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-06-11</title>
+      <title>每日科技新闻聚合 - 2026-06-12</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-06-11&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-06-12&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,42 +37,50 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-06-11&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年06月11日 16:28:10 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-06-12&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年06月12日 16:17:02 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;你喜欢喝可口可乐，还是百事可乐？｜影石 Luna Ultra 体验 (3篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜大疆Pocket4P价格曝光/3999起，影石Luna Ultra正式发布/何小鹏亲自直管机器...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;用了两天 iOS 27，我「AI」上了 Siri (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;新乐道 L60 上市发布，换电 13.58 万元起，不再做「Model Y 杀手」，要做蔚来的旗舰技...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;早报｜微信图片合并功能全量推送/史上最大IPO，SpaceX明日开盘/曝OpenAI考虑大幅降低to...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;你喜欢喝可口可乐，还是百事可乐？｜影石 Luna Ultra 体验&lt;/div&gt;
- &lt;div class="topic-content"&gt;大疆别回头，我是影石#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了3篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-title"&gt;用了两天 iOS 27，我「AI」上了 Siri&lt;/div&gt;
+ &lt;div class="topic-content"&gt;厨子临走前还真把饼给烙好了？！#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1668621?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1668113?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1667844?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 3&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1668716?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1668693?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
  &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;早报｜大疆Pocket4P价格曝光/3999起，影石Luna Ultra正式发布/何小鹏亲自直管机器人业务&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 荣耀官宣与微信首个 A2A 合作，YOYO 可直接发送微信消息
-· 台积电 CFO：通胀推高成本，不排除涨价可能
-· 张雪机车回应生锈问题：让实验说话#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-title"&gt;新乐道 L60 上市发布，换电 13.58 万元起，不再做「Model Y 杀手」，要做蔚来的旗舰技术普及者&lt;/div&gt;
+ &lt;div class="topic-content"&gt;蔚来公司需要一款五座爆款。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1668618?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1668715?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;早报｜微信图片合并功能全量推送/史上最大IPO，SpaceX明日开盘/曝OpenAI考虑大幅降低token价格&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 曝海力士最快 8 月赴美上市
+· 小米 SU7 获 5 月 20 万元以上轿车市场销冠
+· 加拿大提出法案，拟禁止 16 岁以下儿童使用社交媒体#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1668686?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-06-11-afe9f0c4</guid>
-      <pubDate>Thu, 11 Jun 2026 16:28:10 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-06-12-fc611f7b</guid>
+      <pubDate>Fri, 12 Jun 2026 16:17:02 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

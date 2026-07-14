@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-07-13</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-07-14</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 13 Jul 2026 14:45:58 +0800</lastBuildDate>
-    <pubDate>Mon, 13 Jul 2026 14:45:58 +0800</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2026 14:04:30 +0800</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 14:04:30 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-07-13</title>
+      <title>每日科技新闻聚合 - 2026-07-14</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-07-13&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-07-14&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,42 +37,30 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-07-13&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年07月13日 14:45:58 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-07-14&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年07月14日 14:04:30 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;2026 最值得期待的 AI 硬件，是卡片｜AI 器物志 (4篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜曝苹果M7 Ultra最高支持1.5TB内存/海力士CEO:明年将迎史上最严峻储存短缺/马斯克...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜苹果iPhone 20或迎来大幅设计调整/海南规划2030年禁售燃油车/字节回应探索自动驾驶传...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;2026 最值得期待的 AI 硬件，是卡片｜AI 器物志&lt;/div&gt;
- &lt;div class="topic-content"&gt;AI 应该少偷点个人信息，多帮打工人干活#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了4篇相关文章)&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1671817?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1671799?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1671775?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 3&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;早报｜曝苹果M7 Ultra最高支持1.5TB内存/海力士CEO:明年将迎史上最严峻储存短缺/马斯克奥特曼再次公开对垒&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 大众计划削减一半车型线，全球裁员规模或达 12 万人
-· 扎克伯格否认 Meta 算力过剩：没人会嫌算力太多
-· 宇树 G1 机器人完成两例活体手术，登上《自然》#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-title"&gt;早报｜苹果iPhone 20或迎来大幅设计调整/海南规划2030年禁售燃油车/字节回应探索自动驾驶传闻&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 腾讯混元 Hy3 登顶 OpenRouter 周榜，单周处理 Token 超 6 万亿
+· 台积电上半年营收同比增长 35.6%，6 月营收创单月新高
+· 长鑫科技拟募资 295 亿元，员工每人可分超百万#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1671746?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1671983?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-07-13-9818a965</guid>
-      <pubDate>Mon, 13 Jul 2026 14:45:58 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-07-14-8b180bd3</guid>
+      <pubDate>Tue, 14 Jul 2026 14:04:30 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-07-21</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-07-22</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 21 Jul 2026 14:22:27 +0800</lastBuildDate>
-    <pubDate>Tue, 21 Jul 2026 14:22:27 +0800</pubDate>
+    <lastBuildDate>Wed, 22 Jul 2026 14:22:02 +0800</lastBuildDate>
+    <pubDate>Wed, 22 Jul 2026 14:22:02 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-07-21</title>
+      <title>每日科技新闻聚合 - 2026-07-22</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-07-21&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-07-22&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,30 +37,31 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-07-21&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年07月21日 14:22:27 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-07-22&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年07月22日 14:22:02 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜二季度华为手机份额升至23%/广汽本田与本田续签合资协议至2038年/《复仇者联盟5》首曝预告&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜iPhone 20 Pro Max或搭载约7英寸屏幕/曝小米上调今年手机出货目标至1.1亿部/... (2篇文章)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;早报｜二季度华为手机份额升至23%/广汽本田与本田续签合资协议至2038年/《复仇者联盟5》首曝预告&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 靳玉志：华为乾崑继续做汽车行业的「电子螺丝钉」
-· 工信部：我国智能算力规模达到 2185 EFLOPS
-· 字节跳动发布 Seed Audio 1.0 音频创作模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-title"&gt;早报｜iPhone 20 Pro Max或搭载约7英寸屏幕/曝小米上调今年手机出货目标至1.1亿部/Gemini 3.6 Flash发布,输出Token减少17%&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 曝苹果正打样约 7 英寸屏幕，或用于 iPhone 20 Pro Max
+· 曝小米上调今年手机出货目标至 1.1 亿部
+· 张一鸣向芳梅公益基金追加捐赠 3 亿元#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1672637?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1672647?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1672713?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-07-21-fecd4cee</guid>
-      <pubDate>Tue, 21 Jul 2026 14:22:27 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-07-22-03502377</guid>
+      <pubDate>Wed, 22 Jul 2026 14:22:02 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

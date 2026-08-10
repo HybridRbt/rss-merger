@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-08-09</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-08-10</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 09 Aug 2026 12:56:16 +0800</lastBuildDate>
-    <pubDate>Sun, 09 Aug 2026 12:56:16 +0800</pubDate>
+    <lastBuildDate>Mon, 10 Aug 2026 13:17:40 +0800</lastBuildDate>
+    <pubDate>Mon, 10 Aug 2026 13:17:40 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-08-09</title>
+      <title>每日科技新闻聚合 - 2026-08-10</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-08-09&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-08-10&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,38 +37,53 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-08-09&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年08月09日 12:56:16 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-08-10&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年08月10日 13:17:40 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;AI 开始帮写朋友圈了，但我更想念「古法手作」文字 (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜国行苹果AI上线官网后被撤下/曝Apple Watch将迎来大升级/宇树科技今日开启科创板申购&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;苹果被曝正在测试长鑫科技存储芯片；宇树科技今日申购，中一签或赚 20 万元；原字节跳动机器人一号位加...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器&lt;/div&gt;
+ &lt;div class="topic-title"&gt;AI 开始帮写朋友圈了，但我更想念「古法手作」文字&lt;/div&gt;
+ &lt;div class="topic-content"&gt;想念那个「说人话」的时代#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1674518?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1673846?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
+ &lt;div class="topic" id="topic-2"&gt;
+ &lt;div class="topic-title"&gt;早报｜国行苹果AI上线官网后被撤下/曝Apple Watch将迎来大升级/宇树科技今日开启科创板申购&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 苹果测试长鑫存储芯片，拟用于中国市场 iPhone 和 MacBook
+· SpaceX 收购 Cursor 临近落地
+· Pixel 11 Pro 真机曝光：沙丘色、哑光黑，改用圆形长焦开孔#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1674507?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;苹果被曝正在测试长鑫科技存储芯片；宇树科技今日申购，中一签或赚 20 万元；原字节跳动机器人一号位加入小米｜极客早知道&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-
-浏览器是功能，不是目的地。
-
-作者｜张勇毅
-编辑｜靖宇
-
-2025 年 10 月 21 日，OpenAI 发布自己的 AI 原生浏览器 Atlas 的那个晚上，全球科技媒体的标题里挤满了同一个词：「Chrome 杀手」。
-
-OpenAI 自研 AI Agent 浏览器 ChatGPT Atlas 于 2025 年 10 月发布｜图片来源：OpenAI 官号
-那是手握八亿周活的 OpenAI 第...&lt;/div&gt;
+苹果被曝正在测试长鑫科技存储芯片，用于 iPhone 和 MacBook
+8 月 9 日，据《华尔街日报》报道，苹果公司正在其 iPhone 和 MacBook 等产品线中测试长鑫存储（CXMT）的存储芯片，以缓解因人工智能热潮引发的内存短缺问题。报道援引知情人士称，苹果公司已与中国最大的芯片制造商长鑫存储就零部件供应展开初步洽谈，目标是在中国销售的部分设备中使用这些芯片。
+路透社此前报道称，长...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/368579" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/368581" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-08-09-e968af3d</guid>
-      <pubDate>Sun, 09 Aug 2026 12:56:16 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-08-10-34b550a9</guid>
+      <pubDate>Mon, 10 Aug 2026 13:17:40 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

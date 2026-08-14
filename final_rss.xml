@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-08-13</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-08-14</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 13 Aug 2026 13:27:44 +0800</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 13:27:44 +0800</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 13:25:36 +0800</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 13:25:36 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-08-13</title>
+      <title>每日科技新闻聚合 - 2026-08-14</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-08-13&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-08-14&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,30 +37,73 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-08-13&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年08月13日 13:27:44 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-08-14&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年08月14日 13:25:36 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;Deepseek V4 Pro 正式版 API 上线，百万 Token 仅 6 元；腾讯计划近期发布... (5篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;DeepSeek V4 Flash 之后，大模型开始卷「智效比」了 (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜曝iPhone全线涨价100美元/ChatGPT开始拥有你的电脑历史/长鑫科技市值超过腾讯&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;DeepSeek Harness 实测：一夜 5 万星，Agent 界的 Android 来了&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-4"&gt;DeepSeek Harness 公测，对标 Claude Cowork ；长鑫科技市值超越腾讯；O...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;Deepseek V4 Pro 正式版 API 上线，百万 Token 仅 6 元；腾讯计划近期发布 HY4 大模型；曝 iPhone18 至少涨价 2000 元起 | 极客早知道&lt;/div&gt;
- &lt;div class="topic-content"&gt;DeepSeek V4 Pro 正式版 API 更新上线，多项测试性能接近 Fable 58 月 13 日消息，DeepSeek V4 Pro 正式版正式发布，已更新至 API，调用模型名不变。新版本增强了 Agent 能力，支持 Responses API 和 Codex 接入。从官方群放出的评测对比表可以看到，DeepSeek V4 Pro 正式版（DeepSeek-V4-Pro-0813）在...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了5篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-title"&gt;DeepSeek V4 Flash 之后，大模型开始卷「智效比」了&lt;/div&gt;
+ &lt;div class="topic-content"&gt;Agent 时代，怎么挑选「高智效」模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1675007?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1675029?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1674964?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 3&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1675196?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1675156?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
+ &lt;div class="topic" id="topic-2"&gt;
+ &lt;div class="topic-title"&gt;早报｜曝iPhone全线涨价100美元/ChatGPT开始拥有你的电脑历史/长鑫科技市值超过腾讯&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· Anthropic 投资者押注秋季 IPO，预期估值或超过 2 万亿美元
+· 比亚迪辅助驾驶车型保有量超过 352 万辆
+· 张雪机车获红杉中国独家投资，月交付量破万台#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1675193?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;DeepSeek Harness 实测：一夜 5 万星，Agent 界的 Android 来了&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+
+Agent 行业需要一个 Android。
+
+作者｜张勇毅
+编辑｜靖宇
+
+北京时间 8 月 13 日晚上八点半，DeepSeek 正式公布了它成立以来的第一个 Agent 产品，之前预热很久，大家期待值很高的 Deepseek Harness。
+截至发稿，它的 GitHub 仓库已经涨到超过 5 万个 star&amp;amp;mdash;&amp;amp;mdash; 而仓库公开刚刚过了 12 个小时。
+
+Deepseek...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="http://www.geekpark.net/news/368809" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-4"&gt;
+ &lt;div class="topic-title"&gt;DeepSeek Harness 公测，对标 Claude Cowork ；长鑫科技市值超越腾讯；OpenAI 年化营收有望翻番达 400 亿美元&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+对标 Claude Cowork：DeepSeek Harness 公测，同步开放插件生态
+8 月 13 日消息，DeepSeek-V4-Pro-0813 正式开源，同时还推出了其开源（MIT 协议）的代码智能体框架 Harness 的 v0.1 开发者预览版（基于 Cordis），并同步开放了配套的插件生态系统。相关 GitHub 仓库也已公开。
+
+DeepSeek 正式开源 DeepSeek...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="http://www.geekpark.net/news/368789" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-08-13-10fa0d57</guid>
-      <pubDate>Thu, 13 Aug 2026 13:27:44 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-08-14-b3859791</guid>
+      <pubDate>Fri, 14 Aug 2026 13:25:36 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

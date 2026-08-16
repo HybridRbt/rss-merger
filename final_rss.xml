@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-08-15</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-08-16</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 15 Aug 2026 12:21:12 +0800</lastBuildDate>
-    <pubDate>Sat, 15 Aug 2026 12:21:12 +0800</pubDate>
+    <lastBuildDate>Sun, 16 Aug 2026 12:27:11 +0800</lastBuildDate>
+    <pubDate>Sun, 16 Aug 2026 12:27:11 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-08-15</title>
+      <title>每日科技新闻聚合 - 2026-08-16</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-08-15&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-08-16&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,42 +37,33 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-08-15&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年08月15日 12:21:12 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-08-16&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年08月16日 12:27:11 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜曝苹果与阿里合作训练AI模型/微信:永不推出朋友圈二次编辑/售价20万,追觅首台手机交付&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;智谱发布 GLM-5.3，编程能力更强；传苹果训练国内专用 AI 模型；微信：朋友圈现在、过去、未来...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;Anthropic 评估 AI 风险上升, 暂不公开更强模型；刘炽平：微信将成为 AI 为先的生态系...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;早报｜曝苹果与阿里合作训练AI模型/微信:永不推出朋友圈二次编辑/售价20万,追觅首台手机交付&lt;/div&gt;
- &lt;div class="topic-content"&gt;· Google DeepMind 或裁员三分之一以上，资源转向 Flash
-· WorkBuddy 接入 GLM-5.3
-· 曝 DeepSeek 正研发情感 AI 模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1675280?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;智谱发布 GLM-5.3，编程能力更强；传苹果训练国内专用 AI 模型；微信：朋友圈现在、过去、未来都不会有二次编辑功能 | 极客早知道&lt;/div&gt;
+&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
+ &lt;div class="topic" id="topic-1"&gt;
+ &lt;div class="topic-title"&gt;Anthropic 评估 AI 风险上升, 暂不公开更强模型；刘炽平：微信将成为 AI 为先的生态系统；全网吐槽《牛来》票房逆袭&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-智谱正式发布 GLM-5.3，拥有更强编程能力
-8 月 14 日，据介绍，与 GLM-5.2 相比，GLM-5.3 基座模型未变，但通过极致的后训练 Scaling 大大提高了模型的智能上界。
-GLM-5.3 拥有更强的编程能力，在内部自建体感评测中较 GLM-5.2 提升 50%，在包括 TerminalBench3.0、Agents&amp;#x27;LastExam(CLI)在内的公开基准测试中取得开源第一...&lt;/div&gt;
+2026 世界机器人大会展位图揭晓：8 月 19 日开幕，宇树科技、优必选等参展
+8 月 16 日消息，2026 世界机器人大会将于 8 月 19 日至 23 日在北京经济技术开发区北人亦创国际会展中心举行。近日，2026 世界机器人大会展位图全揭晓。
+
+作为大会展览的重要新增空间，智创馆面积达 2 万平方米，拥有更加开阔、通透的展示环境，将进一步提升企业参展和观众观展体验。
+宇树科技、星海图、...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/368849" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/368854" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-08-15-470ce245</guid>
-      <pubDate>Sat, 15 Aug 2026 12:21:12 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-08-16-44f6a392</guid>
+      <pubDate>Sun, 16 Aug 2026 12:27:11 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

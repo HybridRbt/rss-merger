@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-08-27</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-08-28</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 27 Aug 2026 22:53:15 +0800</lastBuildDate>
-    <pubDate>Thu, 27 Aug 2026 22:53:15 +0800</pubDate>
+    <lastBuildDate>Fri, 28 Aug 2026 23:48:40 +0800</lastBuildDate>
+    <pubDate>Fri, 28 Aug 2026 23:48:40 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-08-27</title>
+      <title>每日科技新闻聚合 - 2026-08-28</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-08-27&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-08-28&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,129 +37,70 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-08-27&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年08月27日 22:53:15 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-08-28&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年08月28日 23:48:40 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜苹果新iPhone 9月10日见/特斯拉中国辟谣上海数据中心撤离/工信部:严禁未经充分测试验证... (2篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;Ox Alpha「牛来」 身份揭晓；黄仁勋：AI 已迈过商业化拐点；世界人形机器人运动会闭幕：天工 ... (4篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;风云 T7 上市：9.49 万元起、全系 600km，电池出事赔新车&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-4"&gt;小鹏新版 VLA 9 月实装：记住过去 30 秒，预判未来 6 秒，开始在「时间里」开车&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-5"&gt;理想换了一种活法！理想 i9、新 MEGA 即将发布，李想：纯电销量已经追平增程&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-6"&gt;智元机器人「奥运」首秀封神，戴着工牌狂揽 18 枚金牌&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-7"&gt;苹果发布会最全爆料：折叠 iPhone 和新 CEO 都来了，还有一个 One more thing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-8"&gt;MiniMax 违背「祖训」，企业收入暴涨 700%，偷偷变成了「卖铲子」的&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-9"&gt;一年卖出 3 万台后，极壳将在 IFA 发布下一代外骨骼&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-10"&gt;影响了两代人后，Meta 被判赔 180 亿美元&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;特努斯时代首秀，苹果发布会定档 9 月 10 日；116 家公司联名信：重视 AI 时代网络安全；英... (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;用了阔直板华为，忘了回忆里的黑莓｜华为 Pura X View 评测&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;早报｜iPhone 17登顶Q2最畅销智能手机/《GTA6》公布26分钟实机演示/追觅咖啡回应多店闭...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-4"&gt;世界模型进入下半场：自变量 WALL-SS 突破三大瓶颈，让虚拟世界成为机器人的「训练场」&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;早报｜苹果新iPhone 9月10日见/特斯拉中国辟谣上海数据中心撤离/工信部:严禁未经充分测试验证的汽车产品进入市场&lt;/div&gt;
- &lt;div class="topic-content"&gt;· ChatGPT Business 开放 Premium 席位，用量提高至 5 倍
-· 顺丰回应薪酬结构调整：15% 纳入季度考核，不涉及一、二线员工
-· 百度股东会通过双重主要上市相关决议#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1677048?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1676848?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;Ox Alpha「牛来」 身份揭晓；黄仁勋：AI 已迈过商业化拐点；世界人形机器人运动会闭幕：天工 Ultra 百米跑出 8 秒 64｜极客早知道&lt;/div&gt;
+ &lt;div class="topic-title"&gt;特努斯时代首秀，苹果发布会定档 9 月 10 日；116 家公司联名信：重视 AI 时代网络安全；英伟达预计三季度营收破千亿美元 | 极客早知道&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-智谱正式发布并开源 GLM-5.3-Flash，Ox Alpha「牛来」 身份揭晓
-8 月 26 日，智谱正式上线并开源 GLM-5.3-Flash（320B-A18B），这是 GLM-5 系列的首个原生多模态模型，也正是上周以来匿名登顶 OpenRouter、被社区称为 &amp;quot;牛来&amp;quot; 的 Ox Alpha 的正式身份。
-该模型总参数 320B、激活 18B，在权威的 Artificial Anal...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了4篇相关文章)&lt;/div&gt;
+特努斯首秀开启 iPhone 18 Pro / Ultra 系列新篇章，苹果发布会官宣定档 9 月 10 日
+8 月 27 日消息，苹果官方宣布将于当地时间 9 月 9 日（北京时间 9 月 10 日凌晨 1 点）举行秋季新品发布会，主题为「惊喜闪耀」（Surprise and shine）。
+这将是约翰 &amp;amp;middot; 特努斯（John Ternus）于 9 月 1 日正式接任苹果 CEO ...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园 (合并了2篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1676852?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1676929?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/369458" target="_blank"&gt;阅读原文 3&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/369547" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/369481" target="_blank"&gt;阅读原文 2&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;风云 T7 上市：9.49 万元起、全系 600km，电池出事赔新车&lt;/div&gt;
- &lt;div class="topic-content"&gt;打出一张真·安全牌。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic" id="topic-2"&gt;
+ &lt;div class="topic-title"&gt;用了阔直板华为，忘了回忆里的黑莓｜华为 Pura X View 评测&lt;/div&gt;
+ &lt;div class="topic-content"&gt;华为 Passport#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1677135?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1677161?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;早报｜iPhone 17登顶Q2最畅销智能手机/《GTA6》公布26分钟实机演示/追觅咖啡回应多店闭店&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 小鹏 Robotaxi 获广州全无人道路测试资质
+· Anthropic 与 Nscale 签下 450 亿美元算力合同
+· B 站第二季度营收 79.4 亿元，净利润同比增长 55%#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1677210?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;小鹏新版 VLA 9 月实装：记住过去 30 秒，预判未来 6 秒，开始在「时间里」开车&lt;/div&gt;
- &lt;div class="topic-content"&gt;小鹏 VLA 获得了奇异博士的超能力。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1677118?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-5"&gt;
- &lt;div class="topic-title"&gt;理想换了一种活法！理想 i9、新 MEGA 即将发布，李想：纯电销量已经追平增程&lt;/div&gt;
- &lt;div class="topic-content"&gt;苹果和华为最难学的不是「自研」，而是让技术最终回归到商业。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1677019?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-6"&gt;
- &lt;div class="topic-title"&gt;智元机器人「奥运」首秀封神，戴着工牌狂揽 18 枚金牌&lt;/div&gt;
- &lt;div class="topic-content"&gt;刚下工厂，就上赛场，金牌榜奖牌榜双领跑#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1676970?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-7"&gt;
- &lt;div class="topic-title"&gt;苹果发布会最全爆料：折叠 iPhone 和新 CEO 都来了，还有一个 One more thing&lt;/div&gt;
- &lt;div class="topic-content"&gt;苹果今年最重要的一场发布会，终于来了！#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1676900?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-8"&gt;
- &lt;div class="topic-title"&gt;MiniMax 违背「祖训」，企业收入暴涨 700%，偷偷变成了「卖铲子」的&lt;/div&gt;
- &lt;div class="topic-content"&gt;8 亿美元 ARR 背后，MiniMax 的 Agent 基建与效率暗战.#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1676874?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-9"&gt;
- &lt;div class="topic-title"&gt;一年卖出 3 万台后，极壳将在 IFA 发布下一代外骨骼&lt;/div&gt;
- &lt;div class="topic-content"&gt;作者 | siqi
-编辑 | 郑玄
-&amp;amp;nbsp;
-据 Hardwire 了解，消费级外骨骼领域头部企业极壳（Hypershell）近期已完成对多关节下肢外骨骼产品的研发。这款名为「Halo」的新一代旗舰产品将于 9 月 3 日在 IFA（柏林消费电子展）上正式发布。
-极壳（qi&amp;amp;agrave;o，四声）成立于 2021 年底，是全球最早把外骨骼带入消费市场的公司之一。2024 年 12 月，极壳第...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/369478" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-10"&gt;
- &lt;div class="topic-title"&gt;影响了两代人后，Meta 被判赔 180 亿美元&lt;/div&gt;
+ &lt;div class="topic-title"&gt;世界模型进入下半场：自变量 WALL-SS 突破三大瓶颈，让虚拟世界成为机器人的「训练场」&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-作者｜桦林舞王
-编辑｜靖宇
 
-1998 年，美国 46 个州的检察长联手起诉四大烟草巨头，最终以 2060 亿美元的天价和解收场。
-那场诉讼不仅让烟草公司付出了巨额赔偿，更从根本上改变了一个行业的运行规则&amp;amp;mdash;&amp;amp;mdash;禁止向未成年人投放广告、禁止用卡通形象推销香烟、在产品包装上强制印刷健康警告。此后，美国的吸烟率几乎减半。
-28 年后，同样的剧本，换了主角。
-当地时间 8 月 26...&lt;/div&gt;
+机器人世界模型的下一场竞争，可能不是画质，是架构。
+
+作者｜Li Yuan
+编辑｜郑玄
+
+一只机械臂的夹爪明明没有夹住杯子，杯子却像被磁铁吸住一样，跟着夹爪升了起来。这个看似荒诞的问题，正在困扰机器人世界模型，业内甚至将其称为「磁铁式抓取」。
+视频生成模型只要让画面看起来合理，就算完成任务；但世界模型不能只追求「像真的」。机器人训练数据大多来自成功演示，模型容易形成捷径：与其理解动作的细微差别...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/369463" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/369508" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-08-27-82347fe8</guid>
-      <pubDate>Thu, 27 Aug 2026 22:53:15 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-08-28-de0797d3</guid>
+      <pubDate>Fri, 28 Aug 2026 23:48:40 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

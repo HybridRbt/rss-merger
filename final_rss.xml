@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-08-30</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-08-31</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 30 Aug 2026 17:36:27 +0800</lastBuildDate>
-    <pubDate>Sun, 30 Aug 2026 17:36:27 +0800</pubDate>
+    <lastBuildDate>Mon, 31 Aug 2026 18:17:54 +0800</lastBuildDate>
+    <pubDate>Mon, 31 Aug 2026 18:17:54 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-08-30</title>
+      <title>每日科技新闻聚合 - 2026-08-31</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-08-30&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-08-31&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,33 +37,76 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-08-30&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年08月30日 17:36:27 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-08-31&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年08月31日 18:17:54 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;OpenAI 终止与 Cursor 合作；雷军：2600名小米车主行程超 10 万公里；华纳与索尼起...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;399 美元的小黄鸭，藏着 Hugging Face 最大的野心 (5篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;OpenAI 内部，AI 建立了三代「文明」 (3篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;早报｜库克明日卸任苹果CEO/长鑫LPDDR6量产,小米首发搭载/官方回应建议取消ETC设备&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-4"&gt;AirPods 5 或将于 9 月发布；17.6 万，特斯拉港澳车型降价；「网抑云」登陆鸿蒙系统｜极...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;OpenAI 终止与 Cursor 合作；雷军：2600名小米车主行程超 10 万公里；华纳与索尼起诉 Anthropic，索赔数十亿美元&lt;/div&gt;
+ &lt;div class="topic-title"&gt;399 美元的小黄鸭，藏着 Hugging Face 最大的野心&lt;/div&gt;
+ &lt;div class="topic-content"&gt;作者｜ 宇航猿 
+编辑｜ 靖宇
+很少有机器人，能让你第一眼就笑出来。
+8 月 27 日，Hugging Face 旗下的 Pollen Robotics，开放了 Microduck 的预购。
+一只 25 厘米高、不到 800 克重的双足机器鸭，四种配色，399 美元，圣诞节前发货。它能走路，能蹲下再站起来，被推倒了自己翻身，甚至能踩上一对可拆卸的轮滑鞋溜冰。嘴巴是铰接式的，低头叼起地上的袜子或马克...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了5篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1677413?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1677378?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1677398?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 3&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-2"&gt;
+ &lt;div class="topic-title"&gt;OpenAI 内部，AI 建立了三代「文明」&lt;/div&gt;
+ &lt;div class="topic-content"&gt;作者｜Wildcard
+编辑｜靖宇
+&amp;amp;nbsp;
+无数的科幻电影，都曾经尝试设想过，一个无法控制的人工智能失控，会发生什么事。
+没有人能想到，科幻电影中的未来，会这么快到来。
+当地时间 8 月 26 日，两份报告同时投下了一颗炸弹。
+一份来自 OpenAI 自己，37 页的技术复盘。另一份来自独立研究机构 METR 和 Redwood Research，91 页的调查报告。
+它们讲的是同一件事，但...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园 (合并了3篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="http://www.geekpark.net/news/369610" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/369609" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/369517" target="_blank"&gt;阅读原文 3&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;h2&gt;📰 其他新闻&lt;/h2&gt;
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;早报｜库克明日卸任苹果CEO/长鑫LPDDR6量产,小米首发搭载/官方回应建议取消ETC设备&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· Codex 修复 8 类额度异常，最高可多用 50%
+· 乔布斯八年级科学展项目以 34375 美元成交
+· 曝小米测试智能防窥屏，可按应用和敏感页面自动启用#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1677344?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-4"&gt;
+ &lt;div class="topic-title"&gt;AirPods 5 或将于 9 月发布；17.6 万，特斯拉港澳车型降价；「网抑云」登陆鸿蒙系统｜极客早知道&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-OpenAI 终止与 Cursor 合作
-8 月 29 日消息，OpenAI 以「无法信任 SpaceX 遵守服务条款」为由，终止向已被 SpaceX 收购的 AI 编程工具 Cursor 提供模型支持。Cursor 对 OpenAI 模型的直接访问权限将于 11 月 12 日终止。
-
-OpenAI 在其官方网站发布的公告中明确表示，终止合作的决定「归根结底在于信任问题」。
-OpenAI 列举了...&lt;/div&gt;
+SK 海力士 CEO：内存短缺或将持续至 2030 年
+SK 海力士预计，当前的内存短缺局面可能会持续到 2030 年底，市场目前尚未出现明显的需求放缓迹象。SK 海力士首席执行官郭鲁勋在公司位于美国印第安纳州的新封装工厂奠基仪式后表示，即使未来市场开始降温，也更可能表现为供应紧张状况逐步缓解，而不是像过去那样出现内存价格突然崩跌的情况。
+该公司此前曾预计，面向普通市场的 DRAM 供应紧张将持...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/369551" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/369559" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-08-30-6167ab93</guid>
-      <pubDate>Sun, 30 Aug 2026 17:36:27 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-08-31-08df6d4f</guid>
+      <pubDate>Mon, 31 Aug 2026 18:17:54 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

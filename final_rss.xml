@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-08-31</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-09-01</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 31 Aug 2026 18:17:54 +0800</lastBuildDate>
-    <pubDate>Mon, 31 Aug 2026 18:17:54 +0800</pubDate>
+    <lastBuildDate>Tue, 01 Sep 2026 17:01:58 +0800</lastBuildDate>
+    <pubDate>Tue, 01 Sep 2026 17:01:58 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-08-31</title>
+      <title>每日科技新闻聚合 - 2026-09-01</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-08-31&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-09-01&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,76 +37,53 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-08-31&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年08月31日 18:17:54 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-09-01&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年09月01日 17:01:58 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;399 美元的小黄鸭，藏着 Hugging Face 最大的野心 (5篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;OpenAI 内部，AI 建立了三代「文明」 (3篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;早报｜库克明日卸任苹果CEO/长鑫LPDDR6量产,小米首发搭载/官方回应建议取消ETC设备&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-4"&gt;AirPods 5 或将于 9 月发布；17.6 万，特斯拉港澳车型降价；「网抑云」登陆鸿蒙系统｜极...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;像素级抄袭小米？13 万的极狐阿尔法 T7 边翻车边庆功&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜库克卸任苹果CEO,内部告别信曝光/《牛来》密钥延期,冲刺国庆档/网易云音乐鸿蒙版开放测试&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;库克告别苹果 CEO；罗永浩官宣年底科技大会；华为、小米、荣耀手机今日集体调价｜极客早知道&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
- &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;399 美元的小黄鸭，藏着 Hugging Face 最大的野心&lt;/div&gt;
- &lt;div class="topic-content"&gt;作者｜ 宇航猿 
-编辑｜ 靖宇
-很少有机器人，能让你第一眼就笑出来。
-8 月 27 日，Hugging Face 旗下的 Pollen Robotics，开放了 Microduck 的预购。
-一只 25 厘米高、不到 800 克重的双足机器鸭，四种配色，399 美元，圣诞节前发货。它能走路，能蹲下再站起来，被推倒了自己翻身，甚至能踩上一对可拆卸的轮滑鞋溜冰。嘴巴是铰接式的，低头叼起地上的袜子或马克...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了5篇相关文章)&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1677413?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1677378?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1677398?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 3&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;OpenAI 内部，AI 建立了三代「文明」&lt;/div&gt;
- &lt;div class="topic-content"&gt;作者｜Wildcard
-编辑｜靖宇
-&amp;amp;nbsp;
-无数的科幻电影，都曾经尝试设想过，一个无法控制的人工智能失控，会发生什么事。
-没有人能想到，科幻电影中的未来，会这么快到来。
-当地时间 8 月 26 日，两份报告同时投下了一颗炸弹。
-一份来自 OpenAI 自己，37 页的技术复盘。另一份来自独立研究机构 METR 和 Redwood Research，91 页的调查报告。
-它们讲的是同一件事，但...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园 (合并了3篇相关文章)&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/369610" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/369609" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/369517" target="_blank"&gt;阅读原文 3&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;早报｜库克明日卸任苹果CEO/长鑫LPDDR6量产,小米首发搭载/官方回应建议取消ETC设备&lt;/div&gt;
- &lt;div class="topic-content"&gt;· Codex 修复 8 类额度异常，最高可多用 50%
-· 乔布斯八年级科学展项目以 34375 美元成交
-· 曝小米测试智能防窥屏，可按应用和敏感页面自动启用#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic" id="topic-4"&gt;
+ &lt;div class="topic-title"&gt;像素级抄袭小米？13 万的极狐阿尔法 T7 边翻车边庆功&lt;/div&gt;
+ &lt;div class="topic-content"&gt;骗骗大伙儿可以，别把自己骗了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1677344?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1677538?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
- &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;AirPods 5 或将于 9 月发布；17.6 万，特斯拉港澳车型降价；「网抑云」登陆鸿蒙系统｜极客早知道&lt;/div&gt;
- &lt;div class="topic-content"&gt;
-SK 海力士 CEO：内存短缺或将持续至 2030 年
-SK 海力士预计，当前的内存短缺局面可能会持续到 2030 年底，市场目前尚未出现明显的需求放缓迹象。SK 海力士首席执行官郭鲁勋在公司位于美国印第安纳州的新封装工厂奠基仪式后表示，即使未来市场开始降温，也更可能表现为供应紧张状况逐步缓解，而不是像过去那样出现内存价格突然崩跌的情况。
-该公司此前曾预计，面向普通市场的 DRAM 供应紧张将持...&lt;/div&gt;
+ &lt;div class="topic" id="topic-5"&gt;
+ &lt;div class="topic-title"&gt;早报｜库克卸任苹果CEO,内部告别信曝光/《牛来》密钥延期,冲刺国庆档/网易云音乐鸿蒙版开放测试&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· Codex 活跃用户增至 2500 万，OpenAI 再次重置付费用户额度
+· 小米澎程 N90 Max 京沪实测 1230 公里，到达后表显还剩 54 公里
+· 小红书小范围内测「发日常」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1677753?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-6"&gt;
+ &lt;div class="topic-title"&gt;库克告别苹果 CEO；罗永浩官宣年底科技大会；华为、小米、荣耀手机今日集体调价｜极客早知道&lt;/div&gt;
+ &lt;div class="topic-content"&gt;&amp;amp;nbsp;
+
+库克发文告别苹果 CEO 一职：头衔会变，但对 Apple 社区的热爱永远不会改变
+9 月 1 日消息，现任苹果硬件工程高级副总裁约翰 &amp;amp;middot; 特努斯将于当地时间 9 月 1 日正式接任苹果首席执行官。届时，蒂姆 &amp;amp;middot; 库克将出任苹果董事会执行董事长。
+蒂姆 &amp;amp;middot; 库克在担任苹果 CEO 的最后一天，发文告别了这一职位：
+在担任 Apple CEO...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/369559" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/369634" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-08-31-08df6d4f</guid>
-      <pubDate>Mon, 31 Aug 2026 18:17:54 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-09-01-4422f377</guid>
+      <pubDate>Tue, 01 Sep 2026 17:01:58 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

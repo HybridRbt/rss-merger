@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-09-08</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-09-09</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 08 Sep 2026 16:27:22 +0800</lastBuildDate>
-    <pubDate>Tue, 08 Sep 2026 16:27:22 +0800</pubDate>
+    <lastBuildDate>Wed, 09 Sep 2026 16:30:03 +0800</lastBuildDate>
+    <pubDate>Wed, 09 Sep 2026 16:30:03 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-09-08</title>
+      <title>每日科技新闻聚合 - 2026-09-09</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-09-08&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-09-09&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,91 +37,66 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-09-08&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年09月08日 16:27:22 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-09-09&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年09月09日 16:30:03 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下... (2篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;传字节开发实时空间视频生成模型，张一鸣亲自督导；微信内测「AI 社交」功能；华为小米同天发布折叠屏手... (3篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;手机影像的下半场，是成就作品&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-4"&gt;敢卖一万元的小米手机，底气在哪里｜小米 18 Fold 评测&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-5"&gt;IFA 2026 现场：下一代穿戴设备的本质，是把录音笔和摄像头戴在身上&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;办公 Agent 大乱战，新势力TeleAgent 凭什么坐上牌桌&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜库克看到华为三星后，推动苹果加速研发折叠屏iPhone/小米中折叠「卖爆了」，首销增长310%...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;千问办公发布多人工作台，重写企业软件的最后一公里&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-4"&gt;折叠屏 iPhone 初期产量受限，每日仅数百部；环比增长 379%，腾讯 HY4 登顶全球大模型调...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;h2&gt;🔥 主要话题&lt;/h2&gt;
- &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下周三&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 苹果换帅后重整 App Store 与发布会，Schiller 退居特别项目
-· 字节跳动锁定 296 亿美元贷款，近 30 家银行参与
-· 机构：全球折叠屏手机累计出货量年内将突破 1 亿部#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1679179?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1676969?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;传字节开发实时空间视频生成模型，张一鸣亲自督导；微信内测「AI 社交」功能；华为小米同天发布折叠屏手机&lt;/div&gt;
- &lt;div class="topic-content"&gt;
-消息称字节正开发实时空间视频生成 AI 模型：张一鸣亲自督导，最快下个月发布
-9 月 7 日消息，据彭博社报道，字节跳动正准备推出一款实时空间视频生成 AI 模型。创始人张一鸣正亲自督导这款新模型的研发工作，该模型计划最早于下月发布。
-知情人士透露，张一鸣近期一直在协调公司各业务部门的协作，并调动 AI 资源及算力全力推进该项目。其中一位知情人士指出，发布时间尚未最终确定，计划仍可能发生变动。
-...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了3篇相关文章)&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1679104?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/370006" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/369965" target="_blank"&gt;阅读原文 3&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;手机影像的下半场，是成就作品&lt;/div&gt;
- &lt;div class="topic-content"&gt;即将在 9 月 21 日 亮相的 vivo X500 系列，核心便是试图打破这一桎梏。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1679038?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;敢卖一万元的小米手机，底气在哪里｜小米 18 Fold 评测&lt;/div&gt;
- &lt;div class="topic-content"&gt;玄戒很好，但不能全靠玄戒#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1678982?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
  &lt;div class="topic" id="topic-5"&gt;
- &lt;div class="topic-title"&gt;IFA 2026 现场：下一代穿戴设备的本质，是把录音笔和摄像头戴在身上&lt;/div&gt;
+ &lt;div class="topic-title"&gt;办公 Agent 大乱战，新势力TeleAgent 凭什么坐上牌桌&lt;/div&gt;
+ &lt;div class="topic-content"&gt;谁能成为真正的「国民级AI 办公助理」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1679152?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-6"&gt;
+ &lt;div class="topic-title"&gt;早报｜库克看到华为三星后，推动苹果加速研发折叠屏iPhone/小米中折叠「卖爆了」，首销增长310%​/《旅行青蛙・中国之旅》12月8日停运&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· DeepSeek 内测 V4.1 Flash
+· 两部门要求车企定期报告供应商账期，重点企业每年接受评估
+· 曝微信 PC 版接入 AI 助手「小微」，可操作聊天与小程序#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1678959?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-7"&gt;
+ &lt;div class="topic-title"&gt;千问办公发布多人工作台，重写企业软件的最后一公里&lt;/div&gt;
  &lt;div class="topic-content"&gt;
+作者｜Cynthia
+编辑｜郑玄
 
-本文转载自 Hardwire，欢迎关注，共同看见硬件行业新风向 👇
-
-
-
-
-
-
-&amp;amp;nbsp;
-
-屏幕消失不是做减法，是把「显示」换成了「采集」。
-作者｜张勇毅
-编辑｜靖宇
-&amp;amp;nbsp;
-
-
-IFA 开幕前一天，小米在柏林把手环 11 端了出来。还是 1.72 英寸的屏幕，亮度从上一代的 1500 尼特提到 2000 尼特，国内 289 元起，9 月 7 日首售。官方通稿的第一个卖点，就是这块屏...&lt;/div&gt;
+2026 年 2 月 3 日，由 Anthropic 带头，华尔街替 SaaS 写好了讣告。
+几天前，Anthropic 正式官宣把 Claude Cowork 的插件能力扩展到法律、销售、金融等知识工作。与普通聊天机器人不同，这些插件可以携带部门工作流、调用外部工具和数据，并按照预设规则完成一段具体工作。
+市场很快把这种能力翻译成了另一个词：替代。2 月 3...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/370007" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/370061" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-8"&gt;
+ &lt;div class="topic-title"&gt;折叠屏 iPhone 初期产量受限，每日仅数百部；环比增长 379%，腾讯 HY4 登顶全球大模型调用榜；特斯拉时隔 19 个月再降价｜极客早知道&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+消息称苹果折叠屏 iPhone 初期产量受限，每日仅数百部
+9 月 8 日，据日经中文网报道，根据多位知情人士指出，市场期待已久的首部苹果折叠 iPhone，由于苹果极为严格的质量管控标准，初期生产量每天仅有「数百部」，而苹果及其供货商正全力加快产量爬坡。
+熟悉情况的供应链主管向《日经亚洲》透露：「苹果设定了极高的质量标准，在正式量产之前，8 月又追加了一轮试产」。该人员表示：「截至 8 月下旬...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="http://www.geekpark.net/news/370026" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-09-08-cf0f8a6d</guid>
-      <pubDate>Tue, 08 Sep 2026 16:27:22 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-09-09-76a7a00b</guid>
+      <pubDate>Wed, 09 Sep 2026 16:30:03 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-09-14</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-09-15</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 14 Sep 2026 17:24:58 +0800</lastBuildDate>
-    <pubDate>Mon, 14 Sep 2026 17:24:58 +0800</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 17:05:10 +0800</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2026 17:05:10 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-09-14</title>
+      <title>每日科技新闻聚合 - 2026-09-15</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-09-14&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-09-15&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,49 +37,54 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-09-14&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年09月14日 17:24:58 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-09-15&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年09月15日 17:05:10 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;专访爆火「机器鸭」背后的硬件推手：这是个信号，未来推动新故事的并非硬件 (3篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西 (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;给 AI 发外设，戴森派摄像头进嘴、绿联给充电宝开了扇窗 (4篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;早报｜iOS27正式推送/比亚迪高管：燃油车在中国没有未来/iPhone 18 Pro渠道降价900...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;专访爆火「机器鸭」背后的硬件推手：这是个信号，未来推动新故事的并非硬件&lt;/div&gt;
- &lt;div class="topic-content"&gt;
-最近这两周，一只「机器鸭」在 X 上刷屏了。
-这只叫 Microduck 的机器鸭，由 Hugging Face 旗下的 Pollen Robotics 设计，售价 399 美元。高峰期平均每 4 秒卖出一台，五天后预售破万台，销售额突破 500 万美元，目前订单已经排到明年。
-
-
-
-
-
-它火了，火出了科技圈，还可能会刷新消费级机器人出货纪录。
-而这只全球爆款，由深圳制造，工程化公司是潘昊创办的...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了3篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-title"&gt;iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西&lt;/div&gt;
+ &lt;div class="topic-content"&gt;值得升级。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1679983?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1679930?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/370269" target="_blank"&gt;阅读原文 3&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1680138?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1680134?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-2"&gt;
+ &lt;div class="topic-title"&gt;给 AI 发外设，戴森派摄像头进嘴、绿联给充电宝开了扇窗&lt;/div&gt;
+ &lt;div class="topic-content"&gt;AI 正在把所有硬件重新做一遍，这句话说了三年，这周轮到了一把牙刷。
+今天，IFA 柏林开展，一千九百个品牌都在不同角度展示自己的创新力，连戴森都掏出了一款牙刷来告诉行业，我也能用 AI 玩出花样，牙刷 Dyson CameraJe 刷头下藏着一颗 1 毫米的摄像头，每秒盯着你哪颗牙没刷干净。联想打造了个人智能体 Qira，横跨着电脑、手机、手表等多设备生态。你在哪里，智能体跟随服务到哪里。
+我们...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园 (合并了4篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="http://www.geekpark.net/news/370345" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/370328" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/370325" target="_blank"&gt;阅读原文 3&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner&lt;/div&gt;
- &lt;div class="topic-content"&gt;最近，爱范儿在上海见到了应用材料公司副总裁兼光子平台事业部总经理Paul Meissner，并体验了现场展示的多款智能眼镜技术样品#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;早报｜iOS27正式推送/比亚迪高管：燃油车在中国没有未来/iPhone 18 Pro渠道降价900元，苹果称不干预&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 广汽一汽签署重组意向协议，一汽拟成第二大股东
+· 中国地震台网中心：正与苹果沟通 iOS 地震预警
+· 马斯克旗下公司撤回对苹果的反垄断诉讼，继续起诉 OpenAI#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1679952?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1680097?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-09-14-ce4f5baa</guid>
-      <pubDate>Mon, 14 Sep 2026 17:24:58 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-09-15-f9f0b181</guid>
+      <pubDate>Tue, 15 Sep 2026 17:05:10 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

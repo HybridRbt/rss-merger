@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-09-21</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-09-22</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 21 Sep 2026 17:27:21 +0800</lastBuildDate>
-    <pubDate>Mon, 21 Sep 2026 17:27:21 +0800</pubDate>
+    <lastBuildDate>Tue, 22 Sep 2026 16:55:15 +0800</lastBuildDate>
+    <pubDate>Tue, 22 Sep 2026 16:55:15 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-09-21</title>
+      <title>每日科技新闻聚合 - 2026-09-22</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-09-21&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-09-22&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,69 +37,44 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-09-21&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年09月21日 17:27:21 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-09-22&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年09月22日 16:55:15 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;Figure AI 宣称找到了机器人版 scaling law，同行却说它其实根本不会泛化 (4篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;GPT-6 伤人实测曝光：刺向「婴儿」、制造毒气，97% 情况选择照做&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;早报｜特努斯：iPhone Duo是乔布斯理念体现/小米18 Pro确认涨价/西贝否认倒闭传闻&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-4"&gt;对话桥介数物：机器人运动的下一步是让任何机器人半小时内学会跳特定的舞&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;黄仁勋：AI 时代，企业应该尽可能多付薪酬；宇树科技发布 Dex5-S 灵巧手；OpenAI 新模型... (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜曝iPhone Duo量产初期良率仅过六成/小米18 Pro加入硬件级防窥/OpenAI新模型...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;Figure AI 宣称找到了机器人版 scaling law，同行却说它其实根本不会泛化&lt;/div&gt;
+ &lt;div class="topic-title"&gt;黄仁勋：AI 时代，企业应该尽可能多付薪酬；宇树科技发布 Dex5-S 灵巧手；OpenAI 新模型 24 天解决 100+ 世界级数学难题 | 极客早知道&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-
-
-
-作者｜Li Yuan
-
-390 亿美元的 Figure AI 已经把机器人送进 30 个陌生家庭，同行却说失败一半还谈不上会干活
-「这是 Figure AI 成立以来最重要的项目。」
-在 Helix 2.5 的发布视频里，Figure AI 创始人 Brett Adcock 把话说得很满。
-Figure AI 目前估值达到 390 亿美元，是全球最贵的未上市人形机器人公司，致力于以人形完成...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了4篇相关文章)&lt;/div&gt;
+消息称华为 Mate 90 系列年度旗舰手机将在 9 月 29 日发布
+9 月 21 日消息，昨日早些时候，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东刚刚宣布，智界 RX 及鸿蒙智行新品发布会定档 9 月 28 日 14:30 举行。
+根据此前爆料，华为 Mate 90 系列手机也将在本月发布，但遗憾的是，今天华为并未官宣这款年度旗舰的发布会时间。但博主 @熠熠玩数码 透露，...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园 (合并了2篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1681265?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1681181?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/370607" target="_blank"&gt;阅读原文 3&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/370797" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/370768" target="_blank"&gt;阅读原文 2&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
  &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;GPT-6 伤人实测曝光：刺向「婴儿」、制造毒气，97% 情况选择照做&lt;/div&gt;
- &lt;div class="topic-content"&gt;当大模型开始拥有一双真实的手#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-title"&gt;早报｜曝iPhone Duo量产初期良率仅过六成/小米18 Pro加入硬件级防窥/OpenAI新模型24天攻克百道数学未解难题&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· Omdia：今年全球智能手机出货量预计下降 12%
+· ZCode 官宣开源、公开数据安全整改结果
+· 西贝贾国龙呼吁规范高流量账号#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1681070?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;早报｜特努斯：iPhone Duo是乔布斯理念体现/小米18 Pro确认涨价/西贝否认倒闭传闻&lt;/div&gt;
- &lt;div class="topic-content"&gt;· Google Gemini 安全测试越界，误攻 3 家真实企业
-· 长鑫存储 G5 DRAM 平台量产，单片晶圆裸片数提升至少 50%
-· 智谱 MaaS 平台将上线数据内容不留存机制#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1681049?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;对话桥介数物：机器人运动的下一步是让任何机器人半小时内学会跳特定的舞&lt;/div&gt;
- &lt;div class="topic-content"&gt;具身智能现在太吵了。行业里的人各自笃定，声音大的先被听见。最响的那些声音，往往离真实的进展最远。真正在往前推的人，看的是谁在践行非共识，什么在真的往前走，以及谁心里有一张完整的图，而不是走一步看一步。这些东西不会上热搜，但它们决定这个行业的下一步。我们一直探寻这些。如果你也是——欢迎来到极客公园 In The Loop。👇作者｜Li Yuan8 月，具身智能圈最热闹的一件事是宇树机器人上市。对大多...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/370717" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1679313?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-09-21-a2bd0075</guid>
-      <pubDate>Mon, 21 Sep 2026 17:27:21 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-09-22-f5a59823</guid>
+      <pubDate>Tue, 22 Sep 2026 16:55:15 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

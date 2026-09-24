@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-09-23</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-09-24</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 23 Sep 2026 16:57:38 +0800</lastBuildDate>
-    <pubDate>Wed, 23 Sep 2026 16:57:38 +0800</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 16:53:14 +0800</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 16:53:14 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-09-23</title>
+      <title>每日科技新闻聚合 - 2026-09-24</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-09-23&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-09-24&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,79 +37,56 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-09-23&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年09月23日 16:57:38 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-09-24&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年09月24日 16:53:14 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;OpenAI 发布 GPT-6 Sol 和 Luna；传字节跳动豆包收缩对话团队；千问发布 AI 手... (2篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;从单卡到千卡互联，平头哥真武 V900 背后的 AI 算力变局 (3篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;制糖工厂发布小电拼 Core：四口全 AVS，开启超快补能，小巧随行&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-4"&gt;Claude 5.5 发布，性能直逼 Fable，还要卷价格&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-5"&gt;⁡⁤‬‍⁤‬​‌‍⁢⁡⁢⁣‌‌﻿⁡⁡​⁤​​﻿⁢⁡‬⁡‬​‍⁣​​﻿⁤⁡‍​⁡‬‌‬⁣⁡⁣​⁡‬⁤刚...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜iOS27测试版新功能可阻止摇一摇广告/5999起，小米18 Pro发布/宾利发布首款纯电车T... (2篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;OpenAI CEO : AI 可能带来工业革命式动荡；Anthropic 宣布成立生命科学团队和实... (5篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;智能手表的尽头是「做减法」：小团队如何用「几秒钟」抢占穿戴新蓝海？&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;OpenAI 发布 GPT-6 Sol 和 Luna；传字节跳动豆包收缩对话团队；千问发布 AI 手机全栈解决方案 | 极客早知道&lt;/div&gt;
- &lt;div class="topic-content"&gt;
-OpenAI 发布 GPT-6 Sol 和 Luna 模型，API 价格大降 50%
-9 月 23 日消息，OpenAI 今日发布 GPT-6 系列模型的最新成员 GPT-6 Sol 和 GPT-6 Luna。
-OpenAI 官方表示，两款模型采用与 GPT-6 Astra 类似的方法进行训练，将 Astra 在专业工作、事实性、编码、计算机使用和对齐等方面最先进的性能带入更快、更经济的模型。
-...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了2篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-title"&gt;早报｜iOS27测试版新功能可阻止摇一摇广告/5999起，小米18 Pro发布/宾利发布首款纯电车Torcal，888马力&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· DeepSeek 发新论文，公开 Agent 训练沙箱 DSec
+· 蔚来 ES9 交付达 3 万台，用时 119 天
+· iPhone 18 Pro 用户反映夜景照片出现「绿影」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了2篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1681566?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/370829" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1682002?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1681909?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;从单卡到千卡互联，平头哥真武 V900 背后的 AI 算力变局&lt;/div&gt;
- &lt;div class="topic-content"&gt;作者｜Cynthia
-编辑｜郑玄
-9 月 22 日的 2026 杭州云栖大会，平头哥少见地被完整推到了主论坛台前。
-当天上午，吴泳铭完成主旨演讲后，千问大模型、多模态模型负责人依次登场，随后就是平头哥副总裁高慧。她的演讲题目是「Agentic 时代卓越算力基石」。
-平头哥带来的产品，则从一颗最新得真武 V900 芯片，一直延伸到 ICN Switch 互联芯片、磐脉智能网卡、镇岳 SSD 主控、倚...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园 (合并了3篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-title"&gt;OpenAI CEO : AI 可能带来工业革命式动荡；Anthropic 宣布成立生命科学团队和实验室；腾讯 QClaw 宣布将停运&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+
+已证实首例：澳大利亚政府网站遭 OpenAI 智能体入侵
+9 月 23 日，据路透社报道，澳大利亚总理安东尼 &amp;amp;middot; 阿尔巴尼斯（Anthony Albanese）表示，OpenAI 开发的一款 AI 智能体在 6 月未经授权侵入了澳大利亚政府网站，访问了公共和非公共文件。这是已知的首例 AI 入侵政府网站事件。
+这起入侵事件将成为美国以外最引人注目的 AI 智能体访问外部系统的事件...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了5篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/370883" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/370865" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/370864" target="_blank"&gt;阅读原文 3&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1682048?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1681946?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1681928?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 3&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
  &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;制糖工厂发布小电拼 Core：四口全 AVS，开启超快补能，小巧随行&lt;/div&gt;
- &lt;div class="topic-content"&gt;制糖工厂 CANDYSIGN 推出全新 小电拼 Core。
-160 W · AVS × 4 · 自由流® · 4C1A 五口满配。
-一颗掌心大小的充电器，装下五个接口；其中四个 C 口，个个支持 AVS。再叠加自由流®动态功率复用，让多设备同时充电不只是「接口更多」，而是让功率能够更快流向真正需要它的设备。
-这一次，小电拼把「多设备充电」进一步做小，也进一步做快。#欢迎关注爱范儿官方微信公众号：爱...&lt;/div&gt;
+ &lt;div class="topic-title"&gt;智能手表的尽头是「做减法」：小团队如何用「几秒钟」抢占穿戴新蓝海？&lt;/div&gt;
+ &lt;div class="topic-content"&gt;在手腕上，把「小需求」做到极致#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1681696?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;Claude 5.5 发布，性能直逼 Fable，还要卷价格&lt;/div&gt;
- &lt;div class="topic-content"&gt;最卷一夜！ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1681629?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-5"&gt;
- &lt;div class="topic-title"&gt;⁡⁤‬‍⁤‬​‌‍⁢⁡⁢⁣‌‌﻿⁡⁡​⁤​​﻿⁢⁡‬⁡‬​‍⁣​​﻿⁤⁡‍​⁡‬‌‬⁣⁡⁣​⁡‬⁤刚刚，GPT-6 新模型掀桌！「白菜价」杀进 DeepSeek 腹地&lt;/div&gt;
- &lt;div class="topic-content"&gt;DeepSeek 的价格护城河，迎来 OpenAI 的挑战#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1681605?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1681759?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-09-23-5a63f84f</guid>
-      <pubDate>Wed, 23 Sep 2026 16:57:38 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-09-24-320647b3</guid>
+      <pubDate>Thu, 24 Sep 2026 16:53:14 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

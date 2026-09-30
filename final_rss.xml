@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-09-29</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-09-30</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 29 Sep 2026 18:16:23 +0800</lastBuildDate>
-    <pubDate>Tue, 29 Sep 2026 18:16:23 +0800</pubDate>
+    <lastBuildDate>Wed, 30 Sep 2026 18:07:20 +0800</lastBuildDate>
+    <pubDate>Wed, 30 Sep 2026 18:07:20 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-09-29</title>
+      <title>每日科技新闻聚合 - 2026-09-30</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-09-29&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-09-30&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,72 +37,63 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-09-29&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年09月29日 18:16:23 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-09-30&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年09月30日 18:07:20 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;AMD 82 亿美元收购李飞飞 AI 创业公司；Manus 推出个人 AI 助手 CUE；今年低价手... (8篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;早报｜苹果修复iPhone 18 Pro面容ID卡死重启/AMD收购李飞飞世界模型/智界RX上市，余...&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;三个月，5000 人：拼多多在这里搭起一座新业务基地&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-4"&gt;Manus 正式发布 2.0！个人 AI 助手、云电脑、远程控制，Manus 想做 AI 时代全家桶&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;OpenAI 推出个人 AI 智能体 dots；传豆包将推个人 AI 产品「Spell」；Space... (3篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;问界新 M8 预售 38.98 万元，自行主导后，赛力斯迎来第一场实战&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;宝马新一代 3 系亮相！内外全换新，顶配还有 3.0T 六缸&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-4"&gt;早报｜曝苹果新CEO想更快发产品/华为Mate 90真机进店/GPT‑6.1 Sol推出，价格仅As...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;AMD 82 亿美元收购李飞飞 AI 创业公司；Manus 推出个人 AI 助手 CUE；今年低价手机将减少 2.3 亿部｜极客早知道&lt;/div&gt;
+ &lt;div class="topic-title"&gt;OpenAI 推出个人 AI 智能体 dots；传豆包将推个人 AI 产品「Spell」；SpaceX 发射星舰成功入轨 | 极客早知道&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-Manus 发布 2.0，新增云电脑、远程控制及个人 AI 助手 Cue
-9 月 28 日，Manus 发布 2.0 版本，升级自研 Cascade Agent 框架，并推出云电脑、视频编辑、游戏开发及个人 AI 助手 Cue。据官方数据，新框架可使任务 Token 消耗减少 23.2%、完成时间缩短 28.2%、运行成本降低 32%。
-升级后的 Manus Studio 支持文档、表格、网站和...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了8篇相关文章)&lt;/div&gt;
+OpenAI 开发者大会推出智能体 dots，重构会员定价，意图打造 AI 超级入口
+北京时间 9 月 30 日凌晨，OpenAI 举办其宣称规模最大的一届开发者大会，一次性发布 25 项更新，覆盖新模型、API、智能体、插件生态与企业软件市场。大会现场，Sam Altman 公布 ChatGPT Pro 会员调整方案时台下一片沉寂，套餐调价成为本次发布最受争议的内容。
+会员体系重新划分档位：原...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了3篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1682401?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1682462?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1682291?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 3&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1682644?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1682571?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/372005" target="_blank"&gt;阅读原文 3&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
  &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;早报｜苹果修复iPhone 18 Pro面容ID卡死重启/AMD收购李飞飞世界模型/智界RX上市，余承东：鸿蒙智行「最好开的车」&lt;/div&gt;
- &lt;div class="topic-content"&gt;· Anthropic 发布 Claude Sonnet 5.5，称生成速度提升逾三成
-· 星舰首次进入地球轨道，部署 26 颗 Starlink V3 卫星
-· Counterpoint：2030 年低于 200 美元的手机年出货量或减少逾 2.3 亿部#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-title"&gt;问界新 M8 预售 38.98 万元，自行主导后，赛力斯迎来第一场实战&lt;/div&gt;
+ &lt;div class="topic-content"&gt;赛力斯有一场持久战要打。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1682292?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1682703?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;三个月，5000 人：拼多多在这里搭起一座新业务基地&lt;/div&gt;
- &lt;div class="topic-content"&gt;互联网大厂很久没有如此密集地在线下招人了。
-今年 5 月底，拼多多正式进入雄安。三个多月后，这家公司的雄安团队已经超过 5000 人。
-速度甚至比原来的计划更快。按照拼多多披露的信息，其雄安公司已经提前完成年度专项招聘计划，新办公楼和员工食堂也陆续投入使用。
-5000 人是什么概念？
-在今天的互联网大厂，这已经不是一个普通区域办公室的规模。尤其是在互联网公司普遍强调降本增效、控制人员扩张的背景下，...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+ &lt;div class="topic-title"&gt;宝马新一代 3 系亮相！内外全换新，顶配还有 3.0T 六缸&lt;/div&gt;
+ &lt;div class="topic-content"&gt;3 系迈向「新世代」。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/371850" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1682682?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;Manus 正式发布 2.0！个人 AI 助手、云电脑、远程控制，Manus 想做 AI 时代全家桶&lt;/div&gt;
- &lt;div class="topic-content"&gt;
-头图来源：Manus
-&amp;amp;nbsp;
-突然地，Manus 在官网和社交平台上公布了 Manus 2.0 版本的更新。
-这并非一次简单的产品迭代，更像是Manus 团队尝试将当下所有最热门的 AI 场景和功能，融合到一个「AI 全家桶中」。
-此次升级中，团队打造的底层 Cascade Agent 框架，能将任务 Token 消耗减少 23.2%，任务完成时间缩短 28.2%，运行成本降低 32%。同...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+ &lt;div class="topic-title"&gt;早报｜曝苹果新CEO想更快发产品/华为Mate 90真机进店/GPT‑6.1 Sol推出，价格仅Astra的五分之一&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· DeepSeek Harness 推出桌面端预览版
+· 特斯拉 Roadster 发布会因天气推迟
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/371493" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1682554?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-09-29-bcf7fbb5</guid>
-      <pubDate>Tue, 29 Sep 2026 18:16:23 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-09-30-333ca4c9</guid>
+      <pubDate>Wed, 30 Sep 2026 18:07:20 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

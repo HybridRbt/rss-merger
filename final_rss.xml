@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-10-09</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-10-10</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 09 Oct 2026 19:02:31 +0800</lastBuildDate>
-    <pubDate>Fri, 09 Oct 2026 19:02:31 +0800</pubDate>
+    <lastBuildDate>Sat, 10 Oct 2026 18:18:22 +0800</lastBuildDate>
+    <pubDate>Sat, 10 Oct 2026 18:18:22 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-10-09</title>
+      <title>每日科技新闻聚合 - 2026-10-10</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-10-09&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-10-10&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,75 +37,65 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-10-09&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年10月09日 19:02:31 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-10-10&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年10月10日 18:18:22 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;我使用国产「个人 AI 助手」的十天｜AI 上新 (5篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;停产一年，宝马带着 iX4 重回溜背市场，海外售价 53 万元起&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;苹果「果家」发布会定档！至少 6 个新品曝光，HomePad 还能挂墙上？&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-4"&gt;早报｜苹果定档10月13日发布新品/三星手机业务或减产30%/保时捷计划削减9000个岗位&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-5"&gt;谷歌云发布 Gemini Agent；Manus 官宣五亿美元融资；小鹏上线 Robotaxi 打车...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;Jev 开发商估值已达 75 亿美元；苹果投资 AI 音频初创；传 OpenAI、Anthropic... (4篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;森海 Momentum 5 真无线降噪耳机体验：升级无线传输与空间音频，它依然是那个正统 「森海味」 (3篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;24 天估值暴涨 37 倍，这就是 AI 圈年度爽文&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-4"&gt;好产品就是与时代和生活共振｜2026 年度极客最爱好物启动&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;我使用国产「个人 AI 助手」的十天｜AI 上新&lt;/div&gt;
- &lt;div class="topic-content"&gt;过去一年，AI 产品越来越想变成一个「人」。
-一边是越来越自动化的 Agent，已经可以直接操作电脑，甚至和其他 AI 互相通信。
-而另一边，是近期大火的「个人助理」式 Personal AI，它不仅要完成眼前的任务，还想记住是谁在提需求：这个人关心什么，手上有哪些没做完的事。
-就在最近一个月里， Meta 推出了 Muse； Manus 推出个人 Agent 应用 Cue； OpenAI 随后发...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了5篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-title"&gt;Jev 开发商估值已达 75 亿美元；苹果投资 AI 音频初创；传 OpenAI、Anthropic 高管私下推演 AI 灾难场景&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+内存等成本压力上升，2027 全球笔记本价格恐继续上涨
+市场调查机构集邦咨询（Trendforce）于 10 月 8 日发布博文，表示如果零部件价格继续维持高位，品牌扩大成本转嫁，终端涨价可能延长用户换机周期，预估 2027 年全球笔记本市场面临出货、价格双重影响。
+在 2026 年第 3 季度以建议零售价 900 美元的主流笔记本为例，其 CPU、内存及 SSD 占物料成本约 68%，品牌面临...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了4篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1683401?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1683385?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1683309?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 3&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1683688?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1683465?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/372195" target="_blank"&gt;阅读原文 3&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-2"&gt;
+ &lt;div class="topic-title"&gt;森海 Momentum 5 真无线降噪耳机体验：升级无线传输与空间音频，它依然是那个正统 「森海味」&lt;/div&gt;
+ &lt;div class="topic-content"&gt;比较喜欢声音表现传统一点、动圈味多一点但不要太强自身风格的用户，森海的 Momentum 5 系列都值得考虑和尝试。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了3篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="https://www.ifanr.com/1683383?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1683596?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1683545?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 3&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;停产一年，宝马带着 iX4 重回溜背市场，海外售价 53 万元起&lt;/div&gt;
- &lt;div class="topic-content"&gt;MAKE 溜背 GREAT AGAIN。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1683421?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
  &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;苹果「果家」发布会定档！至少 6 个新品曝光，HomePad 还能挂墙上？&lt;/div&gt;
- &lt;div class="topic-content"&gt;苹果全家桶的风，还是吹到了客厅。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-title"&gt;24 天估值暴涨 37 倍，这就是 AI 圈年度爽文&lt;/div&gt;
+ &lt;div class="topic-content"&gt;LLM 给人用，这个决策模型给代码用#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1683356?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1683674?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;早报｜苹果定档10月13日发布新品/三星手机业务或减产30%/保时捷计划削减9000个岗位&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 小米澎程上市 30 天锁单超过 7 万台
-· Manus 母公司完成超 5 亿美元新一轮融资
-· 小鹏 Robotaxi 定名「小鹏悠游」，下单小程序同步上线#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1683244?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-5"&gt;
- &lt;div class="topic-title"&gt;谷歌云发布 Gemini Agent；Manus 官宣五亿美元融资；小鹏上线 Robotaxi 打车小程序&lt;/div&gt;
+ &lt;div class="topic-title"&gt;好产品就是与时代和生活共振｜2026 年度极客最爱好物启动&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-谷歌云发布 Gemini Agent，支持多种 AI 模型
-10 月 8 日，谷歌云在 Gemini at Work 2026 发布会上宣布，面向企业客户推出 Gemini 智能体（Gemini Agent）。这款产品定位「通用工作智能体」，支持 Gemini Enterprise 、Workspace 以及第三方服务。
-谷歌表示，Gemini Agent 只需要用户给出目标就能完成工作，支持回...&lt;/div&gt;
+一件好产品，往往是在用过一段时间之后，才让人意识到它的好。出门时顺手带上，遇到事情时首先打开，或者因为有了它，愿意尝试一件过去觉得麻烦的事。这样的产品，值得被分享给更多人。
+2026 年，我们把寻找好产品的目光，投向更丰富的形态。能协助完成任务的 AI 应用、戴在身上的智能设备，以及尝试在真实环境中干活的机器人，都进入了今年的选品视野。技术提供了新的可能，具体的产品体验，决定了人们愿不愿意把它们...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/372143" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/372196" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-10-09-ff31a6aa</guid>
-      <pubDate>Fri, 09 Oct 2026 19:02:31 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-10-10-4195488d</guid>
+      <pubDate>Sat, 10 Oct 2026 18:18:22 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

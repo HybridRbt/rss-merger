@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-10-11</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-10-12</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 11 Oct 2026 18:27:38 +0800</lastBuildDate>
-    <pubDate>Sun, 11 Oct 2026 18:27:38 +0800</pubDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:29:35 +0800</lastBuildDate>
+    <pubDate>Mon, 12 Oct 2026 19:29:35 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-10-11</title>
+      <title>每日科技新闻聚合 - 2026-10-12</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-10-11&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-10-12&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,72 +37,43 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-10-11&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年10月11日 18:27:38 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-10-12&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年10月12日 19:29:35 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;DDR4 内存重出江湖，PC 终于癫成我不认识的样子&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;AMD YES！老哥给老车插上显卡，手搓「真智驾」&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;早报｜曝苹果iPhone Duo加单30%/四部门拟禁全隐藏式车门把手/长鑫首款服务器产品或年底推出&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-4"&gt;12 分钟订单破万，吉利银河战舰 700，要订下新能源越野的新标准&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-5"&gt;马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜我们跟库克聊了聊iPhone Duo/继QClaw后，腾讯再关停一个Agent/SpaceXA...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;尊界：11 月起陆续升级踏板；iPhone 折叠屏国内预约超 200 万；6 个月，超千万 Clau...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-6"&gt;
- &lt;div class="topic-title"&gt;DDR4 内存重出江湖，PC 终于癫成我不认识的样子&lt;/div&gt;
- &lt;div class="topic-content"&gt;买新不如修旧#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;早报｜我们跟库克聊了聊iPhone Duo/继QClaw后，腾讯再关停一个Agent/SpaceXAI改名SpaceXSI&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 曝苹果与 ADT 合作，为家居中枢提供安装服务
+· 蔚来广东换电站达到 500 座，六城同步新增第五代站
+· 苹果 COO 探访郑州工厂，披露 iPhone Duo 屏幕与芯片制造工艺#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1683529?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1683302?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
- &lt;div class="topic" id="topic-7"&gt;
- &lt;div class="topic-title"&gt;AMD YES！老哥给老车插上显卡，手搓「真智驾」&lt;/div&gt;
- &lt;div class="topic-content"&gt;苏妈看了都得愣半天。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1683790?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-8"&gt;
- &lt;div class="topic-title"&gt;早报｜曝苹果iPhone Duo加单30%/四部门拟禁全隐藏式车门把手/长鑫首款服务器产品或年底推出&lt;/div&gt;
- &lt;div class="topic-content"&gt;· 苹果第二期中国清洁能源基金扩容至 2.12 亿美元
-· Netflix 称约 300 部作品已使用 AI，导演谈降本与创作取舍
-· 长鑫披露 4F² 内存架构进展，首款服务器产品预计年底推出#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1683829?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-9"&gt;
- &lt;div class="topic-title"&gt;12 分钟订单破万，吉利银河战舰 700，要订下新能源越野的新标准&lt;/div&gt;
- &lt;div class="topic-content"&gt;&amp;amp;nbsp;
+ &lt;div class="topic" id="topic-4"&gt;
+ &lt;div class="topic-title"&gt;尊界：11 月起陆续升级踏板；iPhone 折叠屏国内预约超 200 万；6 个月，超千万 Claude 账户被封杀｜极客早知道&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+陶哲轩提出「数学 2.0」：AI 解题之外，还要帮助人理解证明
+10 月 11 日，数学家陶哲轩公开了在加州理工学院的演讲《数学 2.0》。他认为，AI 正在降低部分数学问题的求解成本，使数学研究逐渐从「证明稀缺」走向「证明富足」。但目前多数前沿问题仍未解决，不能只凭公开传播的成功案例判断 AI 的整体能力。
 
-图片来源：吉利银河
-「这台车我们造了 5 年，这也是吉利第一次造越野车。」吉利汽车研究院院长李传海说到。
-就在几分钟前，10 月 10 日，吉利银河战舰 700，一台新能源野车正式发布，16.98 万（限时焕新价）起的价格，让这台最高配备三电机四驱，千匹马力，能爬 45&amp;amp;deg; 坡、能应急浮水的越野车，变得十分打动人心。
-
-吉利银河战舰 700 的价格梯度比较大｜图片来源：极客公...&lt;/div&gt;
+陶哲轩指出，得到正确证明，并不意味着研究者理解了证明为何成立，或掌握了可用于其他问题...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/372213" target="_blank"&gt;阅读原文&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-10"&gt;
- &lt;div class="topic-title"&gt;马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手&lt;/div&gt;
- &lt;div class="topic-content"&gt;马斯克豪言 SpaceX 估值超 1000 万亿美元，惨遭拉表打脸近日，马斯克在社交平台大胆预测，SpaceX 未来估值有望突破 1000 万亿美元，体量将远超当前全球经济总量。目前 SpaceX 估值仅约 2.2 万亿美元，而 2025 年全球 GDP 总量约 118 万亿美元，此番极具颠覆性的超高估值言论引发全网热议与质疑。面对这一惊人预测，有网友晒出富国银行证券整理的一张名为「说到做到记录，...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/372216" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/372218" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-10-11-6ee5870b</guid>
-      <pubDate>Sun, 11 Oct 2026 18:27:38 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-10-12-40bbd8a9</guid>
+      <pubDate>Mon, 12 Oct 2026 19:29:35 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

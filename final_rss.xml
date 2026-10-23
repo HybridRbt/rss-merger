@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-10-22</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-10-23</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 22 Oct 2026 17:02:36 +0800</lastBuildDate>
-    <pubDate>Thu, 22 Oct 2026 17:02:36 +0800</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 16:57:45 +0800</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 16:57:45 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-10-22</title>
+      <title>每日科技新闻聚合 - 2026-10-23</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-10-22&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-10-23&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,67 +37,66 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-10-22&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年10月22日 17:02:36 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-10-23&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年10月23日 16:57:45 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;早报｜iPhone Duo限购两台/雷军：汽车没有安全其他都是0/宝马员工争相离职挤崩系统 (4篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;微软员工数十年来首次下降；沃尔玛/山姆推出 Agent 购物接口；推动 SpaceX 和特斯拉合并，... (4篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;被迫下场，Anthropic 推出个人 AI 助理 Claude Duet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-4"&gt;我用 iPhone Duo 刷小红书、淘宝、飞书，发现作用不只是装「阔」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;DeepSeek 据悉完成 1000 亿元新一轮融资；特斯拉三季度利润大跌 43%；微信称已完成适配... (3篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;中国 AI 硬件的下一个爆款，可能生在「网球场」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;硅谷爆火的两万块智能床，是智商税吗？我睡了 100 天&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-4"&gt;造物 100 #10｜百万众筹的和弦合成器、52kHz 超声波去污笔、能打电话的奥特曼 AI 玩具&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;早报｜iPhone Duo限购两台/雷军：汽车没有安全其他都是0/宝马员工争相离职挤崩系统&lt;/div&gt;
- &lt;div class="topic-content"&gt;· PHP 紧急修复两个严重漏洞，攻击者无需登录即可远程执行代码
-· 三星、SK 海力士升级中国工厂，拟转产更高层数 NAND
-· Today AI 累计融资超 2 亿美元，腾讯、蚂蚁等参投#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了4篇相关文章)&lt;/div&gt;
- &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1685489?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1685446?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1685251?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 3&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;微软员工数十年来首次下降；沃尔玛/山姆推出 Agent 购物接口；推动 SpaceX 和特斯拉合并，马斯克财富有望暴涨&lt;/div&gt;
+ &lt;div class="topic-title"&gt;DeepSeek 据悉完成 1000 亿元新一轮融资；特斯拉三季度利润大跌 43%；微信称已完成适配 iPhone Duo | 极客早知道&lt;/div&gt;
  &lt;div class="topic-content"&gt;
-24 小时为你在线打工：Anthropic 推出 Claude Duet AI 智能体，迎战 Meta 和 OpenAI
-10 月 22 日消息，Anthropic 昨日（10 月 21 日）宣布以研究预览版形式，推出全新应用 Claude Duet，定位为可主动工作的 AI 智能体（agent），加入由 Meta 的 Muse、以及 OpenAI 的 Dots 领衔的「全天候主动型 AI 助理...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园 (合并了4篇相关文章)&lt;/div&gt;
+DeepSeek 新一轮融资筹得约 1000 亿
+10 月 22 日，有市场消息称，国内大模型公司 DeepSeek 拟在最新一轮融资中筹得约 1000 亿元人民币 ( 约 150 亿美元 )，腾讯和宁德时代为本轮出资最多的投资方，交易预计在未来数日内正式完成。
+截至目前，DeepSeek 及腾讯等相关投资方均未公开回应。记者从接近公司和投资方的多个信源交叉求证，确认上述消息属实。
+消息人士透露...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了3篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/372746" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/372743" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/372731" target="_blank"&gt;阅读原文 3&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1685530?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/372801" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/372767" target="_blank"&gt;阅读原文 3&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
- &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;被迫下场，Anthropic 推出个人 AI 助理 Claude Duet&lt;/div&gt;
- &lt;div class="topic-content"&gt;作者｜桦林舞王
-编辑｜靖宇
-用过各种 AI 助手的人大概都有过同一种疲劳：你不开口，它就装死；你一旦开口，它又把所有选择抛回给你。
-过去两个多月，硅谷巨头们几乎排着队想打破这种被动状态。8 月 xAI 推出能多智能体分工的 Grok Bot，9 月 Meta 带着能在 WhatsApp 里帮人砍账单的 Muse 席卷千万用户，紧接着 OpenAI 在开发者大会上发布 Dots。行业似乎达成了一个默...&lt;/div&gt;
+ &lt;div class="topic" id="topic-2"&gt;
+ &lt;div class="topic-title"&gt;中国 AI 硬件的下一个爆款，可能生在「网球场」&lt;/div&gt;
+ &lt;div class="topic-content"&gt;头图来源：Hirdwire2024 年巴黎奥运会，郑钦文在罗兰·加洛斯捧起金牌的那个下午，中国的网球场预订量在一周内翻了数倍。两年后，最先把这股热潮变成生意的，是一群造机器的深圳工程师。过去一年，至少四款中国团队打造的 AI 球类机器人在 Kickstarter 上筹得百万美元级资金。庞伯特以 26255% 的超募率卷走 265 万美元；智能家居大厂 SwitchBot 推出的 Acemate 3...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/372740" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/372807" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="topic" id="topic-3"&gt;
+ &lt;div class="topic-title"&gt;硅谷爆火的两万块智能床，是智商税吗？我睡了 100 天&lt;/div&gt;
+ &lt;div class="topic-content"&gt;两万元，一个床套。
+这可能是极客公园史上体验过单价最高的消费级产品之一。
+我终于也睡上了马斯克、扎克伯格同款的床。Eight Sleep，这个曾被一众硅谷大佬点赞过的品牌，在今年 4 月正式进入中国市场。短短半年时间里，Pod 5 在国内 INNO 100 平台上卖出了 600 万元，随后它又迅速推出新一代产品 Pod 6，参数升级，还补上了单人尺寸。
+很多中国家庭的卧室里，床垫往往是最舍得花钱的...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+ &lt;div class="topic-links"&gt;
+ &lt;a href="http://www.geekpark.net/news/372805" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;我用 iPhone Duo 刷小红书、淘宝、飞书，发现作用不只是装「阔」&lt;/div&gt;
- &lt;div class="topic-content"&gt;头图图片来源：极客公园我在 iPhone Duo 上，把淘宝、高德、小红书、腾讯视频、飞书、WPS、XMind，还有篮球游戏 NBA 巅峰对决，这 8 个为它做过适配的 App 挨个用了一遍。淘宝从首页到客服消息，整条购物链路都动过；高德把路线和地图拆成了左右两半；小红书的笔记，变成了左边看图、右边看正文和评论。这台手机的国行首批预订已经售罄。据环球时报 10 月 17 日的报道，苹果官网显示的预...&lt;/div&gt;
+ &lt;div class="topic-title"&gt;造物 100 #10｜百万众筹的和弦合成器、52kHz 超声波去污笔、能打电话的奥特曼 AI 玩具&lt;/div&gt;
+ &lt;div class="topic-content"&gt;这周苹果发了新一代 HomePod mini，149 美元，10 月 30 日开卖，真正的新 Siri 要等之后的软件更新才到。科技巨头正抢着在假日季前，把 AI 小设备摆上货架。
+大公司的打法很统一，先造一个入口，再把 AI 慢慢塞进去。但这周名单里的产品，走的是另一条路。NOPIA 把乐理做了只有一个八度的键盘，按一个键出一整个和弦。InstaSpot 把超声波清洗机缩成一支 65 克的笔。N...&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/372710" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/372803" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-10-22-59457775</guid>
-      <pubDate>Thu, 22 Oct 2026 17:02:36 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-10-23-ddb2c31e</guid>
+      <pubDate>Fri, 23 Oct 2026 16:57:45 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日科技新闻聚合</title>
-    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-11-17</description>
+    <description>聚合爱范儿、极客公园的每日科技新闻 - 2026-11-18</description>
     <link>https://hybridrbt.github.io/rss-merger</link>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 17 Nov 2026 20:38:49 +0800</lastBuildDate>
-    <pubDate>Tue, 17 Nov 2026 20:38:49 +0800</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2026 20:30:20 +0800</lastBuildDate>
+    <pubDate>Wed, 18 Nov 2026 20:30:20 +0800</pubDate>
     <atom:link href="https://hybridrbt.github.io/rss-merger/final_rss.xml" rel="self" type="application/rss+xml" />
     <generator>新闻聚合器</generator>
     <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     <item>
-      <title>每日科技新闻聚合 - 2026-11-17</title>
+      <title>每日科技新闻聚合 - 2026-11-18</title>
       <description>&lt;![CDATA[&lt;!DOCTYPE html&gt;
 &lt;html lang="zh-CN"&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
- &lt;title&gt;每日科技新闻聚合 - 2026-11-17&lt;/title&gt;
+ &lt;title&gt;每日科技新闻聚合 - 2026-11-18&lt;/title&gt;
 &lt;style&gt;
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
 h1 { color: #333; border-bottom: 2px solid #007acc; padding-bottom: 10px; }
@@ -37,68 +37,65 @@ h2 { color: #007acc; margin-top: 30px; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;h1&gt;每日科技新闻聚合 - 2026-11-17&lt;/h1&gt;
- &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年11月17日 20:38:49 CST&lt;/p&gt;
+&lt;h1&gt;每日科技新闻聚合 - 2026-11-18&lt;/h1&gt;
+ &lt;p&gt;&lt;strong&gt;更新时间:&lt;/strong&gt; 2026年11月18日 20:30:20 CST&lt;/p&gt;
 &lt;div class="toc"&gt;
 &lt;h3&gt;📋 今日话题目录&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="#topic-1"&gt;全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」 (7篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-2"&gt;腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代 (2篇文章)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-3"&gt;12.69 万的「穷人版卫士」，成了中国汽车出海的「老鼠屎」&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#topic-4"&gt;最大规模具身大模型挑战赛落幕，48 小时真机总决赛比出了什么？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-1"&gt;GPT-6.2 Astra 刚发布即遭大量差评，实测后我觉得它有点冤 (4篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-2"&gt;OpenAI 发布 GPT-6.2 Astra 和 Sol；王兴兴：家用机器人或将迎来技术突破；《G... (3篇文章)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-3"&gt;曾经的纯电超跑之王 Rimac Nevera 宣布停产，CEO 转头造出了 16 缸的布加迪新旗舰&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#topic-4"&gt;早报｜黄仁勋称愿重返英伟达/李飞飞加入AMD，向苏姿丰直接汇报/红果短剧治理肖像侵权&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2&gt;🔥 主要话题&lt;/h2&gt;
  &lt;div class="topic" id="topic-1"&gt;
- &lt;div class="topic-title"&gt;全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」&lt;/div&gt;
- &lt;div class="topic-content"&gt;作者｜桦林舞王
-编辑｜靖宇
-底座架构重写，单任务成本暴降近六成，阿里把旗舰模型拉进了真实排班表。
-终于，一款国产旗舰模型现身了。
-11 月 16 日，阿里千问正式发布新一代旗舰模型 Qwen4-Max。就在五天前，它的预览版 qwen4-max-preview 刚在 Token Plan 里低调露过面，今天正式版直接亮出了完整底牌。
-新模型依然维持着 2.4 万亿（2.4T）的主干总参数规模，原生...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了7篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-title"&gt;GPT-6.2 Astra 刚发布即遭大量差评，实测后我觉得它有点冤&lt;/div&gt;
+ &lt;div class="topic-content"&gt;最聪明的模型，未必是最好用的模型；最好用的模型，也未必需要证明自己最聪明。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿 (合并了4篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1689832?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1689638?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
- &lt;a href="https://www.ifanr.com/1689760?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 3&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1690168?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1690130?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1690103?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 3&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;div class="topic" id="topic-2"&gt;
- &lt;div class="topic-title"&gt;腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代&lt;/div&gt;
- &lt;div class="topic-content"&gt;作者｜Cynthia
-编辑｜郑玄
-过日子的风，还是吹到了大模型行业。
-2026 年之前，一款模型能不能刷屏，往往取决于它又做到了什么。GPT-4o 的实时语音交互、Claude 的编程能力、DeepSeek R1 的推理表现，一度轮番成为讨论焦点。一款新模型发布，大家首先关心的是它超过了谁，又做到了什么过去做不到的事。
-但到了 2026 年，Agent 真正流行起来之后，风向开始变了。SOTA 模...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了2篇相关文章)&lt;/div&gt;
+ &lt;div class="topic-title"&gt;OpenAI 发布 GPT-6.2 Astra 和 Sol；王兴兴：家用机器人或将迎来技术突破；《GTA 6》开发商批评 AI 公司放任游戏仿制行为｜极客早知道&lt;/div&gt;
+ &lt;div class="topic-content"&gt;
+OpenAI 发布 GPT-6.2 Astra 和 Sol，强化编程、电脑操作与专业工作
+OpenAI 正式发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款模型，重点提升专业任务、Coding、电脑操作和执行效率，并降低部分使用成本。新模型将应用于 ChatGPT Work、Codex 和 API。
+其中，Astra 面向复杂编程和专业工作，Sol 则更强调日常多模态任务及工具...&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿, 极客公园 (合并了3篇相关文章)&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1689869?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
- &lt;a href="http://www.geekpark.net/news/374083" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1690033?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文 1&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/374125" target="_blank"&gt;阅读原文 2&lt;/a&gt;
+ &lt;a href="http://www.geekpark.net/news/374109" target="_blank"&gt;阅读原文 3&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;h2&gt;📰 其他新闻&lt;/h2&gt;
  &lt;div class="topic" id="topic-3"&gt;
- &lt;div class="topic-title"&gt;12.69 万的「穷人版卫士」，成了中国汽车出海的「老鼠屎」&lt;/div&gt;
- &lt;div class="topic-content"&gt;一人犯错，全员受罚。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-title"&gt;曾经的纯电超跑之王 Rimac Nevera 宣布停产，CEO 转头造出了 16 缸的布加迪新旗舰&lt;/div&gt;
+ &lt;div class="topic-content"&gt;Rimac 已经拿到了大结果。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
  &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="https://www.ifanr.com/1689792?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1690064?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;div class="topic" id="topic-4"&gt;
- &lt;div class="topic-title"&gt;最大规模具身大模型挑战赛落幕，48 小时真机总决赛比出了什么？&lt;/div&gt;
- &lt;div class="topic-content"&gt;开发者围绕同一块基础模型进行实验，让模型直面成功的方法、失败的经验和真实世界的问题。作者｜Li Yuan编辑｜郑玄最大规模具身大模型挑战赛总决赛结果出炉，排名第三的队伍 SST 只额外采集了 13 条数据。他们没有大量补数据，而是让 DeepSeek 先理解任务，再用视觉分割模型标出目标物体，最后交给 LingBot-VLA 2.0 完成动作，并在真机评测中拿到 65.87 分。通用大模型与具身模...&lt;/div&gt;
- &lt;div class="topic-meta"&gt;来源: 极客公园&lt;/div&gt;
+ &lt;div class="topic-title"&gt;早报｜黄仁勋称愿重返英伟达/李飞飞加入AMD，向苏姿丰直接汇报/红果短剧治理肖像侵权&lt;/div&gt;
+ &lt;div class="topic-content"&gt;· 英伟达季度营收首次突破千亿美元，数据中心收入增长 110%
+· TGA 2026 公布提名，《GTA 6》领跑、《影之刃零》角逐年度游戏
+· macOS 27.3 收紧 App 文件访问权限#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&lt;/div&gt;
+ &lt;div class="topic-meta"&gt;来源: 爱范儿&lt;/div&gt;
  &lt;div class="topic-links"&gt;
- &lt;a href="http://www.geekpark.net/news/374103" target="_blank"&gt;阅读原文&lt;/a&gt;
+ &lt;a href="https://www.ifanr.com/1689915?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=" target="_blank"&gt;阅读原文&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;]]&gt;</description>
       <link>https://hybridrbt.github.io/rss-merger/final_daily_news.html</link>
-      <guid isPermaLink="false">aggregated-news-2026-11-17-cf18e89d</guid>
-      <pubDate>Tue, 17 Nov 2026 20:38:49 +0800</pubDate>
+      <guid isPermaLink="false">aggregated-news-2026-11-18-db6c4cad</guid>
+      <pubDate>Wed, 18 Nov 2026 20:30:20 +0800</pubDate>
       <source url="https://hybridrbt.github.io/rss-merger">新闻聚合器</source>
     </item>
   </channel>
